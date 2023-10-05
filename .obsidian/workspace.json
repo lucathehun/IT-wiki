@@ -11,8 +11,12 @@
             "id": "5dfe78324472e58b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "INFRA/Short for/DNS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INFRA/Short for/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "INFRA/Short for/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "INFRA/Short for/DNS.md"
+              }
             }
           }
         ]
@@ -139,28 +147,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dfe78324472e58b",
+  "active": "750cc222c2557622",
   "lastOpenFiles": [
+    "Attachments",
+    "INFRA/Untitled.md",
+    "INFRA/Short for/DNS.md",
+    "INFRA/Short for/LDAP.md",
+    "INFRA/Active Directory (AD)/AD Datenbank.md",
+    "INFRA/Short for/DHCP.md",
+    "INFRA/Short for/FQDN.md",
+    "INFRA/Short for",
+    "INFRA/Active Directory (AD)/Set up AD.md",
+    "INFRA/Operating Systems (OS)/Set up OS.md",
+    "INFRA/Virtual Machines (VM)/Set up HV.md",
+    "INFRA/Active Directory (AD)/Überblick über Active Directory.md",
+    "INFRA/Active Directory (AD)/Trust.md",
+    "INFRA/Active Directory (AD)/Tree.md",
+    "INFRA/Active Directory (AD)/Forest.md",
     "INFRA/Operating Systems (OS)/Introduction OS.md",
     "INFRA/Virtual Machines (VM)/Introduction HV.md",
     "README.md",
-    "INFRA/Active Directory (AD)/Forest.md",
-    "INFRA/Active Directory (AD)/Set up AD.md",
-    "INFRA/Active Directory (AD)/Active Directory Datenbank.md",
-    "INFRA/Operating Systems (OS)/Set up OS.md",
-    "INFRA/DNS.md",
-    "INFRA/Active Directory (AD)/Überblick über Active Directory.md",
-    "INFRA/Active Directory (AD)/Tree.md",
-    "INFRA/Active Directory (AD)/Trust.md",
     "Infra/Directory.md",
     "INFRA",
     "Infra/Untitled.md",
-    "INFRA/DHCP.md",
-    "INFRA/FQDN.md",
     "Fachausdrücke/LAP.md",
     "Infra/Fachausdrücke",
     "Active Directory (AD)/Forests, Trees  and Trusts.md",
-    "INFRA/Virtual Machines (VM)/Set up HV.md",
     "INFRA/Operating Systems (OS)",
     "INFRA/Active Directory (AD)",
     "INFRA/Virtual Machines (VM)",

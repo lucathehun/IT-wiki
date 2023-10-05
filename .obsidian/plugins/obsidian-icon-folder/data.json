@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarShareFromSquare",
+      "FarCommentDots",
       "FarRectangleList",
       "FarIdBadge",
-      "FarCompass",
-      "FarHardDrive"
+      "FarCompass"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,5 +25,7 @@
   "INFRA/Operating Systems (OS)": "FarCompass",
   "INFRA/Active Directory (AD)": "FarHardDrive",
   "INFRA/Virtual Machines (VM)": "FarIdBadge",
-  "INFRA": "FarRectangleList"
+  "INFRA": "FarRectangleList",
+  "INFRA/Short for": "FarCommentDots",
+  "Attachments": "FarShareFromSquare"
 }
