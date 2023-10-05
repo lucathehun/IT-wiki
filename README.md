@@ -35,8 +35,9 @@ git clone repository_url
    - Click on "Open another vault."
    - Select your Obsidian vault directory (the one containing the cloned Git repository).
    - Obsidian will refresh your vault and load the new markdown files from the Git repository.
+   - Download the "Obsidian Git" community plugin to use git commands in obsidian. 
 
 10. **Start Using Your Notes**:
-	- You should now see and be able to edit the markdown files from the cloned Git repository in Obsidian.
+   - You should now see and be able to edit the markdown files from the cloned Git repository in Obsidian.
 
 Now, you have successfully cloned a Git repository into Obsidian. You can create, edit, and manage your notes within Obsidian while keeping track of changes using Git. Remember to commit and push changes to the repository using Git commands when you make updates to your notes.

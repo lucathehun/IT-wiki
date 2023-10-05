@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6edfc496abd99362",
+        "id": "b63a01326bf7f07f",
         "type": "tabs",
         "children": [
           {
-            "id": "dda390da67c58316",
+            "id": "5dfe78324472e58b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infra/Active Directory (AD)/Forest.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infra/Active Directory (AD)/Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infra/Active Directory (AD)/Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Infra/Active Directory (AD)/Forest.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,31 +139,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dda390da67c58316",
+  "active": "5dfe78324472e58b",
   "lastOpenFiles": [
-    "Infra/Active Directory (AD)/Set up AD.md",
-    "Infra/Active Directory (AD)/Forest.md",
-    "Infra/Active Directory (AD)/Active Directory Datenbank.md",
-    "Infra/Operating Systems (OS)/Set up OS.md",
-    "Infra/DNS.md",
-    "Infra/Active Directory (AD)/Überblick über Active Directory.md",
-    "Infra/Active Directory (AD)/Tree.md",
+    "INFRA/Operating Systems (OS)/Introduction OS.md",
+    "INFRA/Virtual Machines (VM)/Introduction HV.md",
     "README.md",
-    "Infra/Active Directory (AD)/Trust.md",
+    "INFRA/Active Directory (AD)/Forest.md",
+    "INFRA/Active Directory (AD)/Set up AD.md",
+    "INFRA/Active Directory (AD)/Active Directory Datenbank.md",
+    "INFRA/Operating Systems (OS)/Set up OS.md",
+    "INFRA/DNS.md",
+    "INFRA/Active Directory (AD)/Überblick über Active Directory.md",
+    "INFRA/Active Directory (AD)/Tree.md",
+    "INFRA/Active Directory (AD)/Trust.md",
     "Infra/Directory.md",
-    "Infra",
+    "INFRA",
     "Infra/Untitled.md",
-    "Infra/DHCP.md",
-    "Infra/FQDN.md",
+    "INFRA/DHCP.md",
+    "INFRA/FQDN.md",
     "Fachausdrücke/LAP.md",
     "Infra/Fachausdrücke",
     "Active Directory (AD)/Forests, Trees  and Trusts.md",
-    "Infra/Virtual Machines (VM)/Introduction HV.md",
-    "Infra/Virtual Machines (VM)/Set up HV.md",
-    "Infra/Operating Systems (OS)/Introduction OS.md",
-    "Infra/Operating Systems (OS)",
-    "Infra/Active Directory (AD)",
-    "Infra/Virtual Machines (VM)",
+    "INFRA/Virtual Machines (VM)/Set up HV.md",
+    "INFRA/Operating Systems (OS)",
+    "INFRA/Active Directory (AD)",
+    "INFRA/Virtual Machines (VM)",
     "obsidianINFRA/README.md",
     "obsidianINFRA"
   ]

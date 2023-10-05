@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarRectangleList",
+      "FarIdBadge",
+      "FarCompass",
+      "FarHardDrive"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "INFRA/Operating Systems (OS)": "FarCompass",
+  "INFRA/Active Directory (AD)": "FarHardDrive",
+  "INFRA/Virtual Machines (VM)": "FarIdBadge",
+  "INFRA": "FarRectangleList"
+}
