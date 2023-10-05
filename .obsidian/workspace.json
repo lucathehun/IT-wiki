@@ -119,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Contents/Virtual Machines (VM)/VM.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "750cc222c2557622",
+  "active": "ebef266f8c74401d",
   "lastOpenFiles": [
-    "Contents/Short for/LDAP.md",
     "Contents/Virtual Machines (VM)/VM.md",
+    "Contents/Short for/LDAP.md",
     "Contents/Short for/FQDN.md",
     "Contents/Short for/DNS.md",
     "Contents/Short for/DHCP.md",
