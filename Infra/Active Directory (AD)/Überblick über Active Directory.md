@@ -52,6 +52,6 @@ Server Message Block (SMB), auch als Common Internet File System (CIFS) und frü
 
 Es ist der Kern der Netzdienste von Microsofts LAN-Manager, der Windows-Produktfamilie sowie des LAN Servers von IBM. Weiters wird es von den frei verfügbaren Softwareprojekten Samba und Samba-TNG verwendet, um Windows-Systemen den Zugriff auf Ressourcen von Unix-basierten Systemen zu ermöglichen und umgekehrt.  
 
-[[DNS|_Domain Name System:_]]
+[[DNS|Domain Name System:]]
 
 DNS ist eine der wichtigsten Komponenten, gerade im Hinblick auf die Clientintegration in die Domäne. AD benötigt einen eigenen DNS-Server, welcher über korrekt konfigurierte SRV-Einträge verfügen muss. Weiterhin kann AD auch mit NETBIOS und WINS umgehen, schon allein aus Gründen der Kompatibilität.
