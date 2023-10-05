@@ -11,12 +11,8 @@
             "id": "ebef266f8c74401d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFRA/Hardware/GPU.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFRA/Hardware/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFRA/Hardware/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INFRA/Hardware/GPU.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebef266f8c74401d",
+  "active": "750cc222c2557622",
   "lastOpenFiles": [
     "INFRA/Hardware/HDD.md",
     "INFRA/Hardware/GPU.md",
