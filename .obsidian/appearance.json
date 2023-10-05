@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "monospaceFontFamily": "3270 Nerd Font Mono",
-  "baseFontSize": 20
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "3270 Nerd Font Mono,Cascadia Code",
+  "baseFontSize": 16
 }
