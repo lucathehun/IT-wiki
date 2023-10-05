@@ -1,0 +1,8 @@
+In [[Überblick über Active Directory | Aktive Directory]] ist ein Tree  eine Struktur oder Hierarchie von Domänen, die miteinander in einer logischen Beziehung stehen. Dieses Konzept ermöglicht die Organisation von Domänen in einer Art 
+Main-Tree oder Hierarchie, wobei eine Domäne die übergeordnete Domäne für andere Domänen sein kann.
+
+Ein Active Directory-Tree besteht aus einer Wurzeldomäne und möglicherweise mehreren untergeordneten Domänen. Die Wurzeldomäne ist die oberste Domäne in der Hierarchie, und untergeordnete Domänen werden von ihr abgeleitet. Jede Domäne in einem Tree teilt eine gemeinsame Namensraum und einen gemeinsamen Schema-Katalog. Dies bedeutet, dass Benutzer, Ressourcen und Sicherheitsrichtlinien in einem Tree gemeinsam genutzt werden können, was die Verwaltung und Organisation von Ressourcen in einer Windows-basierten Netzwerkumgebung erleichtert.
+
+Ein Active Directory-Tree kann sich auch mit anderen Bäumen zu einem sogenannten [[Forest]] zusammenschließen. Ein Forest ist eine Sammlung von Bäumen, die miteinander vertraut sind und eine gemeinsame Sicherheitsstruktur teilen. Dies ermöglicht die Zusammenarbeit und den Datenaustausch zwischen verschiedenen Teilen einer Organisation oder zwischen verschiedenen Organisationen, wenn ein Vertrauensverhältnis zwischen den Bäumen oder Wäldern eingerichtet ist.
+
+Zusammenfassend ist ein Tree in Active Directory eine hierarchische Struktur von Domänen, die gemeinsame Ressourcen und Sicherheitseinstellungen teilen, und diese Bäume können sich zu einem Forest zusammenschließen, um eine erweiterte Vertrauensbeziehung und Integration zu ermöglichen.
