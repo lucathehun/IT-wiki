@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Short for/LDAP.md",
+                "file": "Contents/Virtual Machines (VM)/VM.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Short for/LDAP.md",
+                "file": "Contents/Virtual Machines (VM)/VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Short for/LDAP.md",
+                "file": "Contents/Virtual Machines (VM)/VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Short for/LDAP.md"
+                "file": "Contents/Virtual Machines (VM)/VM.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "ebef266f8c74401d",
   "lastOpenFiles": [
+    "Contents/Short for/LDAP.md",
+    "Contents/Virtual Machines (VM)/VM.md",
     "Contents/Short for/FQDN.md",
     "Contents/Short for/DNS.md",
     "Contents/Short for/DHCP.md",
@@ -176,8 +178,6 @@
     "INFRA/Short for",
     "INFRA/Virtual Machines (VM)/Set up HV.md",
     "INFRA/Active Directory (AD)/Überblick über Active Directory.md",
-    "INFRA/Active Directory (AD)/Tree.md",
-    "INFRA/Active Directory (AD)/Forest.md",
     "INFRA",
     "Infra/Fachausdrücke",
     "INFRA/Operating Systems (OS)",
