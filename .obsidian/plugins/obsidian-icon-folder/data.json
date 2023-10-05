@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarKeyboard",
       "FarShareFromSquare",
       "FarCommentDots",
       "FarRectangleList",
-      "FarIdBadge",
-      "FarCompass"
+      "FarIdBadge"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,6 @@
   "INFRA/Virtual Machines (VM)": "FarIdBadge",
   "INFRA": "FarRectangleList",
   "INFRA/Short for": "FarCommentDots",
-  "Attachments": "FarShareFromSquare"
+  "Attachments": "FarShareFromSquare",
+  "INFRA/Hardware": "FarKeyboard"
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b63a01326bf7f07f",
+        "id": "92710be28c746aae",
         "type": "tabs",
         "children": [
           {
-            "id": "5dfe78324472e58b",
+            "id": "ebef266f8c74401d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md",
+                "file": "INFRA/Hardware/GPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md",
+                "file": "INFRA/Hardware/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md",
+                "file": "INFRA/Hardware/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md"
+                "file": "INFRA/Hardware/GPU.md"
               }
             }
           }
@@ -147,15 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dfe78324472e58b",
+  "active": "ebef266f8c74401d",
   "lastOpenFiles": [
-    "INFRA/Operating Systems (OS)/Set up OS.md",
-    "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md",
+    "INFRA/Hardware/HDD.md",
+    "INFRA/Hardware/GPU.md",
     "INFRA/Operating Systems (OS)/Introduction OS.md",
+    "INFRA/Hardware/RAM.md",
+    "INFRA/Hardware/CPU.md",
+    "INFRA/Hardware",
+    "INFRA/Operating Systems (OS)/Set up OS.md",
+    "INFRA/Short for/DNS.md",
+    "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md",
     "README.md",
     "INFRA/Active Directory (AD)/Set up AD.md",
     "INFRA/Active Directory (AD)/Trust.md",
-    "INFRA/Short for/DNS.md",
     "INFRA/Short for/LDAP.md",
     "INFRA/Short for/FQDN.md",
     "INFRA/Short for/DHCP.md",
