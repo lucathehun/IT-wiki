@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "3270 Nerd Font Mono",
+  "baseFontSize": 20
 }

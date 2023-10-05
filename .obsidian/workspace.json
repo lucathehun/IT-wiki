@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1a16f96445345c08",
+        "id": "7db3df18cad6fee6",
         "type": "tabs",
         "children": [
           {
-            "id": "9951885e4a3f4aa0",
+            "id": "985159fe1492b53d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory (AD)/Introduction AD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Active Directory (AD)/Introduction AD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Active Directory (AD)/Introduction AD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Active Directory (AD)/Introduction AD.md"
+              }
             }
           }
         ]
@@ -139,16 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "750cc222c2557622",
+  "active": "985159fe1492b53d",
   "lastOpenFiles": [
+    "Active Directory (AD)/Set up AD.md",
+    "Active Directory (AD)/Introduction AD.md",
+    "README.md",
     "Operating Systems (OS)/Set up OS.md",
     "Virtual Machines (VM)/Introduction HV.md",
     "Virtual Machines (VM)/Set up HV.md",
-    "Active Directory (AD)/Set up AD.md",
     "Operating Systems (OS)/Introduction OS.md",
-    "Active Directory (AD)/Introduction AD.md",
     "Operating Systems (OS)",
-    "README.md",
     "Active Directory (AD)",
     "Virtual Machines (VM)",
     "obsidianINFRA/README.md",
