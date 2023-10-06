@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasDesktop",
+      "FarCompass",
+      "FarFileImage",
       "FarKeyboard",
-      "FarShareFromSquare",
-      "FarCommentDots",
-      "FarRectangleList",
-      "FarIdBadge"
+      "FarShareFromSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,6 +27,12 @@
   "INFRA/Virtual Machines (VM)": "FarIdBadge",
   "INFRA": "FarRectangleList",
   "INFRA/Short for": "FarCommentDots",
-  "Attachments": "FarShareFromSquare",
-  "INFRA/Hardware": "FarKeyboard"
+  "Attachments": "FarFileImage",
+  "INFRA/Hardware": "FarKeyboard",
+  "Contents": "FarRectangleList",
+  "Contents/Hardware": "FarKeyboard",
+  "Contents/Generell": "FarCommentDots",
+  "Contents/Active Directory (AD)": "FarShareFromSquare",
+  "Contents/Operating Systems (OS)": "FarCompass",
+  "Contents/Virtual Machines (VM)": "FasDesktop"
 }

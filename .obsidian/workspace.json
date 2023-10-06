@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Hardware/HDD-SSD.md",
+                "file": "Contents/Hardware/NIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Hardware/HDD-SSD.md",
+                "file": "Contents/Hardware/NIC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Hardware/HDD-SSD.md",
+                "file": "Contents/Hardware/NIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Hardware/HDD-SSD.md"
+                "file": "Contents/Hardware/NIC.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/Hardware/HDD-SSD.md",
-    "Contents/Operating Systems (OS)/Introduction OS.md",
-    "Contents/Hardware/GPU.md",
     "Contents/Hardware/CPU.md",
-    "Contents/Generell/DHCP.md",
+    "Contents/Hardware/NIC.md",
+    "Attachments",
+    "Contents/Hardware/GPU.md",
+    "Contents/Hardware/HDD-SSD.md",
     "Contents/Hardware/RAM.md",
+    "Contents/Operating Systems (OS)/Introduction OS.md",
+    "Contents/Generell/DHCP.md",
     "Contents/Generell/LDAP.md",
     "Contents/Generell/FQDN.md",
     "Contents/Generell/DNS.md",
@@ -175,7 +177,6 @@
     "INFRA/Active Directory (AD)/Set up AD.md",
     "INFRA/Active Directory (AD)/Trust.md",
     "INFRA/Short for/LDAP.md",
-    "INFRA/Short for/FQDN.md",
     "Attachments",
     "INFRA/Short for",
     "INFRA",
