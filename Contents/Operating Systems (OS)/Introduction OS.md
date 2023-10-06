@@ -17,7 +17,7 @@ Um das EVA-Prinzip umzusetzen, brauchen wir EINGABE (Mensch/Sensor/Kamera/etc.),
 
 Der komplexeste Teil hierbei ist die Recheneinheit und diese muss die meiste Arbeit hierbei leisten und besteht aus verschiedenen Komponenten.
 
-- Hardware [[CPU]], [[RAM]], [[HDD]], etc.
+- Hardware [[CPU]], [[RAM]], [[HDD-SSD]], etc.
 - Betriebssystem
 - Applikation 
 

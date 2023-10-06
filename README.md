@@ -19,6 +19,7 @@ cd /path/to/your/vault
 ```
 
 6. **Clone the Git Repository**:
+   - Create your own branch. 
    - Use the `git clone` command to clone the Git repository into your Obsidian vault directory. Replace `repository_url` with the actual URL of the Git repository you want to clone.
 ```PowerShell
 git clone repository_url

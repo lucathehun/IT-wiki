@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "92710be28c746aae",
+        "id": "a0c230755a401ffb",
         "type": "tabs",
         "children": [
           {
-            "id": "ebef266f8c74401d",
+            "id": "d6896b14c567c512",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Hardware/HDD-SSD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,8 +86,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Contents/Hardware/HDD-SSD.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Contents/Hardware/HDD-SSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Contents/Hardware/HDD-SSD.md"
+              }
             }
           }
         ]
@@ -139,15 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebef266f8c74401d",
+  "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/Virtual Machines (VM)/VM.md",
-    "Contents/Short for/LDAP.md",
-    "Contents/Short for/FQDN.md",
-    "Contents/Short for/DNS.md",
-    "Contents/Short for/DHCP.md",
-    "Contents/Operating Systems (OS)/Set up OS.md",
+    "Contents/Hardware/HDD-SSD.md",
     "Contents/Operating Systems (OS)/Introduction OS.md",
+    "Contents/Hardware/GPU.md",
+    "Contents/Hardware/CPU.md",
+    "Contents/Generell/DHCP.md",
+    "Contents/Hardware/RAM.md",
+    "Contents/Generell/LDAP.md",
+    "Contents/Generell/FQDN.md",
+    "Contents/Generell/DNS.md",
+    "Contents/Generell/Subnet Mask.md",
+    "README.md",
+    "Contents/Virtual Machines (VM)/VM.md",
+    "Contents/Operating Systems (OS)/Set up OS.md",
     "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
     "INFRA/Hardware/HDD.md",
     "INFRA/Hardware/GPU.md",
@@ -158,18 +172,12 @@
     "INFRA/Operating Systems (OS)/Set up OS.md",
     "INFRA/Short for/DNS.md",
     "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md",
-    "README.md",
     "INFRA/Active Directory (AD)/Set up AD.md",
     "INFRA/Active Directory (AD)/Trust.md",
     "INFRA/Short for/LDAP.md",
     "INFRA/Short for/FQDN.md",
-    "INFRA/Short for/DHCP.md",
     "Attachments",
-    "INFRA/Untitled.md",
-    "INFRA/Active Directory (AD)/AD Datenbank.md",
     "INFRA/Short for",
-    "INFRA/Virtual Machines (VM)/Set up HV.md",
-    "INFRA/Active Directory (AD)/Überblick über Active Directory.md",
     "INFRA",
     "Infra/Fachausdrücke",
     "INFRA/Operating Systems (OS)",
