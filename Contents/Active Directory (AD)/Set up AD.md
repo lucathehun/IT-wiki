@@ -1,11 +1,24 @@
-Here is a brief overview of the steps required to set up Active Directory:
+Hier ist eine kurze Übersicht der Schritte zur Einrichtung von Active Directory in deutscher Sprache:
 
-1. Install the Active Directory Domain Services (AD DS) role: To install the AD DS role, open the Server Manager console, select "Add roles and features," and follow the prompts.
-2. Promote the server to a domain controller: After installing the AD DS role, the server must be promoted to a domain controller. This can be done using the Active Directory Domain Services Configuration Wizard.
-3. Configure the domain settings: Once the server has been promoted to a domain controller, you can use the Active Directory Administrative Center to configure the domain settings. This includes setting up the forest and domain structure, defining the Active Directory schema, and creating the default domain policy.
-4. Create users, groups, and other objects in Active Directory: After the domain has been configured, you can create users, groups, and other objects in Active Directory. This can be done using the Active Directory Administrative Center or through PowerShell.
-5. Assign permissions to resources on the network: Finally, you can use Active Directory to assign permissions to network resources such as files and folders, printers, and other devices. This can be done using the Active Directory Users and Computers console.
+**Schritt 1: Windows Server installieren:**
+- Installieren Sie Windows Server auf einem geeigneten Computer oder einer virtuellen Maschine. Stellen Sie sicher, dass Sie eine Edition verwenden, die Active Directory unterstützt, wie z. B. Windows Server Standard oder Datacenter.
 
-In addition to its core functions, Active Directory can also be used to manage other network services, such as **DNS and DHCP**. DNS is used to resolve domain names to IP addresses, while DHCP is used to assign IP addresses and other network settings to devices on the network.
+**Schritt 2: Rolle hinzufügen:**
+- Öffnen Sie den Server-Manager und klicken Sie auf "Rollen und Features hinzufügen".
+- Wählen Sie die Option "Active Directory-Domänendienste" aus und folgen Sie den Anweisungen, um die Rolle zu installieren.
 
-Configuring these services within Active Directory can help simplify network management by centralizing administration and configuration. For example, configuring DNS within Active Directory can allow for dynamic updates and secure zone transfers, while using DHCP within Active Directory can provide centralized management of IP address leases and reservations.
+**Schritt 3: Active Directory-Domänendienste konfigurieren:**
+- Nach der Installation der Rolle starten Sie den Server-Manager und klicken Sie auf "Active Directory-Domänendienste" unter "Tools".
+- Folgen Sie dem Konfigurationsassistenten, um eine neue Active Directory-Domäne zu erstellen oder sich einer bestehenden Domäne anzuschließen.
+
+**Schritt 4: Domänencontroller einrichten:**
+- Wählen Sie die Option, einen Domänencontroller zu erstellen, und folgen Sie den Anweisungen, um die Konfiguration abzuschließen.
+- Sie müssen einen Namen für Ihre Domäne wählen und ein Administratorpasswort festlegen.
+
+**Schritt 5: Active Directory-Domänendienste verwenden:**
+- Nachdem der Domänencontroller eingerichtet ist, können Sie Active Directory-Domänendienste verwenden, um Benutzerkonten, Gruppenrichtlinien, Organisationsstrukturen und andere Domänenobjekte zu verwalten.
+- Verwenden Sie die Active Directory-Verwaltungstools, um Benutzer und Computer hinzuzufügen, Gruppenrichtlinien zu erstellen und Sicherheitseinstellungen zu konfigurieren.
+
+**Schritt 6: Sicherung und Wartung:**
+- Stellen Sie sicher, dass Sie regelmäßige Sicherungen Ihrer Active Directory-Struktur durchführen, um Datenverlust zu verhindern.
+- Planen Sie regelmäßige Wartungsaufgaben, um die Gesundheit Ihrer Active Directory-Umgebung sicherzustellen.

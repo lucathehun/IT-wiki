@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
+                "file": "Contents/Active Directory (AD)/Set up AD.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
+                "file": "Contents/Active Directory (AD)/Set up AD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
+                "file": "Contents/Active Directory (AD)/Set up AD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Set up OS Step by Step.md"
+                "file": "Contents/Active Directory (AD)/Set up AD.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
+    "Contents/Active Directory (AD)/Forest.md",
+    "Contents/Active Directory (AD)/AD Datenbank.md",
+    "Contents/Active Directory (AD)/Überblick über Active Directory.md",
+    "Contents/Active Directory (AD)/Trust.md",
+    "Contents/Active Directory (AD)/Tree.md",
+    "Contents/Active Directory (AD)/Set up AD.md",
     "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
+    "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
     "Contents/Operating Systems (OS)/Introduction OS.md",
     "Contents/Virtual Machines (VM)/Introduction HV.md",
     "Contents/Virtual Machines (VM)/Set up HV.md",
@@ -170,13 +176,7 @@
     "INFRA/Hardware/HDD.md",
     "INFRA/Hardware/GPU.md",
     "INFRA/Operating Systems (OS)/Introduction OS.md",
-    "INFRA/Hardware/RAM.md",
-    "INFRA/Hardware/CPU.md",
     "INFRA/Hardware",
-    "INFRA/Operating Systems (OS)/Set up OS.md",
-    "INFRA/Short for/DNS.md",
-    "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md",
-    "INFRA/Active Directory (AD)/Set up AD.md",
     "Contents/4.Attachments",
     "INFRA/Short for",
     "INFRA",
