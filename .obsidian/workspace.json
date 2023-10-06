@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Introduction OS.md",
+                "file": "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Introduction OS.md",
+                "file": "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Introduction OS.md",
+                "file": "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Introduction OS.md"
+                "file": "Contents/Operating Systems (OS)/Set up OS Step by Step.md"
               }
             }
           }
@@ -149,13 +149,17 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
+    "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
+    "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
+    "Contents/Operating Systems (OS)/Introduction OS.md",
+    "Contents/Virtual Machines (VM)/Introduction HV.md",
+    "Contents/Virtual Machines (VM)/Set up HV.md",
     "Contents/Hardware/NIC.md",
     "Contents/Hardware/CPU.md",
     "Contents/4.Attachments",
     "Contents/Hardware/GPU.md",
     "Contents/Hardware/HDD-SSD.md",
     "Contents/Hardware/RAM.md",
-    "Contents/Operating Systems (OS)/Introduction OS.md",
     "Contents/Generell/DHCP.md",
     "Contents/Generell/LDAP.md",
     "Contents/Generell/FQDN.md",
@@ -163,8 +167,6 @@
     "Contents/Generell/Subnet Mask.md",
     "README.md",
     "Contents/Virtual Machines (VM)/VM.md",
-    "Contents/Operating Systems (OS)/Set up OS.md",
-    "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
     "INFRA/Hardware/HDD.md",
     "INFRA/Hardware/GPU.md",
     "INFRA/Operating Systems (OS)/Introduction OS.md",
@@ -175,8 +177,6 @@
     "INFRA/Short for/DNS.md",
     "INFRA/Operating Systems (OS)/Grundlegende Funktionen.md",
     "INFRA/Active Directory (AD)/Set up AD.md",
-    "INFRA/Active Directory (AD)/Trust.md",
-    "INFRA/Short for/LDAP.md",
     "Contents/4.Attachments",
     "INFRA/Short for",
     "INFRA",
