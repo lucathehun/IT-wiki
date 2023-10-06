@@ -27,12 +27,12 @@
   "INFRA/Virtual Machines (VM)": "FarIdBadge",
   "INFRA": "FarRectangleList",
   "INFRA/Short for": "FarCommentDots",
-  "Attachments": "FarFileImage",
   "INFRA/Hardware": "FarKeyboard",
   "Contents": "FarRectangleList",
   "Contents/Hardware": "FarKeyboard",
   "Contents/Generell": "FarCommentDots",
   "Contents/Active Directory (AD)": "FarShareFromSquare",
   "Contents/Operating Systems (OS)": "FarCompass",
-  "Contents/Virtual Machines (VM)": "FasDesktop"
+  "Contents/Virtual Machines (VM)": "FasDesktop",
+  "Attachments": "FarFileImage"
 }
