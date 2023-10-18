@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarAddressBook",
       "FasDesktop",
       "FarCompass",
       "FarFileImage",
-      "FarKeyboard",
-      "FarShareFromSquare"
+      "FarKeyboard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,6 @@
   "Contents/Active Directory (AD)": "FarShareFromSquare",
   "Contents/Operating Systems (OS)": "FarCompass",
   "Contents/Virtual Machines (VM)": "FasDesktop",
-  "Contents/4.Attachments": "FarFileImage"
+  "Contents/4.Attachments": "FarFileImage",
+  "Contents/IP": "FarAddressBook"
 }
