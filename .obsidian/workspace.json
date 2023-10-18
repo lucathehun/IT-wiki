@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
+                "file": "Contents/IP/IPv4 Klassen.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
+                "file": "Contents/IP/IPv4 Klassen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
+                "file": "Contents/IP/IPv4 Klassen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Grundlegende Funktionen.md"
+                "file": "Contents/IP/IPv4 Klassen.md"
               }
             }
           }
@@ -149,12 +149,15 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/Operating Systems (OS)/Introduction OS.md",
+    "Contents/IP/APIPA-Bereich.md",
+    "Contents/IP/IPv4 Klassen.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
+    "Contents/IP",
+    "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
+    "Contents/Operating Systems (OS)/Introduction OS.md",
     "Contents/Virtual Machines (VM)/Set up HV.md",
     "Contents/Virtual Machines (VM)/Introduction HV.md",
     "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
-    "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
     "Contents/Hardware/RAM.md",
     "Contents/Hardware/NIC.md",
     "Contents/Hardware/HDD-SSD.md",
@@ -174,8 +177,6 @@
     "Contents/4.Attachments",
     "README.md",
     "Contents/Virtual Machines (VM)/VM.md",
-    "INFRA/Hardware/HDD.md",
-    "INFRA/Hardware/GPU.md",
     "INFRA/Hardware",
     "Contents/4.Attachments",
     "INFRA/Short for",
@@ -183,7 +184,6 @@
     "Infra/Fachausdrücke",
     "INFRA/Operating Systems (OS)",
     "INFRA/Active Directory (AD)",
-    "INFRA/Virtual Machines (VM)",
-    "obsidianINFRA"
+    "INFRA/Virtual Machines (VM)"
   ]
 }
