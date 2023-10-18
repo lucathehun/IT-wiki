@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/IP/IPv4 Klassen.md",
+                "file": "Contents/IP/APIPA-Bereich.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/IPv4 Klassen.md",
+                "file": "Contents/IP/APIPA-Bereich.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/IPv4 Klassen.md",
+                "file": "Contents/IP/APIPA-Bereich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/IPv4 Klassen.md"
+                "file": "Contents/IP/APIPA-Bereich.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/IP/APIPA-Bereich.md",
     "Contents/IP/IPv4 Klassen.md",
+    "Contents/IP/APIPA-Bereich.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/IP",
     "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
