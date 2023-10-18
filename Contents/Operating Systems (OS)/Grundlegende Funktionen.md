@@ -7,3 +7,9 @@
 - Abstraktion des Systems   
   (Das bedeutet das Verbergen der Komplexität des Systems vor dem Benutzer)
 - Bereitstellung normierter Programmschnittstellen (API)
+
+Warum Pro statt Home 
+- Active Directory Integration 
+- Bitlocker (Festplattenverschlüsselung)
+- Hyper-V Manger 
+- Remote Desktop
