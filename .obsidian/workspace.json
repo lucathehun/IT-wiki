@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Active Directory (AD)/Tree.md",
+                "file": "Contents/IP/IPv4 Klassen.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Active Directory (AD)/Tree.md",
+                "file": "Contents/IP/IPv4 Klassen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Active Directory (AD)/Tree.md",
+                "file": "Contents/IP/IPv4 Klassen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Active Directory (AD)/Tree.md"
+                "file": "Contents/IP/IPv4 Klassen.md"
               }
             }
           }
@@ -149,33 +149,34 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/Active Directory (AD)/Set up AD.md",
-    "Contents/Active Directory (AD)/LDAP.md",
-    "Contents/Active Directory (AD)/DNS.md",
+    "Contents/IP/APIPA-Bereich.md",
+    "Contents/IP/IPv4 Klassen.md",
+    "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
+    "Contents/IP",
+    "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
+    "Contents/Operating Systems (OS)/Introduction OS.md",
+    "Contents/Virtual Machines (VM)/Set up HV.md",
+    "Contents/Virtual Machines (VM)/Introduction HV.md",
+    "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
+    "Contents/Hardware/RAM.md",
+    "Contents/Hardware/NIC.md",
+    "Contents/Hardware/HDD-SSD.md",
+    "Contents/Hardware/CPU.md",
+    "Contents/Hardware/GPU.md",
+    "Contents/Generell/Subnet Mask.md",
     "Contents/Generell/FQDN.md",
-    "Contents/Active Directory (AD)/Forest.md",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
+    "Contents/Generell/DHCP.md",
     "Contents/Active Directory (AD)/Überblick über Active Directory.md",
     "Contents/Active Directory (AD)/Trust.md",
     "Contents/Active Directory (AD)/Tree.md",
-    "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
-    "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
-    "Contents/Operating Systems (OS)/Introduction OS.md",
-    "Contents/Virtual Machines (VM)/Introduction HV.md",
-    "Contents/Virtual Machines (VM)/Set up HV.md",
-    "Contents/Hardware/NIC.md",
-    "Contents/Hardware/CPU.md",
+    "Contents/Active Directory (AD)/Set up AD.md",
+    "Contents/Active Directory (AD)/LDAP.md",
+    "Contents/Active Directory (AD)/Forest.md",
+    "Contents/Active Directory (AD)/DNS.md",
+    "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/4.Attachments",
-    "Contents/Hardware/GPU.md",
-    "Contents/Hardware/HDD-SSD.md",
-    "Contents/Hardware/RAM.md",
-    "Contents/Generell/DHCP.md",
-    "Contents/Generell/Subnet Mask.md",
     "README.md",
     "Contents/Virtual Machines (VM)/VM.md",
-    "INFRA/Hardware/HDD.md",
-    "INFRA/Hardware/GPU.md",
-    "INFRA/Operating Systems (OS)/Introduction OS.md",
     "INFRA/Hardware",
     "Contents/4.Attachments",
     "INFRA/Short for",
@@ -183,7 +184,6 @@
     "Infra/Fachausdrücke",
     "INFRA/Operating Systems (OS)",
     "INFRA/Active Directory (AD)",
-    "INFRA/Virtual Machines (VM)",
-    "obsidianINFRA"
+    "INFRA/Virtual Machines (VM)"
   ]
 }
