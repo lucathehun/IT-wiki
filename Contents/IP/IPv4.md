@@ -27,3 +27,7 @@ Klasse-C
   192.168.0.255
 - Subnet Mask
   255.255.255.0
+
+Local host
+- 127.x.x.x
+
