@@ -46,7 +46,7 @@ Dieser Zugriff wird dann quasi als „SingleSignOn“ umgesetzt, soll heißen:
 Der User meldet sich in der Früh an seinem AD-Integrierten Rechner mit seinen AD_ Credentials an und hat somit Zugriff auf alle Ressourcen im AD, zu welchen er berechtigt ist. Ohne sich ein weiteres Mal authentifizieren zu müssen.  
 Die jeweiligen Dienst-Tickets werden dann im Hintergrund generiert und vergeben.
 
-_Common Internet File System (SMB, CIFS):_
+_Server Message Block; Common Internet File System (SMB; CIFS):_
 
 Server Message Block (SMB), auch als Common Internet File System (CIFS) und früher als LAN-Manager-Protokoll bekannt, ist ein Netzprotokoll für Datei-, Druck- und andere Serverdienste in Rechnernetzen.
 
