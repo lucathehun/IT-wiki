@@ -31,3 +31,8 @@ Klasse-C
 Local host
 - 127.x.x.x
 
+DHCP-Broadcast Adresse
+- 255.255.255.255
+
+Broadcast MAC-Adresse 
+- FF:FF:FF:FF:FF

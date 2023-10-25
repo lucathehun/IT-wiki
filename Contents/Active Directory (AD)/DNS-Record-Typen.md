@@ -7,6 +7,9 @@ AAAA
 CNAME/Alias
 - Name --> Name
 
+PTR
+- IPv4 --> Name
+
 ????
 - Text
 

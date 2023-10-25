@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Active Directory (AD)/DNS-Record-Typen.md",
+                "file": "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Active Directory (AD)/DNS-Record-Typen.md",
+                "file": "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Active Directory (AD)/DNS-Record-Typen.md",
+                "file": "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Active Directory (AD)/DNS-Record-Typen.md"
+                "file": "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md"
               }
             }
           }
@@ -147,18 +148,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6896b14c567c512",
+  "active": "750cc222c2557622",
   "lastOpenFiles": [
-    "Contents/Active Directory (AD)/DNS.md",
+    "Contents/Generell/NTFS.md",
+    "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
+    "Contents/Virtual Machines (VM)/Practice",
+    "Contents/IP/Important IP-Addresses.md",
+    "Contents/IP/APIPA-Bereich.md",
+    "Contents/Generell/D.O.R.A..md",
+    "Contents/Generell/DHCP.md",
     "Contents/Active Directory (AD)/DNS-Record-Typen.md",
+    "Contents/Active Directory (AD)/DNS.md",
     "Contents/Generell/UPN.md",
-    "Contents/IP/IPv4.md",
     "Contents/IP/Loopback Adressbereich.md",
     "Contents/Active Directory (AD)/Privat Domains.md",
     "Contents/Active Directory (AD)/Set up AD.md",
     "Contents/Active Directory (AD)/Überblick über Active Directory.md",
     "Contents/Generell/FQDN.md",
-    "Contents/IP/APIPA-Bereich.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/IP",
     "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
@@ -172,10 +178,6 @@
     "Contents/Hardware/CPU.md",
     "Contents/Hardware/GPU.md",
     "Contents/Generell/Subnet Mask.md",
-    "Contents/Generell/DHCP.md",
-    "Contents/Active Directory (AD)/Trust.md",
-    "Contents/Active Directory (AD)/Tree.md",
-    "Contents/Active Directory (AD)/LDAP.md",
     "Contents/4.Attachments",
     "INFRA/Hardware",
     "Contents/4.Attachments",
@@ -183,7 +185,6 @@
     "INFRA",
     "Infra/Fachausdrücke",
     "INFRA/Operating Systems (OS)",
-    "INFRA/Active Directory (AD)",
-    "INFRA/Virtual Machines (VM)"
+    "INFRA/Active Directory (AD)"
   ]
 }
