@@ -13,3 +13,5 @@ DHCP steht für "Dynamic Host Configuration Protocol" (auf Deutsch: "Dynamisches
 - **Zeitgesteuerte Zuweisung**: In einigen Fällen kann DHCP so konfiguriert werden, dass es IP-Adressen für bestimmte Geräte für eine begrenzte Zeit (Leasezeit) zuweist. Dies ermöglicht es Netzwerkadministratoren, IP-Adressen effizienter zu nutzen und sicherzustellen, dass Ressourcen im Netzwerk nicht blockiert werden.
 
 Insgesamt ist DHCP ein wichtiges Protokoll, das in praktisch jedem IP-basierten Netzwerk eingesetzt wird, um die Konfiguration und Verwaltung von IP-Adressen und Netzwerkeinstellungen zu vereinfachen.
+
+[Ablauf](D.O.R.A..md)
