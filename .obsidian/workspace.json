@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
+                "file": "Contents/Generell/BCD.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
+                "file": "Contents/Generell/BCD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
+                "file": "Contents/Generell/BCD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md"
+                "file": "Contents/Generell/BCD.md"
               }
             }
           }
@@ -148,10 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "750cc222c2557622",
+  "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/Generell/NTFS.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
+    "Contents/Generell/BCD.md",
+    "Contents/Generell/NTFS.md",
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP/Important IP-Addresses.md",
     "Contents/IP/APIPA-Bereich.md",
@@ -177,7 +178,6 @@
     "Contents/Hardware/HDD-SSD.md",
     "Contents/Hardware/CPU.md",
     "Contents/Hardware/GPU.md",
-    "Contents/Generell/Subnet Mask.md",
     "Contents/4.Attachments",
     "INFRA/Hardware",
     "Contents/4.Attachments",

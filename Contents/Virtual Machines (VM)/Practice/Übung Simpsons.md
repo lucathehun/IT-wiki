@@ -1,19 +1,19 @@
-Server1
+_Server1_
 - Name: SRV-Dingdong1
 - Rolle: DC der Domäne dingdong.loc
 - IP-Adresse: 172.16.11.3
 - Subnetmaske: 255.255.255.240
 
-Server2
+_Server2_
 - Name: SRV-Dingdong2
 - Rolle: DC der Domäne dingdong.loc
 - IP-Adresse: 172.16.11.2
-- Subnetmaske: 255.255.255.240
+- Subnet Maske: 255.255.255.240
 
-Workstation
+_Workstation_
 - Name: PC-Dingdong001
 
-Kennwortrichtlinien
+_Kennwortrichtlinien_
 - Mindestlänge 4 Zeichen
 - Muss alle 180 Tage geändert werden 
 - Kennwortchronik = 1 Kennwort 
@@ -21,7 +21,7 @@ Kennwortrichtlinien
 - Keine Komplexen Kennwörter 
 - Kontosperre für 30 min nach 3 mal falsch  
 
-OU Structure 
+_OU Structure_ 
 
 OU_Springfield 
 	OU_Gruppen
@@ -51,23 +51,23 @@ OU_Springfield
 			Kennwort zurücksetzen
 		U_Montgomery Burns
 
-Directory 
-C:\Testdaten
-	Simpsons-Daten
-		Grp_Simpson: Ändern
-		Grp_Andere: Lesen und Ausführen
-		Admin: Vollzugriff
-	Krusty-Daten
-		Grp_Krusty: Ändern
-		Grp_Simpsons: Lesen und Ausführen, Schreiben
-		Admin: Vollzugriff
-	Andere-Daten
-		Grp_Andere: Vollzugriff
-		Grp_Simpsons: Lesen und Ausführen
-		Admin: Vollzugriff
-	Allgemeine-Daten
-		Grp_Springfield: Ändern 
-		Admin: Vollzugriff
 
-
-
+_Directory Freigabe_ 
+Scope: Freigabe Jeder(Vollzugriff)
+Grp_Lesen: Lesen
+	C:\Testdaten
+		Simpsons-Daten
+			Grp_Simpson: Ändern
+			Grp_Andere: Lesen und Ausführen
+			Admin: Vollzugriff
+		Krusty-Daten
+			Grp_Krusty: Ändern
+			Grp_Simpsons: Lesen und Ausführen, Schreiben
+			Admin: Vollzugriff
+		Andere-Daten
+			Grp_Andere: Vollzugriff
+			Grp_Simpsons: Lesen und Ausführen
+			Admin: Vollzugriff
+		Allgemeine-Daten
+			Grp_Springfield: Ändern 
+			Admin: Vollzugriff
