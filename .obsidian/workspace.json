@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/IP/Subnet Mask Calculation.md",
+                "file": "Contents/Generell/AGULP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/Subnet Mask Calculation.md",
+                "file": "Contents/Generell/AGULP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/Subnet Mask Calculation.md",
+                "file": "Contents/Generell/AGULP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/Subnet Mask Calculation.md"
+                "file": "Contents/Generell/AGULP.md"
               }
             }
           }
@@ -150,22 +150,26 @@
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
     "Contents/Generell/BCD.md",
+    "Contents/Generell/AGULP.md",
+    "Contents/Generell/D.O.R.A..md",
+    "Contents/Generell/DHCP.md",
+    "Contents/Generell/File Systems.md",
+    "Contents/Generell/FQDN.md",
+    "Contents/Generell/NTFS.md",
+    "Contents/Generell/Subnet Mask.md",
+    "Contents/Generell/UPN.md",
+    "Contents/Virtual Machines (VM)/Practice/P1.md",
     "Contents/IP/Subnet Mask Calculation.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
-    "Contents/Generell/NTFS.md",
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP/Important IP-Addresses.md",
     "Contents/IP/APIPA-Bereich.md",
-    "Contents/Generell/D.O.R.A..md",
-    "Contents/Generell/DHCP.md",
     "Contents/Active Directory (AD)/DNS-Record-Typen.md",
     "Contents/Active Directory (AD)/DNS.md",
-    "Contents/Generell/UPN.md",
     "Contents/IP/Loopback Adressbereich.md",
     "Contents/Active Directory (AD)/Privat Domains.md",
     "Contents/Active Directory (AD)/Set up AD.md",
     "Contents/Active Directory (AD)/Überblick über Active Directory.md",
-    "Contents/Generell/FQDN.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/IP",
     "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
@@ -173,10 +177,6 @@
     "Contents/Virtual Machines (VM)/Set up HV.md",
     "Contents/Virtual Machines (VM)/Introduction HV.md",
     "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
-    "Contents/Hardware/RAM.md",
-    "Contents/Hardware/NIC.md",
-    "Contents/Hardware/HDD-SSD.md",
-    "Contents/Hardware/CPU.md",
     "Contents/4.Attachments",
     "INFRA/Hardware",
     "Contents/4.Attachments",

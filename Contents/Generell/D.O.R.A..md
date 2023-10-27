@@ -1,11 +1,11 @@
-D
+## D
 - Discover (Broadcast) Gerät --> DHCP
 
-O
+## O
 - Offer (Broadcast) Gerät <-- DHCP
 
-R
+## R
 - Request (Broadcast) Gerät --> DHCP
 
-A
+## A
 - Acknowledge (Broadcast) Gerät <-- DHCP
