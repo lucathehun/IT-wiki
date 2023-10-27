@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Generell/BCD.md",
+                "file": "Contents/IP/Subnet Mask Calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Generell/BCD.md",
+                "file": "Contents/IP/Subnet Mask Calculation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Generell/BCD.md",
+                "file": "Contents/IP/Subnet Mask Calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Generell/BCD.md"
+                "file": "Contents/IP/Subnet Mask Calculation.md"
               }
             }
           }
@@ -150,8 +149,9 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
     "Contents/Generell/BCD.md",
+    "Contents/IP/Subnet Mask Calculation.md",
+    "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
     "Contents/Generell/NTFS.md",
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP/Important IP-Addresses.md",
@@ -177,7 +177,6 @@
     "Contents/Hardware/NIC.md",
     "Contents/Hardware/HDD-SSD.md",
     "Contents/Hardware/CPU.md",
-    "Contents/Hardware/GPU.md",
     "Contents/4.Attachments",
     "INFRA/Hardware",
     "Contents/4.Attachments",
