@@ -80,3 +80,46 @@
 	Broadcast address: 10.20.30.158
 	Subnet Mask: 255.255.255.224
 
+# 192.168.33.0/24 in 3 Netze 
+## 1. Net.
+	Network address: 192.168.33.0/26
+	Host address: 192.168.33.1 - 192.168.33.62
+	Broadcast address: 192.168.33.63
+	Subnet Mask: 255.255.255.192
+## 2. Net. 
+	Network address: 192.168.33.64/26
+	Host address: 192.168.33.65 - 192.168.33.126
+	Broadcast address: 172.16.50.127
+	Subnet Mask: 255.255.255.192
+## 3. Net.
+	Network address: 192.168.33.128/26
+	Host address: 192.168.33.129 - 192.168.33.191
+	Broadcast address: 192.168.33.192
+	Subnet Mask: 255.255.255.192
+ 
+# 172.16.16.0/24 in 5 Netze 
+## 1. Net.
+	Network address: 172.16.16.0/27
+	Host address: 172.16.16.1 - 172.16.16.30
+	Broadcast address: 172.16.16.31
+	Subnet Mask: 255.255.255.224
+## 2. Net. 
+	Network address: 172.16.16.32/27
+	Host address: 172.16.16.33 - 172.16.16.60
+	Broadcast address: 172.16.16.61
+	Subnet Mask: 255.255.255.224
+## 3. Net.
+	Network address: 172.16.16.62/27
+	Host address: 172.16.16.63 - 172.16.16.92
+	Broadcast address: 172.16.16.93
+	Subnet Mask: 255.255.255.224
+## 4. Net.
+	Network address: 172.16.16.95/27
+	Host address: 172.16.16.96 - 172.16.16.125
+	Broadcast address: 172.16.16.126
+	Subnet Mask: 255.255.255.224 
+## 5. Net.
+	Network address: 172.16.16.127/27
+	Host address: 172.16.16.128 - 172.16.16.157
+	Broadcast address: 172.16.16.158
+	Subnet Mask: 255.255.255.224
