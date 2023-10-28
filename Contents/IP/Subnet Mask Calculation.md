@@ -21,8 +21,8 @@
 	Subnet Mask: 255.255.255.192
 ## 3. Net.
 	Network address: 10.0.0.128/26
-	Host address: 10.0.0.129 - 10.0.0.191
-	Broadcast address: 10.0.0.192
+	Host address: 10.0.0.129 - 10.0.0.190
+	Broadcast address: 10.0.0.191
 	Subnet Mask: 255.255.255.192
 # 172.16.50.0/24 in 4 Netze 
 ## 1. Net.

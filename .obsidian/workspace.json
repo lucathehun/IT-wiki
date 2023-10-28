@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6896b14c567c512",
+            "id": "24fd66d2bbbdad1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Generell/Terminal Cheatsheet.md",
+                "file": "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63fa39623a0bae8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/Subnet Mask Calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Generell/Terminal Cheatsheet.md",
+                "file": "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Generell/Terminal Cheatsheet.md",
+                "file": "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Generell/Terminal Cheatsheet.md"
+                "file": "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md"
               }
             }
           }
@@ -147,14 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6896b14c567c512",
+  "active": "24fd66d2bbbdad1a",
   "lastOpenFiles": [
-    "Contents/Generell/AGULP.md",
-    "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/Generell/BCD.md",
     "Contents/IP/Subnet Mask Calculation.md",
-    "Contents/Generell/NTFS.md",
+    "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
     "Contents/Generell/Subnet Mask.md",
+    "Contents/Generell/Terminal Cheatsheet.md",
+    "Contents/Generell/AGULP.md",
+    "Contents/Generell/BCD.md",
+    "Contents/Generell/NTFS.md",
     "Contents/Generell/D.O.R.A..md",
     "Contents/Generell/DHCP.md",
     "Contents/Generell/File Systems.md",
@@ -176,7 +190,6 @@
     "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
     "Contents/Operating Systems (OS)/Introduction OS.md",
     "Contents/Virtual Machines (VM)/Set up HV.md",
-    "Contents/Virtual Machines (VM)/Introduction HV.md",
     "Contents/4.Attachments",
     "INFRA/Hardware",
     "Contents/4.Attachments",

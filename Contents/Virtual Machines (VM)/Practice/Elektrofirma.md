@@ -1,0 +1,84 @@
+## Alpha-Server
+- [x] Alias: Alpha-S
+- [x] Firmware: 2.Generation
+- [x] RAM: 4GB (4096MB)
+- [x] CPU-Kerne: 4
+- [x] NIC: VP_Elektrofirma (Privat)
+- [x] OS: WS22
+- [x] Admin PW: Wifi@wifi1
+- [x] IP: 10.50.100.190/26
+## Alpha-Client
+- [x] Firmware: 2.Generation
+- [x] RAM: 4GB (4096MB)
+- [x] CPU-Kerne: 4
+- [x] NIC: VP_Elektrfirma (Privat)
+- [x] OS: Win10
+- [x] Admin PW: Wifi@wifi1
+- [x] User: Home PW: Home123!
+- [x] IP: DHCP Reservierte IP 10.50.100.50
+## OUs
+- [x] OU_Firma
+	- [x] OU_Leitung
+		- [x] U_Ash Ketchum
+		- [x] U_Teddy Bear
+	- [x] OU_Innendienst
+		- [x] U_Axel Schweiss
+		- [x] U_Elli Fant
+	- [x] OU_Aussendienst
+		- [x] U_Ernst Haft
+		- [x] U_Bill Ich
+		- [x] U_Hari Bo
+## GPOs
+- [x] OU_Firma
+	- [x] GPO_Regedit_lock
+	- [x] OU_Leitung
+		- [x] GPO_CMD_lock
+	- [x] OU_Innendienst
+		- [x] GPO_CMD_lock
+		- [x] GPO_CP_lock
+		- [x] GPO_DeskIcon_hide
+	- [x] OU_Aussendienst
+		- [x] GPO_TM_lock
+		- [x] GPO_Regedit_unlock
+		- [x] GPO_CMD_unlock
+## GL_Groups
+- [x] GL_Firma
+	- [x] GL_Leitung
+	- [x] GL_Innendienst
+	- [x] GL_Aussendienst
+## DL_Groups
+- [x] DL_Privat_RO
+	- [x] ...
+- [x] DL_Privat_RW
+	- [x] GL_Leitung
+- [x] DL_Intern_RO
+	- [x] ...
+- [x] DL_Intern_RW
+	- [x] GL_Innendienst
+- [x] DL_Extern_RO
+	- [x] ...
+- [x] DL_Extern_RW
+	- [x] GL_Aussendienst
+- [x] DL_Public_RO
+	- [x] ...
+- [x] DL_Public_RW
+	- [x] GL_Firma
+- [x] DL_Hausregeln_RO
+	- [x] GL_Innendienst
+	- [x] GL_Aussendienst
+- [x] DL_Hausregeln_RW
+	- [x] GL_Leitung
+## Directory Permissions 
+- [x] S:\\Freigabe\
+	- [x] SDR_Privat
+		- [x] Leitung_RW
+	- [x] SDR_Intern
+		- [x] Innendienst_RW
+	- [x] SDR_Extern
+		- [x] Aussendienst_RW
+	- [x] SDR_Public
+		- [x] All_RW
+	- [x] SDR_Hausregeln
+		- [x] Leitung_RW
+		- [x] Innendienst_RO
+		- [x] Aussendienst_RO
