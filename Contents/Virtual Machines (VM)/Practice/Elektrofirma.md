@@ -30,11 +30,10 @@
 		- [x] U_Hari Bo
 ## GPOs
 - [x] OU_Firma
+	- [x] GPO_CMD_lock
 	- [x] GPO_Regedit_lock
 	- [x] OU_Leitung
-		- [x] GPO_CMD_lock
 	- [x] OU_Innendienst
-		- [x] GPO_CMD_lock
 		- [x] GPO_CP_lock
 		- [x] GPO_DeskIcon_hide
 	- [x] OU_Aussendienst
