@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Generell/Subnet Mask.md",
+                "file": "Contents/Generell/Terminal Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Generell/Subnet Mask.md",
+                "file": "Contents/Generell/Terminal Cheatsheet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Generell/Subnet Mask.md",
+                "file": "Contents/Generell/Terminal Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Generell/Subnet Mask.md"
+                "file": "Contents/Generell/Terminal Cheatsheet.md"
               }
             }
           }
@@ -149,15 +149,16 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/IP/Subnet Mask Calculation.md",
-    "Contents/Generell/Subnet Mask.md",
     "Contents/Generell/AGULP.md",
+    "Contents/Generell/Terminal Cheatsheet.md",
     "Contents/Generell/BCD.md",
+    "Contents/IP/Subnet Mask Calculation.md",
+    "Contents/Generell/NTFS.md",
+    "Contents/Generell/Subnet Mask.md",
     "Contents/Generell/D.O.R.A..md",
     "Contents/Generell/DHCP.md",
     "Contents/Generell/File Systems.md",
     "Contents/Generell/FQDN.md",
-    "Contents/Generell/NTFS.md",
     "Contents/Generell/UPN.md",
     "Contents/Virtual Machines (VM)/Practice/P1.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
@@ -176,7 +177,6 @@
     "Contents/Operating Systems (OS)/Introduction OS.md",
     "Contents/Virtual Machines (VM)/Set up HV.md",
     "Contents/Virtual Machines (VM)/Introduction HV.md",
-    "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
     "Contents/4.Attachments",
     "INFRA/Hardware",
     "Contents/4.Attachments",

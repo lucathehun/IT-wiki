@@ -1,0 +1,16 @@
+```ad-CMD
+gpupdate /force
+gpresult -r
+```
+
+```ad-CMD
+net use [Laufwerkbuchstabe] [UNC Pfad] /PERSISTENT:YES
+```
+
+```ad-CMD
+net user [Username] [Password] [/add /delete /active:yes/no...]
+```
+
+```ad-pwsh
+get-localuser 
+```
