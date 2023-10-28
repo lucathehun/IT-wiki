@@ -11,7 +11,7 @@ Die Subnetzmaske trennt die IP-Adresse in zwei Teile: den Netzwerkanteil und den
 ## **Subnetting**
 Durch die Verwendung von Subnetzmasken können Netzwerkadministratoren ein größeres IP-Netzwerk in kleinere Subnetze aufteilen. Dies wird als "Subnetting" bezeichnet und ermöglicht die effiziente Verwaltung von IP-Adressen und den Datenverkehr innerhalb eines Netzwerks.
 
-## **Beispiel**
+## [Beispiel](../IP/Subnet%20Mask%20Calculation.md)
 Wenn Sie eine IP-Adresse wie 192.168.1.100 mit einer Subnetzmaske von 255.255.255.0 haben, bedeutet dies, dass die ersten 24 Bits der IP-Adresse den Netzwerkanteil darstellen, während die letzten 8 Bits den Hostanteil darstellen. Das Netzwerk hat somit 2^8 (256) mögliche Hosts.
    
 
