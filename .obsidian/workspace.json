@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Generell/AGULP.md",
+                "file": "Contents/Generell/Subnet Mask.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Generell/AGULP.md",
+                "file": "Contents/Generell/Subnet Mask.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Generell/AGULP.md",
+                "file": "Contents/Generell/Subnet Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Generell/AGULP.md"
+                "file": "Contents/Generell/Subnet Mask.md"
               }
             }
           }
@@ -149,17 +149,17 @@
   },
   "active": "d6896b14c567c512",
   "lastOpenFiles": [
-    "Contents/Generell/BCD.md",
+    "Contents/IP/Subnet Mask Calculation.md",
+    "Contents/Generell/Subnet Mask.md",
     "Contents/Generell/AGULP.md",
+    "Contents/Generell/BCD.md",
     "Contents/Generell/D.O.R.A..md",
     "Contents/Generell/DHCP.md",
     "Contents/Generell/File Systems.md",
     "Contents/Generell/FQDN.md",
     "Contents/Generell/NTFS.md",
-    "Contents/Generell/Subnet Mask.md",
     "Contents/Generell/UPN.md",
     "Contents/Virtual Machines (VM)/Practice/P1.md",
-    "Contents/IP/Subnet Mask Calculation.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP/Important IP-Addresses.md",
