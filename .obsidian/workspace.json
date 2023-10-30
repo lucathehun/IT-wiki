@@ -162,6 +162,13 @@
   },
   "active": "24e64cb641fc2df5",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "Contents/Virtual Machines (VM)/Set up HV.md",
+    "Contents/Virtual Machines (VM)/Introduction HV.md",
+    "Contents/IP/NAT-Routing.md",
+    "Contents/IP/Ports.md",
+>>>>>>> luca
     "Pasted image 20231030091545.png",
     "Contents/Virtual Machines (VM)/Set up HV.md",
     "Contents/Virtual Machines (VM)/Introduction HV.md",
@@ -188,6 +195,10 @@
     "Contents/Generell/Subnet Mask.md",
     "Contents/Generell/Terminal Cheatsheet.md",
     "Contents/Generell/AGULP.md",
+<<<<<<< HEAD
+=======
+    "Contents/Generell/BCD.md",
+>>>>>>> luca
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP",
     "Contents/4.Attachments",

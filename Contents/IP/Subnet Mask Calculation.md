@@ -211,3 +211,9 @@
 	Host address: 10.0.0.1 - 10.0.0.2
 	Broadcast address: 10.0.0.3
 	Subnet mask: 255.255.255.252
+# 172.29.33.0/24 in 7 Netze
+## Net.
+	Network address: 172.29.33.0/28
+	Host address: 172.29.33.1 - 172.29.33.30
+	Broadcast address: 172.29.33.31
+	Subnet Mask:255.255.255.224
