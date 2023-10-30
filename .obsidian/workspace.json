@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "24e64cb641fc2df5",
+            "id": "6938364492730a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/IP/Subnet Mask Calculation.md",
+                "file": "Contents/Generell/UDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26cb5ae7df34e480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Generell/TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d27b4f00628ee2e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/NAT-Routing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/Subnet Mask Calculation.md",
+                "file": "Contents/IP/NAT-Routing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/Subnet Mask Calculation.md",
+                "file": "Contents/IP/NAT-Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/Subnet Mask Calculation.md"
+                "file": "Contents/IP/NAT-Routing.md"
               }
             }
           }
@@ -160,12 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24e64cb641fc2df5",
+  "active": "d27b4f00628ee2e9",
   "lastOpenFiles": [
+    "Contents/Generell/TCP.md",
+    "Contents/Generell/UDP.md",
+    "Contents/IP/Ports.md",
+    "Contents/IP/NAT-Routing.md",
+    "Contents/Generell/Terminal Cheatsheet.md",
+    "Contents/genrell",
+    "Contents/Active Directory (AD)/AD Datenbank.md",
+    "Contents/IP/Subnet Mask Calculation.md",
     "Contents/Virtual Machines (VM)/Set up HV.md",
     "Contents/Virtual Machines (VM)/Introduction HV.md",
-    "Contents/IP/NAT-Routing.md",
-    "Contents/IP/Ports.md",
     "Pasted image 20231030091545.png",
     "Contents/IP/Important IP-Addresses.md",
     "Contents/IP/MAC.md",
@@ -184,11 +214,6 @@
     "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
     "Contents/IP/APIPA-Bereich.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
-    "Contents/IP/Subnet Mask Calculation.md",
-    "Contents/Generell/Subnet Mask.md",
-    "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/Generell/AGULP.md",
-    "Contents/Generell/BCD.md",
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP",
     "Contents/4.Attachments",
@@ -197,7 +222,6 @@
     "INFRA/Short for",
     "INFRA",
     "Infra/Fachausdrücke",
-    "INFRA/Operating Systems (OS)",
-    "INFRA/Active Directory (AD)"
+    "INFRA/Operating Systems (OS)"
   ]
 }
