@@ -3,5 +3,6 @@
   "attachmentFolderPath": "Contents/Attachments",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false
 }
