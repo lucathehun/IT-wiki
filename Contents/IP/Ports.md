@@ -1,5 +1,5 @@
 Port Numbers: 0 - 65535
-## Well -Known-Ports / Standard Ports
+## Well-Known-Ports / Standard Ports
 - https: 443
 - http: 80
 - FTP: 21
@@ -11,3 +11,5 @@ Port Numbers: 0 - 65535
 - IMAP(unsecure): 143
 - IMAP(secure): 933
 - DNS: 53
+
+Das ist nur ein kleiner Teil der, Well-Known-Ports / Standard Ports, aber einige der wichtigsten. 
