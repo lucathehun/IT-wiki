@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/IP/NAT-Routing.md",
+                "file": "Contents/IP/Subnet Mask Calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/NAT-Routing.md",
+                "file": "Contents/IP/Subnet Mask Calculation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/NAT-Routing.md",
+                "file": "Contents/IP/Subnet Mask Calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/NAT-Routing.md"
+                "file": "Contents/IP/Subnet Mask Calculation.md"
               }
             }
           }
@@ -162,9 +162,11 @@
   },
   "active": "24e64cb641fc2df5",
   "lastOpenFiles": [
-    "Contents/IP/Ports.md",
-    "Contents/IP/NAT-Routing.md",
     "Pasted image 20231030091545.png",
+    "Contents/Virtual Machines (VM)/Set up HV.md",
+    "Contents/Virtual Machines (VM)/Introduction HV.md",
+    "Contents/IP/NAT-Routing.md",
+    "Contents/IP/Ports.md",
     "Contents/IP/Important IP-Addresses.md",
     "Contents/IP/MAC.md",
     "Contents/Virtual Machines (VM)/Practice/P1.md",
@@ -186,8 +188,6 @@
     "Contents/Generell/Subnet Mask.md",
     "Contents/Generell/Terminal Cheatsheet.md",
     "Contents/Generell/AGULP.md",
-    "Contents/Generell/BCD.md",
-    "Contents/Generell/NTFS.md",
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP",
     "Contents/4.Attachments",
