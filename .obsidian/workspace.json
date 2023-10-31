@@ -8,63 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f7a43ab7a3ef5f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/Generell/TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d31cc7d56bb320ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/Generell/UDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6938364492730a1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/Generell/Dokumentieren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26cb5ae7df34e480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/IP/IPv6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d27b4f00628ee2e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/Generell/OSIModell.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -134,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Generell/TCP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Generell/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Contents/Generell/TCP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,20 +139,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f7a43ab7a3ef5f3",
+  "active": "d27b4f00628ee2e9",
   "lastOpenFiles": [
-    "Contents/Generell/UDP.md",
+    "Contents/IP/Subnet Mask Calculation.md",
+    "Contents/Virtual Machines (VM)/Practice/Steuerberater.md",
+    "Contents/IP/IPv6.md",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
     "Contents/Generell/TCP.md",
+    "Contents/Generell/UDP.md",
     "Contents/IP/NAT-Routing.md",
     "Contents/Generell/Dokumentieren.md",
     "Contents/Generell/Print-Server.md",
     "Contents/IP/Ports.md",
-    "Contents/IP/IPv6.md",
-    "Contents/Generell/OSIModell.md",
     "Contents/Generell/Terminal Cheatsheet.md",
     "Contents/genrell",
     "Contents/Active Directory (AD)/AD Datenbank.md",
-    "Contents/IP/Subnet Mask Calculation.md",
     "Contents/Virtual Machines (VM)/Set up HV.md",
     "Contents/Virtual Machines (VM)/Introduction HV.md",
     "Pasted image 20231030091545.png",
@@ -224,7 +169,6 @@
     "Contents/Active Directory (AD)/Tree.md",
     "Contents/Active Directory (AD)/Privat Domains.md",
     "Contents/Active Directory (AD)/LDAP.md",
-    "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP",
     "Contents/4.Attachments",
