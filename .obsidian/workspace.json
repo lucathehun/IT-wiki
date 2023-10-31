@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/IP/Ports.md",
+                "file": "Contents/Generell/TCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6938364492730a1e",
+            "id": "d31cc7d56bb320ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,24 @@
             }
           },
           {
+            "id": "6938364492730a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Generell/Dokumentieren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "26cb5ae7df34e480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Generell/TCP.md",
+                "file": "Contents/IP/IPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/IP/NAT-Routing.md",
+                "file": "Contents/Generell/OSIModell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -107,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5110321044922
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/NAT-Routing.md",
+                "file": "Contents/Generell/TCP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/NAT-Routing.md",
+                "file": "Contents/Generell/TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/NAT-Routing.md"
+                "file": "Contents/Generell/TCP.md"
               }
             }
           }
@@ -184,12 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d27b4f00628ee2e9",
+  "active": "4f7a43ab7a3ef5f3",
   "lastOpenFiles": [
-    "Contents/Generell/TCP.md",
     "Contents/Generell/UDP.md",
-    "Contents/IP/Ports.md",
+    "Contents/Generell/TCP.md",
     "Contents/IP/NAT-Routing.md",
+    "Contents/Generell/Dokumentieren.md",
+    "Contents/Generell/Print-Server.md",
+    "Contents/IP/Ports.md",
+    "Contents/IP/IPv6.md",
+    "Contents/Generell/OSIModell.md",
     "Contents/Generell/Terminal Cheatsheet.md",
     "Contents/genrell",
     "Contents/Active Directory (AD)/AD Datenbank.md",
@@ -210,10 +225,6 @@
     "Contents/Active Directory (AD)/Privat Domains.md",
     "Contents/Active Directory (AD)/LDAP.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
-    "Contents/Operating Systems (OS)/Introduction OS.md",
-    "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
-    "Contents/IP/APIPA-Bereich.md",
-    "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
     "Contents/Virtual Machines (VM)/Practice",
     "Contents/IP",
     "Contents/4.Attachments",
