@@ -1,3 +1,5 @@
+[Hostname].[domain-name].[top lvl domain]
+
 steht für "Fully Qualified Domain Name," was auf Deutsch so viel wie "vollständig qualifizierter Domainname" bedeutet. Ein FQDN ist eine vollständige und eindeutige Adresse, die einen bestimmten Rechner oder eine bestimmte Ressource im Internet identifiziert. Hier ist eine kurze Erklärung:
 
 ## **Fully Qualified**
