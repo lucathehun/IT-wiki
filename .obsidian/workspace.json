@@ -42,8 +42,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c295ef9a211f5b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Generell/Dokumentieren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "799770f418749a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8246882446ca4a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63d506bdf0907b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/Hexadezimal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1324f9c4f5af9846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/IPv6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73cd41e2502e50dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Virtual Machines (VM)/Practice/01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -94,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5110321044922
+    "width": 356.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -110,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Generell/UPN.md",
+                "file": "Contents/Virtual Machines (VM)/Practice/01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Generell/UPN.md",
+                "file": "Contents/Virtual Machines (VM)/Practice/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Generell/UPN.md"
+                "file": "Contents/Virtual Machines (VM)/Practice/01.md"
               }
             }
           }
@@ -172,21 +246,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d27b4f00628ee2e9",
+  "active": "73cd41e2502e50dc",
   "lastOpenFiles": [
+    "Contents/Prüfung/Relevantes für die Prüfung.md",
+    "Contents/Virtual Machines (VM)/Practice/01.md",
+    "Contents/IP/IPv6.md",
+    "Contents/IP/Hexadezimal.md",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
+    "Contents/Generell/Dokumentieren.md",
+    "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
+    "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
+    "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
+    "Contents/Virtual Machines (VM)/Practice/P1.md",
+    "Contents/Virtual Machines (VM)/Practice/Steuerberater.md",
     "Contents/Generell/DNS vs NETBios.md",
     "Contents/Generell/FQDN.md",
     "Contents/Generell/UPN.md",
-    "Contents/IP/Hexadezimal.md",
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
-    "Contents/Generell/Dokumentieren.md",
-    "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
-    "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
-    "Contents/Virtual Machines (VM)/Practice/Steuerberater.md",
-    "Contents/Virtual Machines (VM)/Practice/P1.md",
-    "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
-    "Contents/Prüfung",
+    "Contents/Generell/AGULP.md",
     "Contents/Active Directory (AD)/LDAP.md",
+    "Contents/Generell/UDP.md",
+    "Contents/IP/MAC.md",
+    "Contents/Prüfung",
     "Contents/Active Directory (AD)/Group Policies.md",
     "Contents/Active Directory (AD)/Forest.md",
     "Contents/Active Directory (AD)/DNS-Record-Typen.md",
@@ -195,12 +275,6 @@
     "Contents/Untitled Kanban.md",
     "Contents/Table of Contents.md",
     "Contents/Virtual Machines (VM)/Practice/LucasWorld.md",
-    "Contents/IP/Subnet Mask Calculation.md",
-    "Contents/IP/IPv6.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/Generell/TCP.md",
-    "Contents/Generell/UDP.md",
-    "Contents/IP/NAT-Routing.md",
     "Contents/genrell",
     "Pasted image 20231030091545.png",
     "Contents/Virtual Machines (VM)/Practice",
