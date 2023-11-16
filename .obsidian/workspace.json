@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "d78b0b3ab91b5a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/Bridging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa4476f3fb12b843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Generell/ICMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63d506bdf0907b9c",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 6,
         "stacked": true
       }
     ],
@@ -167,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5110321044922,
-    "collapsed": true
+    "width": 356.5110321044922
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -184,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/Ports.md",
+                "file": "Contents/IP/Bridging.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/Ports.md",
+                "file": "Contents/IP/Bridging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/Ports.md"
+                "file": "Contents/IP/Bridging.md"
               }
             }
           }
@@ -246,14 +269,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c4eac0585cbf4ca",
+  "active": "d78b0b3ab91b5a13",
   "lastOpenFiles": [
+    "Contents/IP/APIPA-Bereich.md",
+    "Contents/IP/NAT-Routing.md",
+    "Contents/IP/Bridging.md",
+    "Contents/Generell/Router.md",
+    "Contents/Generell/ICMP.md",
+    "Contents/Generell/ARP.md",
+    "MAC-Adresse.md",
+    "Contents/IP/MAC-Adressen.md",
     "Contents/Generell/OSI 7-Schichten Modell.md",
+    "Contents/Generell/UDP.md",
+    "Contents/Generell/TCP.md",
+    "Contents/IP/Ports.md",
     "Textdokument (neu).txt",
     "Contents/IP/Hexadezimal.md",
     "Contents/Generell/Dokumentieren.md",
     "Contents/Prüfung/Relevantes für die Prüfung.md",
-    "Contents/IP/Ports.md",
     "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
     "Contents/Generell/DNS vs NETBios.md",
     "Contents/Generell/FQDN.md",
@@ -265,16 +298,7 @@
     "Contents/Virtual Machines (VM)/Practice/P1.md",
     "Contents/Virtual Machines (VM)/Practice/Steuerberater.md",
     "Contents/Generell/AGULP.md",
-    "Contents/Active Directory (AD)/LDAP.md",
-    "Contents/Generell/UDP.md",
-    "Contents/IP/MAC.md",
     "Contents/Prüfung",
-    "Contents/Active Directory (AD)/Group Policies.md",
-    "Contents/Active Directory (AD)/Forest.md",
-    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
-    "Contents/Active Directory (AD)/DNS.md",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
-    "Contents/Untitled Kanban.md",
     "Contents/genrell",
     "Pasted image 20231030091545.png",
     "Contents/Virtual Machines (VM)/Practice",
