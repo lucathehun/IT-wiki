@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Generell/UPN.md",
+                "file": "Contents/Prüfung/Relevantes für die Prüfung.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,6 @@
             }
           }
         ],
-        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Virtual Machines (VM)/Practice/01.md",
+                "file": "Contents/Prüfung/Relevantes für die Prüfung.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Virtual Machines (VM)/Practice/01.md",
+                "file": "Contents/Prüfung/Relevantes für die Prüfung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Virtual Machines (VM)/Practice/01.md"
+                "file": "Contents/Prüfung/Relevantes für die Prüfung.md"
               }
             }
           }
@@ -246,10 +245,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73cd41e2502e50dc",
+  "active": "750cc222c2557622",
   "lastOpenFiles": [
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
+    "Contents/Generell/UPN.md",
     "Contents/Virtual Machines (VM)/Practice/01.md",
+    "Contents/Prüfung/Relevantes für die Prüfung.md",
     "Contents/IP/IPv6.md",
     "Contents/IP/Hexadezimal.md",
     "Contents/Generell/OSI 7-Schichten Modell.md",
@@ -261,7 +261,6 @@
     "Contents/Virtual Machines (VM)/Practice/Steuerberater.md",
     "Contents/Generell/DNS vs NETBios.md",
     "Contents/Generell/FQDN.md",
-    "Contents/Generell/UPN.md",
     "Contents/Generell/AGULP.md",
     "Contents/Active Directory (AD)/LDAP.md",
     "Contents/Generell/UDP.md",
