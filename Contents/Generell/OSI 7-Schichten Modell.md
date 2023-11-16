@@ -4,9 +4,9 @@ Anwendung
 Datenformatierung 
 ## Session 
 Synced Datenaustausch  
-## Transport (TCP | UDP)
+## Transport ([[TCP]] | [[UDP]])
 Paketierung, Sequenzierung 
-## Network (IP | ICMP | ARP)
+## Network (IP | [[ICMP]] | [[ARP]])
 "Wegfindung" zwischen Netzwerken / Routing 
 ## Data Link 
 Physikal. Erreichbarkeit / Logische Topologie 
