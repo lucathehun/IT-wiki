@@ -8,7 +8,7 @@ Port Numbers: 0 - 65535
 - SSH: 22
 - SMTP(unsecure): 25
 - SMTP(secure): 465/587
-- POP(unsecure): 110
+- POP(unsecure): 110 
 - POP(secure): 995
 - IMAP(unsecure): 143
 - IMAP(secure): 993

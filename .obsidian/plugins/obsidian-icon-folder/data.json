@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTestcafe",
       "FarAddressBook",
       "FasDesktop",
       "FarCompass",
-      "FarFileImage",
-      "FarKeyboard"
+      "FarFileImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,6 @@
   "Contents/Operating Systems (OS)": "FarCompass",
   "Contents/Virtual Machines (VM)": "FasDesktop",
   "Contents/4.Attachments": "FarFileImage",
-  "Contents/IP": "FarAddressBook"
+  "Contents/IP": "FarAddressBook",
+  "Contents/Prüfung": "SiTestcafe"
 }

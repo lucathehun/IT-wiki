@@ -1,0 +1,15 @@
+[Hexadezimal](../IP/Hexadezimal.md)
+[Terminal Cheatsheet](../Generell/Terminal%20Cheatsheet.md)
+[Subnet Mask Calculation](../IP/Subnet%20Mask%20Calculation.md)
+[Ports](../IP/Ports.md)
+[FQDN](../Generell/FQDN.md)
+[DNS](../Active%20Directory%20(AD)/DNS.md)
+[DNS vs NETBios](../Generell/DNS%20vs%20NETBios.md)
+[OSI 7-Schichten Modell](../Generell/OSI%207-Schichten%20Modell.md)
+[UPN](../Generell/UPN.md)
+[UDP](../Generell/UDP.md)
+[AGULP](../Generell/AGULP.md)
+[Dokumentieren](../Generell/Dokumentieren.md)
+
+
+

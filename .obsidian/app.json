@@ -4,5 +4,5 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": true
 }
