@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "799770f418749a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8246882446ca4a6c",
             "type": "leaf",
             "state": {
@@ -128,6 +116,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -178,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5110321044922
+    "width": 356.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -194,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Prüfung/Relevantes für die Prüfung.md",
+                "file": "Contents/IP/Ports.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Prüfung/Relevantes für die Prüfung.md",
+                "file": "Contents/IP/Ports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Prüfung/Relevantes für die Prüfung.md"
+                "file": "Contents/IP/Ports.md"
               }
             }
           }
@@ -256,19 +246,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d27b4f00628ee2e9",
+  "active": "1c4eac0585cbf4ca",
   "lastOpenFiles": [
-    "Contents/IP/Ports.md",
     "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
+    "Textdokument (neu).txt",
+    "Contents/IP/Hexadezimal.md",
     "Contents/Generell/Dokumentieren.md",
+    "Contents/Prüfung/Relevantes für die Prüfung.md",
+    "Contents/IP/Ports.md",
+    "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
     "Contents/Generell/DNS vs NETBios.md",
     "Contents/Generell/FQDN.md",
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
     "Contents/Generell/UPN.md",
     "Contents/Virtual Machines (VM)/Practice/01.md",
     "Contents/IP/IPv6.md",
-    "Contents/IP/Hexadezimal.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
     "Contents/Virtual Machines (VM)/Practice/P1.md",
@@ -284,7 +275,6 @@
     "Contents/Active Directory (AD)/DNS.md",
     "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/Untitled Kanban.md",
-    "Contents/Table of Contents.md",
     "Contents/genrell",
     "Pasted image 20231030091545.png",
     "Contents/Virtual Machines (VM)/Practice",
@@ -293,7 +283,6 @@
     "INFRA/Hardware",
     "Contents/4.Attachments",
     "INFRA/Short for",
-    "INFRA",
-    "Infra/Fachausdrücke"
+    "INFRA"
   ]
 }
