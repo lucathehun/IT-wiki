@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1c4eac0585cbf4ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/Ports.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ec83463520772dfb",
             "type": "leaf",
             "state": {
@@ -166,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5110321044922,
-    "collapsed": true
+    "width": 356.5110321044922
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -245,22 +256,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "750cc222c2557622",
+  "active": "d27b4f00628ee2e9",
   "lastOpenFiles": [
+    "Contents/IP/Ports.md",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
+    "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
+    "Contents/Generell/Dokumentieren.md",
+    "Contents/Generell/DNS vs NETBios.md",
+    "Contents/Generell/FQDN.md",
+    "Contents/Prüfung/Relevantes für die Prüfung.md",
     "Contents/Generell/UPN.md",
     "Contents/Virtual Machines (VM)/Practice/01.md",
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
     "Contents/IP/IPv6.md",
     "Contents/IP/Hexadezimal.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/Generell/Dokumentieren.md",
-    "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
     "Contents/Virtual Machines (VM)/Practice/P1.md",
     "Contents/Virtual Machines (VM)/Practice/Steuerberater.md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Generell/FQDN.md",
     "Contents/Generell/AGULP.md",
     "Contents/Active Directory (AD)/LDAP.md",
     "Contents/Generell/UDP.md",
@@ -273,7 +285,6 @@
     "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/Untitled Kanban.md",
     "Contents/Table of Contents.md",
-    "Contents/Virtual Machines (VM)/Practice/LucasWorld.md",
     "Contents/genrell",
     "Pasted image 20231030091545.png",
     "Contents/Virtual Machines (VM)/Practice",
