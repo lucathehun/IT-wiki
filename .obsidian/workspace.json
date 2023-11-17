@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/IP/Bridging.md",
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6,
+        "currentTab": 7,
         "stacked": true
       }
     ],
@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5110321044922,
-    "collapsed": true
+    "width": 356.5110321044922
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -220,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/Öffentliche IP-Bereiche.md",
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -237,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/Öffentliche IP-Bereiche.md",
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/Öffentliche IP-Bereiche.md"
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md"
               }
             }
           }
@@ -282,35 +281,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff76b9757211aaf6",
+  "active": "d78b0b3ab91b5a13",
   "lastOpenFiles": [
-    "Beispiel.md",
-    "Contents/IP/Öffentliche IP-Bereiche.md",
-    "Contents/IP/NAT-Routing.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
     "Contents/IP/Bridging.md",
+    "OSI.md",
+    "Contents/Generell/ICMP.md",
+    "Contents/IP/Öffentliche IP-Bereiche.md",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
+    "Contents/Generell/Dokumentieren.md",
+    "Contents/Generell/DNS vs NETBios.md",
+    "Contents/Generell/FQDN.md",
+    "Contents/IP/Ports.md",
+    "Contents/Prüfung/Relevantes für die Prüfung.md",
+    "Contents/IP/IPv6.md",
+    "Beispiel.md",
+    "Contents/IP/NAT-Routing.md",
     "Contents/IP/APIPA-Bereich.md",
     "Contents/Generell/Router.md",
-    "Contents/Generell/ICMP.md",
     "Contents/Generell/ARP.md",
     "MAC-Adresse.md",
     "Contents/IP/MAC-Adressen.md",
     "Contents/Generell/UDP.md",
     "Contents/Generell/TCP.md",
-    "Contents/IP/Ports.md",
     "Textdokument (neu).txt",
     "Contents/IP/Hexadezimal.md",
-    "Contents/Generell/Dokumentieren.md",
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
     "Contents/Virtual Machines (VM)/Practice/Elektrofirma.md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Generell/FQDN.md",
     "Contents/Generell/UPN.md",
     "Contents/Virtual Machines (VM)/Practice/01.md",
-    "Contents/IP/IPv6.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
-    "Contents/Virtual Machines (VM)/Practice/P1.md",
     "Contents/Prüfung",
     "Contents/genrell",
     "Pasted image 20231030091545.png",
