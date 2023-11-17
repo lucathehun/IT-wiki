@@ -1,5 +1,5 @@
 Firma ---  
-Dokumentation
+IT-Dokumentation
 
 # Hosts
 
@@ -10,7 +10,7 @@ Dokumentation
 - NIC: vPrivat-P1
 - OS: Windows Server 2022 Standard (desktop)
 - Admin Passwort: Wifi@wifi1
-- IP-Adresse: 10.0.0.254 /24 /s
+- IP-Adresse: 10.0.0.254 /24 /static
 - Gateway: -------------
 - DNS: 10.0.0.253  
 - 127.0.0.1
@@ -24,7 +24,7 @@ Dokumentation
 -          NIC: vPrivat-P1
 -          OS: Windows Server 2022 Standard (desktop)
 -          Admin Passwort: Wifi@wifi1
--          IP-Adresse: 10.0.0.253 /24 /s
+-          IP-Adresse: 10.0.0.253 /24 /static
 -          Gateway: -------------
 -          DNS: 10.0.0.254  
           127.0.0.1
@@ -47,9 +47,8 @@ Dokumentation
 
 ## OUs und GPOs
 
-|   |   |
+|OUs   | GPOs  |
 |---|---|
-|OUs|GPOs|
 |Firma|CMD_lock, Regedit_lock|
 |Leitung|---|
 |Innendienst|CP_lock, DeskIcon_hide|
@@ -57,11 +56,10 @@ Dokumentation
 
 ## Freigaben
 
-|   |   |
-|---|---|
-|Folder|Gruppen|
-|Privat|Leitung_RW|
-|Intern|Innendienst_RW|
-|Extern|Aussendienst_RW|
-|Public|All_RW|
-|Hausregeln|Leitung_RW, Innendienst_RO, Aussendienst_RO|
+| Folder     | Gruppen                                            |
+| ---------- | ------------------------------------------- |
+| Privat     | Leitung_RW                                  |
+| Intern     | Innendienst_RW                              |
+| Extern     | Aussendienst_RW                             |
+| Public     | All_RW                                      |
+| Hausregeln | Leitung_RW, Innendienst_RO, Aussendienst_RO |

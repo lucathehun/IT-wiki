@@ -1,11 +1,8 @@
 ## D
-- Discover (Broadcast) Gerät --> DHCP
-
+- Discover DHCP(Client) ----Broadcast--> DHCP(Server)
 ## O
-- Offer (Broadcast) Gerät <-- DHCP
-
+- Offer DHCP(Client) <--Broadcast---- DHCP(Server)
 ## R
-- Request (Broadcast) Gerät --> DHCP
-
+- Request DHCP(Client) ----Broadcast--> DHCP(Server)
 ## A
-- Acknowledge (Broadcast) Gerät <-- DHCP
+- Acknowledge  DHCP(Client) <--Broadcast---- DHCP(Server)

@@ -20,3 +20,14 @@ title: Show all MAC-Addresses
 arp -a
 ```
 
+```ad-CMD
+title: CMD-Command
+tracert
+
+```
+
+```ad-CMD
+title: Route Tabelle
+route print
+
+```

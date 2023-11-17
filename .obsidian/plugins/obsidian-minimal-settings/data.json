@@ -9,7 +9,11 @@
   "lineWidth": 40,
   "lineWidthWide": 50,
   "maxWidth": 88,
+<<<<<<< HEAD
   "textNormal": 18.5,
+=======
+  "textNormal": 16.5,
+>>>>>>> 801e599690b471f79432b69ecbb19106b8b56c1c
   "textSmall": 13,
   "imgGrid": false,
   "imgWidth": "img-default-width",

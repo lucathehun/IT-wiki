@@ -4,5 +4,9 @@
   "interfaceFontFamily": "Cascadia Code",
   "textFontFamily": "Cascadia Code",
   "monospaceFontFamily": "3270 Nerd Font Mono,Cascadia Code",
+<<<<<<< HEAD
   "baseFontSize": 18.5
+=======
+  "baseFontSize": 16.5
+>>>>>>> 801e599690b471f79432b69ecbb19106b8b56c1c
 }
