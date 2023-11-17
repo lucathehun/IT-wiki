@@ -11,8 +11,12 @@
             "id": "f1df98be7debe745",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Contents/🛖.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Contents/🛖.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Contents/🛖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Contents/🛖.md"
+              }
             }
           }
         ]
@@ -142,6 +150,12 @@
   },
   "active": "f1df98be7debe745",
   "lastOpenFiles": [
+    "Contents/Generell/DNS vs NETBios.md",
+    "Contents/Generell/DHCP.md",
+    "Contents/Generell/File Systems.md",
+    "Contents/Generell/BCD.md",
+    "Contents/Generell/ARP.md",
+    "Contents/Generell/D.O.R.A..md",
     "Contents/Hardware/Hardware Contents.md",
     "IP Contents.md",
     "Contents/Operating Systems (OS)/OS Contents.md",
@@ -155,8 +169,6 @@
     "Contents/Operating Systems (OS)/32 und 64 bit Syst..md",
     "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/IP/Hexadezimal.md",
-    "Contents/Generell/DHCP.md",
-    "Contents/Generell/D.O.R.A..md",
     "Contents/IP/IPv6.md",
     "Contents/Generell/Terminal Cheatsheet.md",
     "Contents/Generell/ICMP.md",
@@ -164,10 +176,6 @@
     "Contents/IP/Öffentliche IP-Bereiche.md",
     "Contents/Generell/OSI 7-Schichten Modell.md",
     "Contents/Generell/Dokumentieren.md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Generell/FQDN.md",
-    "Contents/IP/Ports.md",
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
     "Textdokument (neu).txt",
     "Contents/Prüfung",
     "Contents/genrell",
