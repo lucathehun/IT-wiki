@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "ff76b9757211aaf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/Öffentliche IP-Bereiche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d78b0b3ab91b5a13",
             "type": "leaf",
             "state": {
@@ -191,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5110321044922
+    "width": 356.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "6db61977b32f262d",
@@ -207,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/Bridging.md",
+                "file": "Contents/IP/Öffentliche IP-Bereiche.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/Bridging.md",
+                "file": "Contents/IP/Öffentliche IP-Bereiche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/Bridging.md"
+                "file": "Contents/IP/Öffentliche IP-Bereiche.md"
               }
             }
           }
@@ -269,17 +282,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d78b0b3ab91b5a13",
+  "active": "ff76b9757211aaf6",
   "lastOpenFiles": [
-    "Contents/IP/APIPA-Bereich.md",
+    "Beispiel.md",
+    "Contents/IP/Öffentliche IP-Bereiche.md",
     "Contents/IP/NAT-Routing.md",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
     "Contents/IP/Bridging.md",
+    "Contents/IP/APIPA-Bereich.md",
     "Contents/Generell/Router.md",
     "Contents/Generell/ICMP.md",
     "Contents/Generell/ARP.md",
     "MAC-Adresse.md",
     "Contents/IP/MAC-Adressen.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
     "Contents/Generell/UDP.md",
     "Contents/Generell/TCP.md",
     "Contents/IP/Ports.md",
@@ -296,8 +311,6 @@
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
     "Contents/Virtual Machines (VM)/Practice/P1.md",
-    "Contents/Virtual Machines (VM)/Practice/Steuerberater.md",
-    "Contents/Generell/AGULP.md",
     "Contents/Prüfung",
     "Contents/genrell",
     "Pasted image 20231030091545.png",

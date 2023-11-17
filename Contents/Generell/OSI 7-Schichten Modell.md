@@ -6,9 +6,9 @@ Datenformatierung
 Synced Datenaustausch  
 ## Transport ([[TCP]] | [[UDP]])
 Paketierung, Sequenzierung 
-## Network (IP | [[ICMP]] | [[ARP]])
+## Network (IP | [[ICMP]])
 "Wegfindung" zwischen Netzwerken / Routing 
-## Data Link 
+## Data Link ([ARP](ARP.md))        
 Physikal. Erreichbarkeit / Logische Topologie 
 ## Physical 
 Hardwaredefinition / Pin-Belegung 
