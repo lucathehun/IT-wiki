@@ -1,4 +1,7 @@
+
+DNS ist eine der wichtigsten Komponenten, gerade im Hinblick auf die Clientintegration in die Domäne. AD benötigt einen eigenen DNS-Server, welcher über korrekt konfigurierte SRV-Einträge verfügen muss. Weiterhin kann AD auch mit NETBIOS und WINS umgehen, schon allein aus Gründen der Kompatibilität.
 [[DNS-Record-Typen]]
+
 steht für "Domain Name System" (auf Deutsch: "Domain-Namenssystem") und ist ein grundlegendes Protokoll im Internet, das verwendet wird, um menschenfreundliche Domainnamen in die IP-Adressen umzuwandeln, die von Computern und Servern benötigt werden, um miteinander zu kommunizieren. Es funktioniert wie ein Telefonbuch des Internets, indem es Domainnamen mit den entsprechenden IP-Adressen verknüpft.
 
 Hier ist eine kurze Erklärung der Hauptfunktionen des DNS:
