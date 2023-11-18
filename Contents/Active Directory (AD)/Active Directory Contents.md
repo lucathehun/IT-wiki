@@ -8,6 +8,7 @@
 [Group Policies](Group%20Policies.md)
 [Kerberos](Kerberos.md)
 [LDAP](LDAP.md)
+[NTFS](NTFS.md)
 [Privat Domains](Privat%20Domains.md)
 [Set up AD](Set%20up%20AD.md)
 [SMB & CIFS](SMB%20&%20CIFS.md)
