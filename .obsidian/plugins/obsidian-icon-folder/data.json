@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCamera",
+      "FasPrint",
       "FasTableList",
       "FasBrain",
-      "SiTestcafe",
-      "FarAddressBook",
-      "FasDesktop"
+      "SiTestcafe"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,8 @@
   "Contents/Operating Systems (OS)/OS Contents.md": "FasTableList",
   "Contents/Practice/Practice Contents.md": "FasTableList",
   "Contents/Prüfung/Relevantes für die Prüfung.md": "FasTableList",
-  "Contents/Virtual Machines (VM)/VMs Contents.md": "FasTableList"
+  "Contents/Virtual Machines (VM)/VMs Contents.md": "FasTableList",
+  "Contents/Printer": "FasPrint",
+  "Contents/Printer/Printer Contents.md": "FasTableList",
+  "Contents/Attachments": "FasCamera"
 }
