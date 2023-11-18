@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasTableList",
       "FasBrain",
       "SiTestcafe",
       "FarAddressBook",
-      "FasDesktop",
-      "FarCompass"
+      "FasDesktop"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,13 @@
   "Contents/4.Attachments": "FarFileImage",
   "Contents/IP": "FarAddressBook",
   "Contents/Prüfung": "SiTestcafe",
-  "Contents/Practice": "FasBrain"
+  "Contents/Practice": "FasBrain",
+  "Contents/Generell/Generell Contents.md": "FasTableList",
+  "Contents/Active Directory (AD)/Active Directory Contents.md": "FasTableList",
+  "Contents/Hardware/Hardware Contents.md": "FasTableList",
+  "Contents/IP/IP Contents.md": "FasTableList",
+  "Contents/Operating Systems (OS)/OS Contents.md": "FasTableList",
+  "Contents/Practice/Practice Contents.md": "FasTableList",
+  "Contents/Prüfung/Relevantes für die Prüfung.md": "FasTableList",
+  "Contents/Virtual Machines (VM)/VMs Contents.md": "FasTableList"
 }

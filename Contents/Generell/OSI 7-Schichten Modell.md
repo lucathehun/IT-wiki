@@ -4,7 +4,7 @@ Schnittstellen für Anwendungen, um auf das Netzwerk zuzugreifen, und enthält P
 Verantwortlich für die Umwandlung von Daten in ein für die Anwendung verständliches Format und die Datenkompression.
 ## 5.Session 
 Sorgt dafür, dass der Dialog zwischen den Anwendungen reibungslos verläuft, koordiniert den Beginn und das Ende von Sitzungen und kann sogar den Dialog wiederherstellen, falls er unterbrochen wird.
-## 4.Transport ([[TCP]] | [[UDP]])
+## 4.Transport ([[TCP]] | [[UDP]] | [Ports](../IP/Ports.md))
 Verantwortlich für die Ende-zu-Ende-Kommunikation, Segmentierung und Wiederherstellung von Daten.
 ## 3.Network (IP | [[ICMP]])
 Datenpakete zwischen verschiedenen Netzwerken und ermöglicht die Kommunikation zwischen Geräten in unterschiedlichen Netzwerken.
