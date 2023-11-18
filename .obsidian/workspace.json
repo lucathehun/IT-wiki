@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Printer/Nadeldrucker.md",
+                "file": "Contents/Printer/Drucker Arten.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "05c987c8e674b75a",
+            "id": "bd8e83d4465cfbc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Printer/Tintenstrahl Drucker.md",
+                "file": "Contents/Printer/Laserdrucker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d2c88d3d19bf55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Printer/Thermodirekt Drucker.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Printer/Tintenstrahl Drucker.md",
+                "file": "Contents/Printer/Laserdrucker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Printer/Tintenstrahl Drucker.md",
+                "file": "Contents/Printer/Laserdrucker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Printer/Tintenstrahl Drucker.md"
+                "file": "Contents/Printer/Laserdrucker.md"
               }
             }
           }
@@ -161,24 +173,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05c987c8e674b75a",
+  "active": "750cc222c2557622",
   "lastOpenFiles": [
+    "Contents/Attachments/Pasted image 20231118133654.png",
+    "Contents/Attachments/Pasted image 20231118133522.png",
+    "Contents/Printer/Drucker Arten.md",
+    "Contents/Printer/Thermodirekt Drucker.md",
+    "Contents/Attachments/Pasted image 20231118131703.png",
+    "Contents/Printer/Thermo-Sublimations Drucker.md",
+    "Contents/Printer/Thermotransfer Drucker.md",
+    "Contents/Attachments/Pasted image 20231118130134.png",
+    "Contents/Printer/Tintenstrahl Drucker.md",
+    "Contents/Printer/Nadeldrucker.md",
     "Contents/Attachments/Pasted image 20231118125405.png",
     "Contents/Attachments/Pasted image 20231118124939.png",
     "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/Active Directory (AD)/AGULP.md",
     "Contents/Active Directory (AD)/DNS.md",
     "Contents/Active Directory (AD)/DNS-Record-Typen.md",
-    "Contents/Printer/Tintenstrahl Drucker.md",
-    "Contents/Printer/Nadeldrucker.md",
     "Contents/Attachments/Pasted image 20231118115502.png",
-    "Contents/Printer/Drucker Arten.md",
-    "Contents/Printer/Thermodirekt Drucker.md",
     "Contents/Attachments",
     "Contents/Printer/Festtinten Drucker.md",
     "Contents/Printer/Laserdrucker.md",
-    "Contents/Printer/Thermo-Sublimations Drucker.md",
-    "Contents/Printer/Thermotransfer Drucker.md",
     "Contents/Attachments/Pasted image 20231118114718.png",
     "Contents/Printer/Printer Contents.md",
     "Contents/🛖.md",
