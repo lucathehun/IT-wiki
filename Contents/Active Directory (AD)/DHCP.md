@@ -1,5 +1,5 @@
 DHCP steht für "Dynamic Host Configuration Protocol" (auf Deutsch: "Dynamisches Hostkonfigurationsprotokoll"). Es handelt sich um ein Netzwerkprotokoll, das in Computernetzwerken verwendet wird, um automatisch IP-Adressen und andere Netzwerkkonfigurationsinformationen an Geräte, wie Computer, Smartphones und Drucker, zu verteilen. Hier ist eine kurze Erklärung:
-[Ablauf](D.O.R.A..md)
+[Ablauf](../Generell/D.O.R.A..md)
  
 ## **IP-Adressenzuweisung**
 DHCP ermöglicht die automatische Zuweisung von IP-Adressen an Geräte in einem Netzwerk. Wenn ein Gerät, wie ein Computer, sich in ein Netzwerk einwählt oder neu gestartet wird, sendet es eine DHCP-Anforderung (DHCP-Request) an den DHCP-Server im Netzwerk.

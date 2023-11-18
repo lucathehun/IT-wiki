@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Introduction OS.md",
+                "file": "Contents/Active Directory (AD)/LDAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Introduction OS.md",
+                "file": "Contents/Active Directory (AD)/LDAP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Introduction OS.md",
+                "file": "Contents/Active Directory (AD)/LDAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Operating Systems (OS)/Introduction OS.md"
+                "file": "Contents/Active Directory (AD)/LDAP.md"
               }
             }
           }
@@ -150,6 +150,17 @@
   },
   "active": "f1df98be7debe745",
   "lastOpenFiles": [
+    "Contents/Active Directory (AD)/AGULP.md",
+    "Contents/Generell/ARP.md",
+    "Contents/Generell/BCD.md",
+    "Contents/Generell/D.O.R.A..md",
+    "Contents/Active Directory (AD)/AD Datenbank.md",
+    "Contents/Active Directory (AD)/Active Directory Contents.md",
+    "Contents/Virtual Machines (VM)/VMs Contents.md",
+    "Contents/Virtual Machines (VM)/Set up HV.md",
+    "Contents/Virtual Machines (VM)/Introduction HV.md",
+    "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
+    "Contents/Operating Systems (OS)/Introduction OS.md",
     "Contents/Operating Systems (OS)/Grundlegende Funktionen.md",
     "Contents/Operating Systems (OS)/32 und 64 bit Syst..md",
     "Contents/IP/Öffentliche IP-Bereiche.md",
@@ -165,17 +176,6 @@
     "Contents/Generell/UPN.md",
     "Contents/Generell/UDP.md",
     "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/Generell/TCP.md",
-    "Contents/Generell/Router.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/🛖.md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Generell/DHCP.md",
-    "Contents/Generell/File Systems.md",
-    "Contents/Generell/BCD.md",
-    "Contents/Generell/ARP.md",
-    "Contents/Generell/D.O.R.A..md",
-    "IP Contents.md",
     "Textdokument (neu).txt",
     "Contents/Prüfung",
     "Contents/genrell",
