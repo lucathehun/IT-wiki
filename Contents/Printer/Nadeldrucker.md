@@ -1,5 +1,8 @@
-## Art 
+
+## Typ
 Zeilen-impact-Drucker
+## Arten
+8 - 48 Nadeln
 ## Aufbau 
 ![](../Attachments/Pasted%20image%2020231118114718.png)
 ## Funktion
