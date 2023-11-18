@@ -10,5 +10,5 @@ User datagram protocol
 - Response
   S --> E
 
-Schickt packages und wartet bis sie wieder zurück kommen. 
+Schickt packages und wartet nicht bis sie wieder zurück kommen. 
 Wenn sie nicht zurückgekommen sind, werden sie, im Gegensatz zum verfahren des [TCP's](TCP.md), nicht nochmal geschickt.

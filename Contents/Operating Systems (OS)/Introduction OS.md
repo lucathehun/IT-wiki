@@ -13,7 +13,10 @@ Sobald die App fertig ist, wird sie (hoffentlich) das Ergebnis 36 ausspucken und
 
 Bis jetzt sagt das aber noch nichts über das Vorhandensein des Betriebssystems aus, Sie haben Recht. 
 Aber wir haben gelernt, dass digitale Geräte nur im Zusammenspiel funktionieren und keine einfache, sondern komplexe Mechanik zugrunde liegt. 
-Um das EVA-Prinzip umzusetzen, brauchen wir EINGABE (Mensch/Sensor/Kamera/etc.), VERARBEITUNG (Recheneinheit), AUSGABE (Monitor/Audio/etc.).
+Um das EVA-Prinzip umzusetzen, brauchen wir 
+- EINGABE (Mensch/Sensor/Kamera/etc.)
+- VERARBEITUNG (Recheneinheit)
+- AUSGABE (Monitor/Audio/etc.).
 
 Der komplexeste Teil hierbei ist die Recheneinheit und diese muss die meiste Arbeit hierbei leisten und besteht aus verschiedenen Komponenten.
 

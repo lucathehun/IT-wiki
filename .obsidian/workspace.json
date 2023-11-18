@@ -11,11 +11,40 @@
             "id": "f1df98be7debe745",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/MAC-Adressen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e06747be8c0b455a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Active Directory (AD)/SMB & CIFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "456772b027b111ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Active Directory (AD)/NTFS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -82,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Contents/Active Directory (AD)/NTFS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Contents/Active Directory (AD)/NTFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Contents/Active Directory (AD)/NTFS.md"
+              }
             }
           }
         ]
@@ -140,8 +173,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1df98be7debe745",
+  "active": "456772b027b111ab",
   "lastOpenFiles": [
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -189,17 +223,34 @@
     "Contents/IP/Hexadezimal.md",
     "Contents/Generell/DHCP.md",
     "Contents/Generell/D.O.R.A..md",
+=======
+    "Contents/Active Directory (AD)/SMB & CIFS.md",
+    "Contents/Active Directory (AD)/NTFS.md",
+    "Contents/IP/MAC-Adressen.md",
+>>>>>>> luca
     "Contents/IP/IPv6.md",
-    "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/Generell/ICMP.md",
-    "Contents/IP/NAT-Routing.md",
-    "Contents/IP/Öffentliche IP-Bereiche.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/Generell/Dokumentieren.md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Generell/FQDN.md",
+    "Contents/IP/Hexadezimal.md",
+    "Contents/IP/IP Contents.md",
+    "Contents/IP/Subnet Mask.md",
+    "Contents/IP/Subnet Mask Calculation.md",
     "Contents/IP/Ports.md",
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
+    "Contents/IP/Öffentliche IP-Bereiche.md",
+    "Contents/IP/NAT-Routing.md",
+    "Contents/Generell/Router.md",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
+    "Contents/Active Directory (AD)/Kerberos.md",
+    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
+    "Contents/Active Directory (AD)/Forest.md",
+    "Contents/Active Directory (AD)/FQDN.md",
+    "Contents/Active Directory (AD)/Group Policies.md",
+    "Contents/Active Directory (AD)/LDAP.md",
+    "Contents/Active Directory (AD)/Privat Domains.md",
+    "Contents/Active Directory (AD)/Set up AD.md",
+    "Contents/Active Directory (AD)/Tree.md",
+    "Contents/Generell/BCD.md",
+    "Contents/Generell/ARP.md",
+    "Contents/Generell/D.O.R.A..md",
+    "Contents/🛖.md",
     "Textdokument (neu).txt",
     "Contents/Prüfung",
 <<<<<<< HEAD
