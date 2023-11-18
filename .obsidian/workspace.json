@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "185ad874530963c3",
+        "id": "9da832b3ea563545",
         "type": "tabs",
         "children": [
           {
-            "id": "e4cac402c936b08b",
+            "id": "b0fbba45d073a3c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -140,8 +140,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4cac402c936b08b",
+  "active": "b0fbba45d073a3c5",
   "lastOpenFiles": [
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -209,8 +210,18 @@
     "Contents/Active Directory (AD)/Kerberos.md",
 =======
     "Contents/Printer/Thermodirekt Drucker.md",
+=======
+    "X.500.md",
+    "Contents/Active Directory (AD)/LDAP.md",
+    "Contents/Active Directory (AD)/Kerberos.md",
+    "Contents/Active Directory (AD)/SMB & CIFS.md",
+    "Contents/Active Directory (AD)/DNS.md",
+    "Contents/Active Directory (AD)/Überblick über Active Directory.md",
+>>>>>>> luca
     "Contents/Printer/Laserdrucker.md",
     "Contents/Printer/Nadeldrucker.md",
+    "Contents/Virtual Machines (VM)/VMs Contents.md",
+    "Contents/Printer/Thermodirekt Drucker.md",
     "Contents/Printer/Tintenstrahl Drucker.md",
     "Contents/Printer/Printer Contents.md",
     "Contents/Printer/Drucker Arten.md",
@@ -232,7 +243,10 @@
     "Contents/Attachments/Pasted image 20231118125405.png",
     "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/Active Directory (AD)/AGULP.md",
+<<<<<<< HEAD
     "Contents/Active Directory (AD)/DNS.md",
+>>>>>>> luca
+=======
 >>>>>>> luca
     "Contents/Active Directory (AD)/DNS-Record-Typen.md",
     "Contents/Attachments",
@@ -240,12 +254,7 @@
     "Contents/🛖.md",
     "Contents/Printer",
     "Contents/Active Directory (AD)/Active Directory Contents.md",
-    "Contents/Virtual Machines (VM)/VMs Contents.md",
     "Contents/Prüfung/Relevantes für die Prüfung.md",
-    "Contents/Practice/Practice Contents.md",
-    "Contents/Operating Systems (OS)/OS Contents.md",
-    "Contents/IP/IP Contents.md",
-    "Contents/Hardware/Hardware Contents.md",
     "Textdokument (neu).txt",
     "Contents/Prüfung",
 <<<<<<< HEAD

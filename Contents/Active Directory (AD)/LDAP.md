@@ -1,3 +1,6 @@
+
+LDAP stellt Informationen über Objekte und deren Gruppenzugehörigkeit bereit. LDAP ist ein Protokoll und kein Verzeichnis. Stellen Sie sich einfach vor, LDAP verhält sich gegenüber der Verzeichnisdatenbank in etwa so, wie HTTP gegenüber dem Webserver.
+
 steht für "Lightweight Directory Access Protocol" und ist ein Protokoll, das zur Verwaltung und Abfrage von Informationen in Verzeichnisdiensten verwendet wird. Hier ist eine kurze Erklärung:
 
 - **Verzeichnisdienste**: Verzeichnisdienste sind Datenbanken oder Informationsdienste, die dazu dienen, Informationen über Benutzer, Ressourcen, Geräte und andere Objekte in einem Netzwerk zu speichern und zu organisieren. Sie werden häufig in Unternehmensnetzwerken, in der IT-Verwaltung und in vielen anderen Anwendungen eingesetzt.
