@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCode",
       "FasCamera",
       "FasPrint",
       "FasTableList",
-      "FasBrain",
-      "SiTestcafe"
+      "FasBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "Contents/Virtual Machines (VM)/VMs Contents.md": "FasTableList",
   "Contents/Printer": "FasPrint",
   "Contents/Printer/Printer Contents.md": "FasTableList",
-  "Contents/Attachments": "FasCamera"
+  "Contents/Attachments": "FasCamera",
+  "Contents/Coding": "FasCode"
 }

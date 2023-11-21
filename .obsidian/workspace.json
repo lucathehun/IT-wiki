@@ -1,36 +1,39 @@
 {
   "main": {
-    "id": "50e69f6c7d5f113d",
+    "id": "6e83755a7aa6c15d",
     "type": "split",
     "children": [
       {
-        "id": "9da832b3ea563545",
+        "id": "2b7b5cee650c415b",
         "type": "tabs",
         "children": [
           {
-            "id": "b0fbba45d073a3c5",
+            "id": "b935e930f16a4412",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Coding/Coding languages.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2a6c2fc6a0e5754a",
+    "id": "24c10016c0718a14",
     "type": "split",
     "children": [
       {
-        "id": "51bb4254eb377449",
+        "id": "05b718a61e270fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "750cc222c2557622",
+            "id": "424b71ade89971b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,7 +43,7 @@
             }
           },
           {
-            "id": "edd0b0c1c6b5e4cd",
+            "id": "e3756f6db8b641fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,7 +58,7 @@
             }
           },
           {
-            "id": "4e7c03f596c3350a",
+            "id": "7a253ba1dfbfb66d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,24 +69,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5110321044922
+    "width": 300
   },
   "right": {
-    "id": "6db61977b32f262d",
+    "id": "8ecc52c95872cc3e",
     "type": "split",
     "children": [
       {
-        "id": "6a7635bf01995a33",
+        "id": "9d42b5fcf5220823",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1ae0a85b24d63a",
+            "id": "c8e2082436b51315",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Contents/Coding/Coding languages.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -93,18 +97,19 @@
             }
           },
           {
-            "id": "d05fe01b0a0ac51a",
+            "id": "f1becaeda11389c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Contents/Coding/Coding languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6ced8e2c37e3e11a",
+            "id": "2e058fa09c8342b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,11 +120,13 @@
             }
           },
           {
-            "id": "13a6feb85d854549",
+            "id": "5c55898b7c4ddf07",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Contents/Coding/Coding languages.md"
+              }
             }
           }
         ]
@@ -131,215 +138,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "750cc222c2557622",
+  "active": "b935e930f16a4412",
   "lastOpenFiles": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    "Contents/Virtual Machines (VM)/Set up HV.md",
-    "Contents/Virtual Machines (VM)/Introduction HV.md",
-    "Contents/IP/NAT-Routing.md",
-    "Contents/IP/Ports.md",
->>>>>>> luca
-=======
-=======
-=======
-=======
-    "Contents/IP/APIPA-Bereich.md",
-    "Contents/IP/NAT-Routing.md",
-    "Contents/IP/Bridging.md",
-    "Contents/Generell/Router.md",
-    "Contents/Generell/ICMP.md",
-    "Contents/Generell/ARP.md",
-    "MAC-Adresse.md",
-    "Contents/IP/MAC-Adressen.md",
->>>>>>> luca
-    "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/Generell/UDP.md",
-    "Contents/Generell/TCP.md",
-    "Contents/IP/Ports.md",
-    "Textdokument (neu).txt",
-=======
-    "Contents/Hardware/Hardware Contents.md",
-    "IP Contents.md",
-    "Contents/Operating Systems (OS)/OS Contents.md",
-    "Contents/Practice/Practice Contents.md",
-    "Contents/Virtual Machines (VM)/VMs Contents.md",
-    "Contents/🛖.md",
-    "Contents/Generell/Generell Contents.md",
-    "Contents/Active Directory (AD)/Active Directory Contents.md",
-    "Active.md",
-    "Relevantes.md",
-    "Contents/Operating Systems (OS)/32 und 64 bit Syst..md",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
->>>>>>> luca
-    "Contents/IP/Hexadezimal.md",
-    "Contents/Generell/DHCP.md",
-    "Contents/Generell/D.O.R.A..md",
-=======
-    "Contents/Active Directory (AD)/SMB & CIFS.md",
-    "Contents/Active Directory (AD)/NTFS.md",
-    "Contents/IP/MAC-Adressen.md",
->>>>>>> luca
-    "Contents/IP/IPv6.md",
-    "Contents/IP/Hexadezimal.md",
-    "Contents/IP/IP Contents.md",
-    "Contents/IP/Subnet Mask.md",
-    "Contents/IP/Subnet Mask Calculation.md",
-    "Contents/IP/Ports.md",
-    "Contents/IP/Öffentliche IP-Bereiche.md",
-    "Contents/IP/NAT-Routing.md",
-    "Contents/Generell/Router.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/Active Directory (AD)/Kerberos.md",
-=======
-    "Contents/Printer/Thermodirekt Drucker.md",
-=======
-    "X.500.md",
-=======
-    "Contents/Active Directory (AD)/X.500.md",
->>>>>>> luca
-    "Contents/Active Directory (AD)/LDAP.md",
-    "Contents/Active Directory (AD)/Kerberos.md",
-    "Contents/Active Directory (AD)/SMB & CIFS.md",
-    "Contents/Active Directory (AD)/DNS.md",
-    "Contents/Active Directory (AD)/Überblick über Active Directory.md",
->>>>>>> luca
-    "Contents/Printer/Laserdrucker.md",
-    "Contents/Printer/Nadeldrucker.md",
-    "Contents/Virtual Machines (VM)/VMs Contents.md",
-    "Contents/Printer/Thermodirekt Drucker.md",
-    "Contents/Printer/Tintenstrahl Drucker.md",
-    "Contents/Printer/Printer Contents.md",
-    "Contents/Printer/Drucker Arten.md",
-    "Contents/Printer/Tintensrahl Plotter.md",
-    "Contents/Attachments/Pasted image 20231118141856.png",
-    "Contents/Printer/Trommel Plotter.md",
-    "Contents/Attachments/Pasted image 20231118141350.png",
-    "Contents/Printer/Flachbett- oder Tischplotter.md",
-    "Contents/Attachments/Pasted image 20231118141100.png",
-    "Contents/Attachments/Pasted image 20231118140953.png",
-    "Contents/Printer/Schneidplotter.md",
-    "Contents/Attachments/Pasted image 20231118140918.png",
-    "Contents/Attachments/Pasted image 20231118133654.png",
-    "Contents/Attachments/Pasted image 20231118133522.png",
-    "Contents/Attachments/Pasted image 20231118131703.png",
-    "Contents/Printer/Thermo-Sublimations Drucker.md",
-    "Contents/Printer/Thermotransfer Drucker.md",
-    "Contents/Attachments/Pasted image 20231118130134.png",
-    "Contents/Attachments/Pasted image 20231118125405.png",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
-    "Contents/Active Directory (AD)/AGULP.md",
-<<<<<<< HEAD
-    "Contents/Active Directory (AD)/DNS.md",
->>>>>>> luca
-=======
->>>>>>> luca
-    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
-    "Contents/Attachments",
-    "Contents/Printer/Festtinten Drucker.md",
-    "Contents/🛖.md",
-    "Contents/Printer",
-    "Contents/Active Directory (AD)/Active Directory Contents.md",
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
-    "Textdokument (neu).txt",
-    "Contents/Prüfung",
-<<<<<<< HEAD
->>>>>>> luca
-    "Contents/Active Directory (AD)/Group Policies.md",
-    "Contents/Active Directory (AD)/Forest.md",
-    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
-    "Contents/Active Directory (AD)/DNS.md",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
-    "Contents/Untitled Kanban.md",
-<<<<<<< HEAD
-    "Contents/Table of Contents.md",
-    "Contents/Virtual Machines (VM)/Practice/LucasWorld.md",
-    "Contents/IP/Subnet Mask Calculation.md",
-    "Contents/Virtual Machines (VM)/Practice/Steuerberater.md",
-    "Contents/IP/IPv6.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
->>>>>>> luca
-    "Contents/Generell/TCP.md",
-    "Contents/Generell/UDP.md",
-    "Contents/IP/NAT-Routing.md",
-    "Contents/Generell/Dokumentieren.md",
-    "Contents/Generell/Print-Server.md",
-    "Contents/IP/Ports.md",
-    "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/genrell",
-    "Contents/Virtual Machines (VM)/Set up HV.md",
-    "Contents/Virtual Machines (VM)/Introduction HV.md",
->>>>>>> luca
-    "Pasted image 20231030091545.png",
-    "Contents/Virtual Machines (VM)/Set up HV.md",
-    "Contents/Virtual Machines (VM)/Introduction HV.md",
-    "Contents/IP/NAT-Routing.md",
-    "Contents/IP/Ports.md",
-    "Contents/IP/Important IP-Addresses.md",
-    "Contents/IP/MAC.md",
-    "Contents/Virtual Machines (VM)/Practice/P1.md",
-    "Contents/Generell/D.O.R.A..md",
-<<<<<<< HEAD
-    "Contents/Active Directory (AD)/Überblick über Active Directory.md",
-    "Contents/Active Directory (AD)/Harry Potter and hidden pot of crack.md",
-    "Contents/Active Directory (AD)/Trust.md",
-    "Contents/Active Directory (AD)/Set up AD.md",
-    "Contents/Active Directory (AD)/Tree.md",
-    "Contents/Active Directory (AD)/Privat Domains.md",
-    "Contents/Active Directory (AD)/LDAP.md",
-    "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
-    "Contents/Operating Systems (OS)/Introduction OS.md",
-    "Contents/Operating Systems (OS)/Set up OS Step by Step.md",
-    "Contents/IP/APIPA-Bereich.md",
-    "Contents/Virtual Machines (VM)/Practice/Übung Simpsons.md",
-<<<<<<< HEAD
-    "Contents/IP/Subnet Mask Calculation.md",
-    "Contents/Generell/Subnet Mask.md",
-    "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/Generell/AGULP.md",
-<<<<<<< HEAD
-=======
-    "Contents/Generell/BCD.md",
->>>>>>> luca
-=======
->>>>>>> luca
-=======
->>>>>>> luca
-=======
-=======
->>>>>>> luca
-    "Contents/genrell",
-<<<<<<< HEAD
-    "Pasted image 20231030091545.png",
-<<<<<<< HEAD
->>>>>>> luca
-    "Contents/Virtual Machines (VM)/Practice",
-=======
-=======
->>>>>>> luca
-    "Contents/Practice",
->>>>>>> luca
-    "Contents/IP",
-    "Contents/4.Attachments",
-    "INFRA/Hardware",
-    "Contents/4.Attachments"
+    "Contents/Coding/Coding Contents.md",
+    "Contents/Coding/Coding languages.md",
+    "Contents/Coding"
   ]
 }
