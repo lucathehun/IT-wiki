@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Cascadia Code",
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "baseFontSize": 15
 }
