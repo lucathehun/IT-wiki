@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b935e930f16a4412",
+            "id": "8005453fb5cb6d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
+                "file": "Contents/Active Directory (AD)/Firewall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31a7192ab40e6867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/IP/Subnet Mask.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
+                "file": "Contents/IP/Subnet Mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
+                "file": "Contents/IP/Subnet Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Generell/OSI 7-Schichten Modell.md"
+                "file": "Contents/IP/Subnet Mask.md"
               }
             }
           }
@@ -138,17 +151,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "424b71ade89971b0",
+  "active": "31a7192ab40e6867",
   "lastOpenFiles": [
+    "Contents/Printer/Printer Contents.md",
+    "Contents/IP/Important IP-Addresses.md",
+    "Contents/Hardware/CPU.md",
+    "Contents/Generell/D.O.R.A..md",
+    "Contents/Generell/DNS vs NETBios.md",
+    "Contents/Active Directory (AD)/AD Datenbank.md",
+    "Contents/Active Directory (AD)/Active Directory Contents.md",
+    "Contents/Prüfung/Relevantes für die Prüfung.md",
+    "Contents/Active Directory (AD)/DHCP.md",
+    "Contents/Active Directory (AD)/DNS.md",
+    "Contents/Active Directory (AD)/Firewall.md",
+    "Contents/Active Directory (AD)/Set up AD.md",
+    "Contents/Active Directory (AD)/SMB & CIFS.md",
+    "Contents/Active Directory (AD)/Privat Domains.md",
+    "Contents/Active Directory (AD)/LDAP.md",
+    "Contents/Active Directory (AD)/NTFS.md",
+    "Contents/Generell/Terminal Cheatsheet.md",
+    "Contents/Active Directory (AD)/AD-Strukture/Structure.md",
+    "Contents/Attachments/Untitled.drawio.crswap",
+    "Contents/Attachments/Untitled.drawio",
+    "Contents/Active Directory (AD)/AD-Strukture",
+    "Contents/🛖.md",
+    "Contents/Generell/Generell Contents.md",
+    "Contents/Active Directory (AD)/AGULP.md",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
     "Contents/Active Directory (AD)/Trust.md",
     "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
     "Contents/Coding/Coding languages.md",

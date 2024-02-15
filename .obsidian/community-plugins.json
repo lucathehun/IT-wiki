@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-minimal-settings",
   "highlightr-plugin",
   "obsidian-icon-folder",
   "consistent-attachments-and-links",
@@ -8,5 +7,5 @@
   "table-editor-obsidian",
   "obsidian-kanban",
   "obsidian-vimrc-support",
-  "obsidian-style-settings"
+  "obsidian-minimal-settings"
 ]

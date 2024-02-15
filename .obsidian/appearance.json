@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "textFontFamily": "CaskaydiaCove Nerd Font Mono",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
-  "baseFontSize": 15
+  "baseFontSize": 20,
+  "translucency": true
 }
