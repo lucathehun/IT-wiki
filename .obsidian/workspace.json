@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Coding/Coding languages.md",
+                "file": "Contents/Practice/Elektrofirma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Coding/Coding languages.md",
+                "file": "Contents/Practice/Elektrofirma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Coding/Coding languages.md",
+                "file": "Contents/Practice/Elektrofirma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Coding/Coding languages.md"
+                "file": "Contents/Practice/Elektrofirma.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "b935e930f16a4412",
   "lastOpenFiles": [
-    "Contents/Coding/Coding Contents.md",
+    "Contents/Coding/Python.md",
     "Contents/Coding/Coding languages.md",
+    "Contents/Coding/Coding Contents.md",
     "Contents/Coding"
   ]
 }
