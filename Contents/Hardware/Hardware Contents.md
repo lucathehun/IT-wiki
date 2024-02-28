@@ -1,5 +1,0 @@
-[CPU](CPU.md)
-[GPU](GPU.md)
-[HDD-SSD](HDD-SSD.md)
-[NIC](NIC.md)
-[RAM](RAM.md)

@@ -41,3 +41,8 @@ netdom query fsmo /domain:domainname /userd:Administrator /passwordd:password
 title: list ports for all applications
 Netstat -ano
 ```
+
+```ad-CMD
+title: DNS CACHE
+ipconfig /displaydns
+```
