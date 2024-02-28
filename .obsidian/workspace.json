@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Netzwerk Admin/Skriptum.md",
+                "file": "Contents/Active Directory (AD)/DNS-Record-Typen.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Netzwerk Admin/Skriptum.md",
+                "file": "Contents/Active Directory (AD)/DNS-Record-Typen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Netzwerk Admin/Skriptum.md",
+                "file": "Contents/Active Directory (AD)/DNS-Record-Typen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Netzwerk Admin/Skriptum.md"
+                "file": "Contents/Active Directory (AD)/DNS-Record-Typen.md"
               }
             }
           }
@@ -162,9 +162,12 @@
   },
   "active": "e02bdf0328b98e90",
   "lastOpenFiles": [
-    "Contents/Netzwerk Admin/Adressbereiche.md",
-    "Contents/Netzwerk Admin/Skriptum.md",
+    "Contents/Generell/DNS vs NETBios.md",
     "Contents/Active Directory (AD)/Firewall.md",
+    "Contents/Generell/NetBIOS.md",
+    "Contents/Netzwerk Admin/Skriptum.md",
+    "Contents/Netzwerk Admin/Adressbereiche.md",
+    "Contents/Generell/ARP.md",
     "Contents/Netzwerk Admin",
     "Contents/Generell/Terminal Cheatsheet.md",
     "82d4f612-3fa6-4dba-85d0-257d71c2db26_Export-29034323-dd72-48f0-9dca-96d6c6ebefcb.zip",
@@ -187,9 +190,6 @@
     "Contents/Active Directory (AD)/Trust.md",
     "Contents/IP/Subnet Mask.md",
     "Contents/Printer/Printer Contents.md",
-    "Contents/IP/Important IP-Addresses.md",
-    "Contents/Hardware/CPU.md",
-    "Contents/Generell/D.O.R.A..md",
     "Contents/Attachments/Untitled.drawio.crswap",
     "Contents/Attachments/Untitled.drawio",
     "Contents/Active Directory (AD)/AD-Strukture",
