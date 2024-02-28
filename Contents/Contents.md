@@ -5,6 +5,7 @@
 - **Coding**
 	- [[Coding Contents]]
 	- [[Coding languages]]
+	- [[Python]]
 - **[Generell](./Generell/Generell.md)**
 - **[Hardware](./Hardware/Hardware.md)**
 - **[IP](./IP/IP.md)**
