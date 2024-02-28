@@ -8,4 +8,3 @@ fe80::.../64
 ## Private 
 fc00 - fdff
 verwendet man wenn man nicht will, dass das gerät mit dem internet kommuniziert 
-## Öffentlich 

@@ -5,4 +5,4 @@
 ## R
 - Request DHCP(Client) ----Broadcast--> DHCP(Server)
 ## A
-- Acknowledge  DHCP(Client) <--Broadcast---- DHCP(Server)
+- Acknowledge DHCP(Client) <--Broadcast----DHCP(Server)

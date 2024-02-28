@@ -1,1 +1,2 @@
 (Address Resolution Protocol) ist ein Netzwerkprotokoll, das in IPv4-Netzwerken verwendet wird, um die physikalische Hardwareadresse ([MAC-Adresse](MAC-Adressen)) eines Geräts zu einer bestimmten IP-Adresse aufzulösen. Es ermöglicht die Zuordnung zwischen Netzwerkadressen auf der Vermittlungsschicht und den physischen Adressen auf der Datenverbindungsschicht. ARP spielt eine Schlüsselrolle beim Finden der Hardwareadresse eines Ziels, wenn nur die IP-Adresse bekannt ist.
+

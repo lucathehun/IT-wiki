@@ -16,7 +16,7 @@ get-localuser
 ```
 
 ```ad-CMD
-title: Show all MAC-Addresses 
+title: Show all MAC-Addresses
 arp -a
 ```
 
@@ -30,4 +30,19 @@ tracert
 title: Route Tabelle
 route print
 
+```
+
+```ad-CMD
+title: domain structure
+netdom query fsmo /domain:domainname /userd:Administrator /passwordd:password
+```
+
+```ad-CMD
+title: list ports for all applications
+Netstat -ano
+```
+
+```ad-CMD
+title: DNS CACHE
+ipconfig /displaydns
 ```

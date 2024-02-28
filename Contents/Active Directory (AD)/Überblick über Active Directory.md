@@ -12,7 +12,7 @@ Typische Ressourcen sind:
 • Kontakte  
 • [[SMB & CIFS|Freigaben]]  
 • Gruppen  
-• [Drucker](../Printer/Printer%20Contents.md)
+• [Drucker](../Printer/Printer.md)
 
 Dieses großartige Ablageverzeichnis ist ihr Verzeichnisdienst, sprich ihr Active Directory.  
 Schauen wir uns mal an, aus welchen Bestandteilen dieses Active Directory so besteht:  

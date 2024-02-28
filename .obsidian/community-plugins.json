@@ -1,11 +1,12 @@
 [
   "obsidian-git",
-  "obsidian-minimal-settings",
   "highlightr-plugin",
   "obsidian-icon-folder",
   "consistent-attachments-and-links",
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-kanban",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-minimal-settings",
+  "waypoint"
 ]
