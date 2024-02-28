@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "922bde231d4ea301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Active Directory (AD)/DHCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Practice/Elektrofirma.md",
+                "file": "Contents/Active Directory (AD)/DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Practice/Elektrofirma.md",
+                "file": "Contents/Active Directory (AD)/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Practice/Elektrofirma.md"
+                "file": "Contents/Active Directory (AD)/DHCP.md"
               }
             }
           }
@@ -147,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b935e930f16a4412",
+  "active": "922bde231d4ea301",
   "lastOpenFiles": [
+    "Contents/Active Directory (AD)/AGULP.md",
     "Contents/Coding/Python.md",
     "Contents/Coding/Coding languages.md",
     "Contents/Coding/Coding Contents.md",
