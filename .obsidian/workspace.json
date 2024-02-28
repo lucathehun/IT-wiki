@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Active Directory (AD)/Firewall.md",
+                "file": "Contents/Generell/VLANs.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,8 +23,12 @@
             "id": "e02bdf0328b98e90",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -78,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "8ecc52c95872cc3e",
@@ -94,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Contents/Generell/OSI 7-Schichten Modell.md"
+              }
             }
           }
         ]
@@ -154,34 +163,34 @@
   },
   "active": "e02bdf0328b98e90",
   "lastOpenFiles": [
+    "Contents/Generell/VLANs.md",
+    "Contents/IP/IPv6.md",
+    "Contents/Generell/D.O.R.A..md",
+    "Contents/Generell/BCD.md",
+    "Contents/Generell/ARP.md",
+    "Contents/Generell/DNS vs NETBios.md",
+    "Contents/Generell/UPN.md",
+    "Contents/Active Directory (AD)/Firewall.md",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
+    "Contents/Generell/ICMP.md",
+    "Contents/Generell/Generell.md",
+    "Contents/Generell/File Systems.md",
+    "Contents/Generell/Dokumentieren.md",
+    "Contents/Contents.md",
     "Contents/Virtual Machines (VM)/Virtual Machines (VM).md",
     "Contents/Printer/Printer.md",
     "Contents/Practice/Practice.md",
     "Contents/Operating Systems (OS)/Operating Systems (OS).md",
     "Contents/IP/IP.md",
     "Contents/Hardware/Hardware.md",
-    "Contents/Generell/Generell.md",
-    "Contents/Contents.md",
     "Contents/Active Directory (AD)/Active Directory (AD).md",
     "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/Generell/UPN.md",
     "Contents/Generell/UDP.md",
     "Contents/Active Directory (AD)/DNS-Record-Typen.md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Active Directory (AD)/Firewall.md",
     "Contents/Generell/NetBIOS.md",
     "Contents/Netzwerk Admin/Skriptum.md",
-    "Contents/Netzwerk Admin/Adressbereiche.md",
-    "Contents/Generell/ARP.md",
     "Contents/Netzwerk Admin",
     "82d4f612-3fa6-4dba-85d0-257d71c2db26_Export-29034323-dd72-48f0-9dca-96d6c6ebefcb.zip",
-    "README.md",
-    "Contents/Active Directory (AD)/FQDN.md",
-    "Contents/Active Directory (AD)/Forest.md",
-    "Contents/Active Directory (AD)/DNS.md",
-    "Contents/Active Directory (AD)/DHCP.md",
-    "Contents/Active Directory (AD)/AGULP.md",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/Attachments/Untitled.drawio.crswap",
     "Contents/Attachments/Untitled.drawio",
     "Contents/Active Directory (AD)/AD-Strukture",
