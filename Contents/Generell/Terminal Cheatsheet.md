@@ -37,3 +37,7 @@ title: domain structure
 netdom query fsmo /domain:domainname /userd:Administrator /passwordd:password
 ```
 
+```ad-CMD
+title: list ports for all applications
+Netstat -ano
+```

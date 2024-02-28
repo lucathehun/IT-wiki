@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "31a7192ab40e6867",
+            "id": "e02bdf0328b98e90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/IP/Subnet Mask.md",
+                "file": "Skriptum.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/IP/Subnet Mask.md",
+                "file": "Skriptum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/IP/Subnet Mask.md",
+                "file": "Skriptum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/IP/Subnet Mask.md"
+                "file": "Skriptum.md"
               }
             }
           }
@@ -151,46 +151,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31a7192ab40e6867",
+  "active": "e02bdf0328b98e90",
   "lastOpenFiles": [
+    "Contents/Generell/Terminal Cheatsheet.md",
+    "82d4f612-3fa6-4dba-85d0-257d71c2db26_Export-29034323-dd72-48f0-9dca-96d6c6ebefcb.zip",
+    "README.md",
+    "Contents/🛖.md",
+    "Contents/Active Directory (AD)/FQDN.md",
+    "Contents/Active Directory (AD)/Forest.md",
+    "Contents/Active Directory (AD)/Firewall.md",
+    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
+    "Contents/Active Directory (AD)/DNS.md",
+    "Contents/Active Directory (AD)/DHCP.md",
+    "Contents/Active Directory (AD)/AGULP.md",
+    "Contents/Active Directory (AD)/AD Datenbank.md",
+    "Contents/Active Directory (AD)/AD-Strukture/Structure.md",
+    "Contents/Practice/Übung Simpsons.md",
+    "Contents/Practice/Steuerberater.md",
+    "Contents/Practice/Practice Contents.md",
+    "Contents/Practice/P1.md",
+    "Contents/Practice/Elektrofirma.md",
+    "Contents/Practice/01.md",
+    "Contents/Active Directory (AD)/Trust.md",
+    "Contents/IP/Subnet Mask.md",
     "Contents/Printer/Printer Contents.md",
     "Contents/IP/Important IP-Addresses.md",
     "Contents/Hardware/CPU.md",
     "Contents/Generell/D.O.R.A..md",
     "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/Active Directory (AD)/Active Directory Contents.md",
-    "Contents/Prüfung/Relevantes für die Prüfung.md",
-    "Contents/Active Directory (AD)/DHCP.md",
-    "Contents/Active Directory (AD)/DNS.md",
-    "Contents/Active Directory (AD)/Firewall.md",
-    "Contents/Active Directory (AD)/Set up AD.md",
-    "Contents/Active Directory (AD)/SMB & CIFS.md",
-    "Contents/Active Directory (AD)/Privat Domains.md",
-    "Contents/Active Directory (AD)/LDAP.md",
-    "Contents/Active Directory (AD)/NTFS.md",
-    "Contents/Generell/Terminal Cheatsheet.md",
-    "Contents/Active Directory (AD)/AD-Strukture/Structure.md",
     "Contents/Attachments/Untitled.drawio.crswap",
     "Contents/Attachments/Untitled.drawio",
     "Contents/Active Directory (AD)/AD-Strukture",
-    "Contents/🛖.md",
-    "Contents/Generell/Generell Contents.md",
-    "Contents/Active Directory (AD)/AGULP.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/Active Directory (AD)/Trust.md",
-    "Contents/Virtual Machines (VM)/Differenzierte Festplatte.md",
-    "Contents/Coding/Coding languages.md",
-    "Contents/Coding/Coding Contents.md",
     "Contents/Coding"
   ]
 }
