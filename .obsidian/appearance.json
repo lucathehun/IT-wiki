@@ -1,9 +1,10 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
-  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono,OpenDyslexic Nerd Font",
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono,OpenDyslexic Nerd Font",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "baseFontSize": 20,
-  "translucency": true
+  "translucency": true,
+  "theme": "obsidian"
 }

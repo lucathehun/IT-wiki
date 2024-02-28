@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skriptum.md",
+                "file": "Contents/Netzwerk Admin/Skriptum.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skriptum.md",
+                "file": "Contents/Netzwerk Admin/Skriptum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skriptum.md",
+                "file": "Contents/Netzwerk Admin/Skriptum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skriptum.md"
+                "file": "Contents/Netzwerk Admin/Skriptum.md"
               }
             }
           }
@@ -151,8 +151,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,13 +162,16 @@
   },
   "active": "e02bdf0328b98e90",
   "lastOpenFiles": [
+    "Contents/Netzwerk Admin/Adressbereiche.md",
+    "Contents/Netzwerk Admin/Skriptum.md",
+    "Contents/Active Directory (AD)/Firewall.md",
+    "Contents/Netzwerk Admin",
     "Contents/Generell/Terminal Cheatsheet.md",
     "82d4f612-3fa6-4dba-85d0-257d71c2db26_Export-29034323-dd72-48f0-9dca-96d6c6ebefcb.zip",
     "README.md",
     "Contents/🛖.md",
     "Contents/Active Directory (AD)/FQDN.md",
     "Contents/Active Directory (AD)/Forest.md",
-    "Contents/Active Directory (AD)/Firewall.md",
     "Contents/Active Directory (AD)/DNS-Record-Typen.md",
     "Contents/Active Directory (AD)/DNS.md",
     "Contents/Active Directory (AD)/DHCP.md",
@@ -189,8 +190,6 @@
     "Contents/IP/Important IP-Addresses.md",
     "Contents/Hardware/CPU.md",
     "Contents/Generell/D.O.R.A..md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Active Directory (AD)/Active Directory Contents.md",
     "Contents/Attachments/Untitled.drawio.crswap",
     "Contents/Attachments/Untitled.drawio",
     "Contents/Active Directory (AD)/AD-Strukture",
