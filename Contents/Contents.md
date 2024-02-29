@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **[Active Directory (AD)](./Active%20Directory%20(AD)/Active%20Directory%20(AD).md)**
+- **[Anbindung's Arten](./Anbindung's%20Arten/Anbindung's%20Arten.md)**
 - **Attachments**
 
 - **Coding**
@@ -9,6 +10,7 @@
 - **[Generell](./Generell/Generell.md)**
 - **[Hardware](./Hardware/Hardware.md)**
 - **[IP](./IP/IP.md)**
+- **[Network](./Network/Network.md)**
 - **Netzwerk Admin**
 	- [[Adressbereiche]]
 	- [[Skriptum]]
