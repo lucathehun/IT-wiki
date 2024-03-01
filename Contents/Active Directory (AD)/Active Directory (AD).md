@@ -9,6 +9,7 @@
 - [[Firewall]]
 - [[Forest]]
 - [[FQDN]]
+- [[FSMO]]
 - [[Group Policies]]
 - [[Kerberos]]
 - [[LDAP]]
