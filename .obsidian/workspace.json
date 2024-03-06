@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Contents.md",
+                "file": "Contents/Coding/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Contents.md",
+                "file": "Contents/Coding/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Contents.md",
+                "file": "Contents/Coding/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Contents.md"
+                "file": "Contents/Coding/Python.md"
               }
             }
           }
@@ -150,8 +150,19 @@
   },
   "active": "6274321a32bc3ee8",
   "lastOpenFiles": [
-    "Contents/Anbindung's Arten/Anbindung's Arten.md",
+    "Contents/Coding/Coding languages.md",
+    "Contents/Coding/Coding Contents.md",
+    "Contents/Netzwerk Admin/Fragen/FRAGEN.md",
+    "Contents/Netzwerk Admin/Fragen/Screenshot 2024-03-06 at 2.11.43 PM.png",
+    "Contents/Netzwerk Admin/Fragen/Screenshot 2024-03-06 at 2.06.10 PM.png",
+    "Contents/Netzwerk Admin/Fragen/Screenshot 2024-03-06 at 1.58.44 PM.png",
+    "Contents/Netzwerk Admin/Fragen/Screenshot 2024-03-06 at 1.46.54 PM.png",
+    "Contents/Netzwerk Admin/Fragen",
+    "Contents/Generell/OSI 7-Schichten Modell.md",
+    "Contents/IP/NAT-Routing.md",
+    "Contents/Generell/Generell.md",
     "Contents/Contents.md",
+    "Contents/Anbindung's Arten/Anbindung's Arten.md",
     "Contents/Active Directory (AD)/FSMO.md",
     "Contents/Active Directory (AD)/Group Policies.md",
     "Contents/Generell/D.O.R.A..md",
@@ -174,17 +185,10 @@
     "Contents/IP/IP.md",
     "Contents/IP/Ports.md",
     "Contents/Generell/ICMP.md",
-    "Contents/Generell/OSI 7-Schichten Modell.md",
-    "Contents/Generell/Router.md",
-    "Contents/IP/Important IP-Addresses.md",
     "Netzwerkadministrator Unterlagen",
-    "Contents/Coding/Python.md",
-    "Skriptum cdf781c0b50441d4938e72047da9d5ef.md",
-    "Contents/IP/IPv6.md",
     "Contents/Netzwerk Admin",
     "82d4f612-3fa6-4dba-85d0-257d71c2db26_Export-29034323-dd72-48f0-9dca-96d6c6ebefcb.zip",
     "Contents/Attachments/Untitled.drawio.crswap",
-    "Contents/Attachments/Untitled.drawio",
-    "Contents/Active Directory (AD)/AD-Strukture"
+    "Contents/Attachments/Untitled.drawio"
   ]
 }

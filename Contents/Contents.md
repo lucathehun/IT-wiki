@@ -13,6 +13,8 @@
 - **[Network](./Network/Network.md)**
 - **Netzwerk Admin**
 	- [[Adressbereiche]]
+	- **Fragen**
+		- [[FRAGEN]]
 	- [[Skriptum]]
 - **[Operating Systems (OS)](./Operating%20Systems%20(OS)/Operating%20Systems%20(OS).md)**
 - **[Practice](./Practice/Practice.md)**
