@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Generell/DNS vs NETBios.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Generell/DNS vs NETBios.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Generell/DNS vs NETBios.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Generell/DNS vs NETBios.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,6 +150,14 @@
   },
   "active": "6274321a32bc3ee8",
   "lastOpenFiles": [
+    "Netzwerkadministrator Unterlagen/NA20_M1_NWGL-FINAL.pdf",
+    "Netzwerkadministrator Unterlagen/NA_M2_Windows10-Client.pdf",
+    "Netzwerkadministrator Unterlagen/NA_M1_Netzwerkgrundlagen.pdf",
+    "Netzwerkadministrator Unterlagen/NA_M3_Windows_Server-2019.pdf",
+    "Netzwerkadministrator Unterlagen/NA_M4_Internetanbindung.pdf",
+    "README.md",
+    "Contents/Generell/TCP.md",
+    "Contents/Generell/DNS vs NETBios.md",
     "Contents/Generell/D.O.R.A..md",
     "Contents/Coding/Python.md",
     "Contents/Coding/Coding languages.md",
@@ -167,8 +175,6 @@
     "Contents/Anbindung's Arten/Anbindung's Arten.md",
     "Contents/Active Directory (AD)/FSMO.md",
     "Contents/Active Directory (AD)/Group Policies.md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Netzwerkadministrator Unterlagen/NA20_M1_NWGL-FINAL.pdf",
     "Contents/Network/Network.md",
     "Contents/Anbindung's Arten/RTT.md",
     "Contents/Anbindung's Arten/Festnetz.md",
@@ -182,13 +188,7 @@
     "Contents/Anbindung's Arten",
     "Contents/Generell/VLANs.md",
     "Contents/Network",
-    "Contents/Untitled.md",
-    "Contents/IP/IP.md",
-    "Contents/IP/Ports.md",
     "Netzwerkadministrator Unterlagen",
-    "Contents/Netzwerk Admin",
-    "82d4f612-3fa6-4dba-85d0-257d71c2db26_Export-29034323-dd72-48f0-9dca-96d6c6ebefcb.zip",
-    "Contents/Attachments/Untitled.drawio.crswap",
-    "Contents/Attachments/Untitled.drawio"
+    "Contents/Netzwerk Admin"
   ]
 }
