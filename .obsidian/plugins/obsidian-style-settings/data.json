@@ -1,8 +1,0 @@
-{
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
-  "catppuccin-heading-settings@@ctp-h1": "var(--ctp-lavender)",
-  "catppuccin-heading-settings@@ctp-h2": "var(--ctp-sapphire)",
-  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-teal)",
-  "catppuccin-heading-settings@@ctp-h4": "var(--ctp-maroon)",
-  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-rosewater)"
-}
