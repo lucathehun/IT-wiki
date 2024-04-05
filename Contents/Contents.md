@@ -11,17 +11,17 @@
 - **[Hardware](./Hardware/Hardware.md)**
 - **[IP](./IP/IP.md)**
 - **[Network](./Network/Network.md)**
-- **Netzwerk Admin**
-	- [[Adressbereiche]]
-	- **FOLIEN**
-
-	- **Fragen**
-		- [[FRAGEN]]
-	- [[Skriptum]]
 - **[Operating Systems (OS)](./Operating%20Systems%20(OS)/Operating%20Systems%20(OS).md)**
 - **[Practice](./Practice/Practice.md)**
 - **[Printer](./Printer/Printer.md)**
-- **Prüfung**
+- **Prüfungen**
+	- **Netzwerk Admin**
+		- [[Adressbereiche]]
+		- **FOLIEN**
+
+		- **Fragen**
+			- [[FRAGEN]]
+		- [[Skriptum]]
 	- [[Relevantes für die Prüfung]]
 - **[Virtual Machines (VM)](./Virtual%20Machines%20(VM)/Virtual%20Machines%20(VM).md)**
 

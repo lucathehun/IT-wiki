@@ -41,13 +41,10 @@
   "Contents/Virtual Machines (VM)": "FasDesktop",
   "Contents/4.Attachments": "FarFileImage",
   "Contents/IP": "FarAddressBook",
-  "Contents/Prüfung": "SiTestcafe",
   "Contents/Practice": "FasBrain",
-  "Contents/Prüfung/Relevantes für die Prüfung.md": "FasTableList",
   "Contents/Printer": "FasPrint",
   "Contents/Attachments": "FasCamera",
   "Contents/Coding": "FasCode",
-  "Contents/Netzwerk Admin": "FasBrain",
   "Contents/Generell/Generell.md": "FasTableList",
   "Contents/Active Directory (AD)/Active Directory (AD).md": "FasTableList",
   "Contents/Hardware/Hardware.md": "FasTableList",
@@ -55,5 +52,8 @@
   "Contents/Operating Systems (OS)/Operating Systems (OS).md": "FasTableList",
   "Contents/Practice/Practice.md": "FasTableList",
   "Contents/Printer/Printer.md": "FasTableList",
-  "Contents/Virtual Machines (VM)/Virtual Machines (VM).md": "FasTableList"
+  "Contents/Virtual Machines (VM)/Virtual Machines (VM).md": "FasTableList",
+  "Contents/Prüfungen": "SiTestcafe",
+  "Contents/Prüfungen/Relevantes für die Prüfung.md": "FasTableList",
+  "Contents/Prüfungen/Netzwerk Admin": "FasBrain"
 }
