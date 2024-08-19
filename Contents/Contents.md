@@ -1,19 +1,20 @@
 %% Begin Waypoint %%
-- **[Active Directory (AD)](./Active%20Directory%20(AD)/Active%20Directory%20(AD).md)**
-- **[Anbindung's Arten](./Anbindung's%20Arten/Anbindung's%20Arten.md)**
+- **[[Active Directory (AD)]]**
+- **[[Anbindung's Arten]]**
 - **Attachments**
 
 - **Coding**
 	- [[Coding Contents]]
 	- [[Coding languages]]
 	- [[Python]]
-- **[Generell](./Generell/Generell.md)**
-- **[Hardware](./Hardware/Hardware.md)**
-- **[IP](./IP/IP.md)**
-- **[Network](./Network/Network.md)**
-- **[Operating Systems (OS)](./Operating%20Systems%20(OS)/Operating%20Systems%20(OS).md)**
-- **[Practice](./Practice/Practice.md)**
-- **[Printer](./Printer/Printer.md)**
+- **[[EEvOfferten]]**
+- **[[Generell]]**
+- **[[Hardware]]**
+- **[[IP]]**
+- **[[Network]]**
+- **[[Operating Systems (OS)]]**
+- **[[Practice]]**
+- **[[Printer]]**
 - **Prüfungen**
 	- **Netzwerk Admin**
 		- [[Adressbereiche]]
@@ -23,6 +24,6 @@
 			- [[FRAGEN]]
 		- [[Skriptum]]
 	- [[Relevantes für die Prüfung]]
-- **[Virtual Machines (VM)](./Virtual%20Machines%20(VM)/Virtual%20Machines%20(VM).md)**
+- **[[Virtual Machines (VM)]]**
 
 %% End Waypoint %%
