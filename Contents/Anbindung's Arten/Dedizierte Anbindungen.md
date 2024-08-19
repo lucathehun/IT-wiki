@@ -1,8 +1,8 @@
-MPLS - Multiprotocol Label Switching 
+## MPLS - Multiprotocol Label Switching 
 - Unterschiedlichster Traffic über eine Leitung möglich 
 - Switching der Pa
 
-gemietete LWL-Direktverbindung 
+## gemietete LWL-Direktverbindung 
 - Eigens verlegte, deizierte Leitung (garantiert Bandbreite)
 - Meistens IP-Verbindung ins Netz des Providers 
 - auch 'providerfreier' Betrieb mittels BGP-Router möglich 
