@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed4cf5885be3d69b",
+        "id": "23a5cda33f7dbb9b",
         "type": "tabs",
         "children": [
           {
-            "id": "647860079c73d0bc",
+            "id": "8059974f5e161f73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/EEvOfferten/IDK.md",
+                "file": "Contents/Web 2.0/What we do?.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2876e1be8ed12764",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/EEvOfferten/IDK.md",
+                "file": "Contents/Web 2.0/What we do?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/EEvOfferten/IDK.md",
+                "file": "Contents/Web 2.0/What we do?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/EEvOfferten/IDK.md"
+                "file": "Contents/Web 2.0/What we do?.md"
               }
             }
           }
@@ -146,11 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "647860079c73d0bc",
+  "active": "8059974f5e161f73",
   "lastOpenFiles": [
-    "Contents/EEvOfferten/EEvOfferten.md",
-    "Contents/EEvOfferten/IDK.md",
+    "Contents/Web 2.0/Web 2.0.md",
+    "Contents/Web 2.0/What we do?.md",
+    "Contents/Linux/Linux.md",
+    "Contents/Web 2.0",
+    "Contents/Untitled.md",
+    "Contents/Coding/Coding.md",
     "Contents/Contents.md",
+    "Contents/EEvOfferten/IDK.md",
+    "Contents/Linux",
+    "Contents/EEvOfferten/EEvOfferten.md",
     "Contents/Active Directory (AD)/Active Directory (AD).md",
     "Contents/EEvOfferten",
     "Contents/Active Directory (AD)/AD Datenbank.md",

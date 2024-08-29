@@ -3,14 +3,12 @@
 - **[[Anbindung's Arten]]**
 - **Attachments**
 
-- **Coding**
-	- [[Coding Contents]]
-	- [[Coding languages]]
-	- [[Python]]
+- **[[Coding]]**
 - **[[EEvOfferten]]**
 - **[[Generell]]**
 - **[[Hardware]]**
 - **[[IP]]**
+- **[[Linux]]**
 - **[[Network]]**
 - **[[Operating Systems (OS)]]**
 - **[[Practice]]**
@@ -25,5 +23,6 @@
 		- [[Skriptum]]
 	- [[Relevantes für die Prüfung]]
 - **[[Virtual Machines (VM)]]**
+- **[[Web 2.0]]**
 
 %% End Waypoint %%
