@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Web 2.0/What we do?.md",
+                "file": "Contents/Prüfungen/LAP/what_to_learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 262.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Web 2.0/What we do?.md",
+                "file": "Contents/Prüfungen/LAP/what_to_learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Web 2.0/What we do?.md",
+                "file": "Contents/Prüfungen/LAP/what_to_learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Web 2.0/What we do?.md"
+                "file": "Contents/Prüfungen/LAP/what_to_learn.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "8059974f5e161f73",
   "lastOpenFiles": [
-    "Contents/Web 2.0/Web 2.0.md",
+    "Contents/Prüfungen/LAP/LAP.md",
     "Contents/Web 2.0/What we do?.md",
+    "Contents/Web 2.0/Web 2.0.md",
     "Contents/Linux/Linux.md",
     "Contents/Web 2.0",
     "Contents/Untitled.md",
