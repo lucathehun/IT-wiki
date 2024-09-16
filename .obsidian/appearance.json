@@ -1,4 +1,9 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": ""
+  "accentColor": "",
+  "translucency": false,
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "baseFontSize": 14
 }

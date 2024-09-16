@@ -9,8 +9,11 @@
 - **[[Hardware]]**
 - **[[IP]]**
 - **[[Linux]]**
+- **Monitoring**
+
 - **[[Network]]**
 - **[[Operating Systems (OS)]]**
+- **[[Powershell]]**
 - **[[Practice]]**
 - **[[Printer]]**
 - **Prüfungen**
@@ -23,6 +26,7 @@
 			- [[FRAGEN]]
 		- [[Skriptum]]
 	- [[Relevantes für die Prüfung]]
+	- **[[SysAdmin]]**
 - **[[Virtual Machines (VM)]]**
 - **[[Web 2.0]]**
 

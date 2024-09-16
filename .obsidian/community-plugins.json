@@ -1,5 +1,6 @@
 [
-  "obsidian-minimal-settings",
   "waypoint",
-  "improved-vimcursor"
+  "improved-vimcursor",
+  "obsidian-minimal-settings",
+  "code-styler"
 ]

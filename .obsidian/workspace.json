@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "23a5cda33f7dbb9b",
+        "id": "578891feb4ae0807",
         "type": "tabs",
         "children": [
           {
-            "id": "8059974f5e161f73",
+            "id": "1e86bb9c7e160db2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Prüfungen/LAP/what_to_learn.md",
+                "file": "Contents/Linux/Aufgaben.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6df981005987f634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Powershell/scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Prüfungen/LAP/what_to_learn.md",
+                "file": "Contents/Linux/Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Prüfungen/LAP/what_to_learn.md",
+                "file": "Contents/Linux/Aufgaben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Prüfungen/LAP/what_to_learn.md"
+                "file": "Contents/Linux/Aufgaben.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 446.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,12 +160,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8059974f5e161f73",
+  "active": "1e86bb9c7e160db2",
   "lastOpenFiles": [
+    "Contents/Powershell/scripting.md",
+    "Contents/Powershell/Powershell.md",
+    "Contents/Linux/Aufgaben.md",
+    "Contents/Linux/Linux.md",
+    "Contents/Linux/Vertiefung Zusammenfassung.md",
+    "Contents/Linux/Systemd.md",
+    "Contents/Monitoring/Lerninhalte-ModulMonitoring.pdf",
+    "Contents/Monitoring/IT-Monitoring.pdf",
     "Contents/Prüfungen/LAP/LAP.md",
+    "Contents/Prüfungen/LAP/what_to_learn.md",
+    "Contents/Powershell",
+    "Contents/Prüfungen/Relevantes für die Prüfung.md",
+    "Contents/Prüfungen/SysAdmin/SysAdmin.md",
+    "Contents/SysAdmin/Untitled.md",
+    "Contents/Prüfungen/SysAdmin",
     "Contents/Web 2.0/What we do?.md",
     "Contents/Web 2.0/Web 2.0.md",
-    "Contents/Linux/Linux.md",
     "Contents/Web 2.0",
     "Contents/Untitled.md",
     "Contents/Coding/Coding.md",
@@ -167,11 +193,6 @@
     "TEST.md",
     "Contents/IP/IPv6.md",
     "Contents/Active Directory (AD)/DHCP.md",
-    "Contents/IP/Öffentliche IP-Bereiche.md",
-    "Contents/Active Directory (AD)/DNS.md",
-    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
-    "Contents/Active Directory (AD)/X.500.md",
-    "Contents/Active Directory (AD)/AD-Strukture/Structure.md",
-    "Contents/Active Directory (AD)/AGULP.md"
+    "Contents/IP/Öffentliche IP-Bereiche.md"
   ]
 }
