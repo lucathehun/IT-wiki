@@ -2,5 +2,7 @@
   "vimMode": true,
   "tabSize": 2,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showRibbon": true,
+  "defaultViewMode": "source"
 }

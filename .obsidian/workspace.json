@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e86bb9c7e160db2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/Linux/Aufgaben.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6df981005987f634",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Powershell/scripting.md",
+                "file": "Contents/Coding/Coding.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "2876e1be8ed12764",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Linux/Aufgaben.md",
+                "file": "Contents/Coding/Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Linux/Aufgaben.md",
+                "file": "Contents/Coding/Coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Linux/Aufgaben.md"
+                "file": "Contents/Coding/Coding.md"
               }
             }
           }
@@ -160,11 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e86bb9c7e160db2",
+  "active": "6df981005987f634",
   "lastOpenFiles": [
+    "Contents/Coding/Python.md",
+    "Contents/Coding/Coding.md",
+    "Contents/Active Directory (AD)/Active Directory (AD).md",
+    "Contents/Contents.md",
+    "Contents/Linux/Aufgaben.md",
     "Contents/Powershell/scripting.md",
     "Contents/Powershell/Powershell.md",
-    "Contents/Linux/Aufgaben.md",
     "Contents/Linux/Linux.md",
     "Contents/Linux/Vertiefung Zusammenfassung.md",
     "Contents/Linux/Systemd.md",
@@ -181,12 +172,9 @@
     "Contents/Web 2.0/Web 2.0.md",
     "Contents/Web 2.0",
     "Contents/Untitled.md",
-    "Contents/Coding/Coding.md",
-    "Contents/Contents.md",
     "Contents/EEvOfferten/IDK.md",
     "Contents/Linux",
     "Contents/EEvOfferten/EEvOfferten.md",
-    "Contents/Active Directory (AD)/Active Directory (AD).md",
     "Contents/EEvOfferten",
     "Contents/Active Directory (AD)/AD Datenbank.md",
     "README.md",

@@ -20,9 +20,9 @@ Weiterhin wird bei einigen Laserdruckern technisch bedingt Ozon freigesetzt. Das
 - **Vorteile**
   Die LED-Zeile ist wesentlich Platz sparender - zudem fällt der Polygonspiegel weg, der den Laserstrahl auf die Breite der Bildtrommel projiziert. 
 ### Aufbau
-![](../Attachments/Pasted%20image%2020231118133522.png)
+![](Pasted%20image%2020231118133522.png)
 ## LCS-Technik
 ### Funktion
 In **LCS-Druckern** (**LCS** = Liquid Crystal Shutter - Flüssigkristall-Verschluss) wird als Lichtquelle eine Leuchtstoffröhre verwendet. Die Belichtung der Trommel geschieht mit Hilfe einer Flüssigkristallleiste. Diese lässt Licht an den Punkten durch, welche die Trommel belichten, also Bildpunkte erzeugt. 
 ### Aufbau
-![](../Attachments/Pasted%20image%2020231118133654.png)
+![](Pasted%20image%2020231118133654.png)

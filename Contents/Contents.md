@@ -1,8 +1,6 @@
 %% Begin Waypoint %%
 - **[[Active Directory (AD)]]**
 - **[[Anbindung's Arten]]**
-- **Attachments**
-
 - **[[Coding]]**
 - **[[EEvOfferten]]**
 - **[[Generell]]**
