@@ -1,0 +1,5 @@
+- [ ] Open the ssh port on firewall
+- [ ] install NextCloud dependencies 
+- [ ] install NextCloud 
+- [ ] configure 
+- [ ] ...

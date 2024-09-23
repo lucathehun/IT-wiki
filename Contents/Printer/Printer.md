@@ -1,5 +1,4 @@
 %% Begin Waypoint %%
-- [[Festtinten Drucker]]
 - [[Flachbett- oder Tischplotter]]
 - [[Laserdrucker]]
 - [[Nadeldrucker]]

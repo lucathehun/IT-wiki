@@ -1,7 +1,6 @@
 %% Begin Waypoint %%
 - [[AD Datenbank]]
 - **AD-Strukture**
-	- [[Structure]]
 - [[AGULP]]
 - [[DHCP]]
 - [[DNS-Record-Typen]]

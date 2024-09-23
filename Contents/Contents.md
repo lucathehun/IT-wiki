@@ -19,12 +19,12 @@
 	- **Netzwerk Admin**
 		- [[Adressbereiche]]
 		- **FOLIEN**
-
 		- **Fragen**
 			- [[FRAGEN]]
 		- [[Skriptum]]
 	- [[Relevantes für die Prüfung]]
 	- **[[SysAdmin]]**
+- **[[Softwareverteilung]]**
 - **[[Virtual Machines (VM)]]**
 - **[[Web 2.0]]**
 

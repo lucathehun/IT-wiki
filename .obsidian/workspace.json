@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Coding/Coding.md",
+                "file": "Contents/Practice/Forest/NextCloud-Pi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Coding/Coding.md",
+                "file": "Contents/Practice/Forest/NextCloud-Pi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Coding/Coding.md",
+                "file": "Contents/Practice/Forest/NextCloud-Pi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Coding/Coding.md"
+                "file": "Contents/Practice/Forest/NextCloud-Pi.md"
               }
             }
           }
@@ -149,9 +149,27 @@
   },
   "active": "6df981005987f634",
   "lastOpenFiles": [
-    "Contents/Coding/Python.md",
-    "Contents/Coding/Coding.md",
+    "Contents/Practice/Forest/Base-Plan.md",
+    "Contents/Practice/Forest/NextCloud-Pi.md",
+    "Contents/Practice/Forest/Forest.md",
+    "Contents/Active Directory (AD)/Forest.md",
+    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
+    "Contents/Active Directory (AD)/DNS.md",
+    "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/Active Directory (AD)/Active Directory (AD).md",
+    "README.md",
+    "Contents/Practice/Forest Project.md",
+    "Contents/Practice/Forest",
+    "Contents/Softwareverteilung/Softwareverteilung.md",
+    "Contents/Coding/Coding.md",
+    "Contents/Softwareverteilung",
+    "Contents/Prüfungen/SysAdmin/SA_M1_Virtualisierung.pdf",
+    "Contents/Prüfungen/SysAdmin/SYSADMIN_ALL=OP.pdf",
+    "Contents/Prüfungen/SysAdmin/SA_M5_Backup-Recovery.pdf",
+    "Contents/Prüfungen/SysAdmin/SA_M3_Firewall_VPN.pdf",
+    "Contents/Prüfungen/SysAdmin/SA_M4_Office365.pdf",
+    "Contents/Prüfungen/SysAdmin/SA_M2_AD_NW.pdf",
+    "Contents/Coding/Python.md",
     "Contents/Contents.md",
     "Contents/Linux/Aufgaben.md",
     "Contents/Powershell/scripting.md",
@@ -163,24 +181,9 @@
     "Contents/Monitoring/IT-Monitoring.pdf",
     "Contents/Prüfungen/LAP/LAP.md",
     "Contents/Prüfungen/LAP/what_to_learn.md",
-    "Contents/Powershell",
     "Contents/Prüfungen/Relevantes für die Prüfung.md",
     "Contents/Prüfungen/SysAdmin/SysAdmin.md",
     "Contents/SysAdmin/Untitled.md",
-    "Contents/Prüfungen/SysAdmin",
-    "Contents/Web 2.0/What we do?.md",
-    "Contents/Web 2.0/Web 2.0.md",
-    "Contents/Web 2.0",
-    "Contents/Untitled.md",
-    "Contents/EEvOfferten/IDK.md",
-    "Contents/Linux",
-    "Contents/EEvOfferten/EEvOfferten.md",
-    "Contents/EEvOfferten",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
-    "README.md",
-    "TEST.md",
-    "Contents/IP/IPv6.md",
-    "Contents/Active Directory (AD)/DHCP.md",
-    "Contents/IP/Öffentliche IP-Bereiche.md"
+    "Contents/Web 2.0/What we do?.md"
   ]
 }

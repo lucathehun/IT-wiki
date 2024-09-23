@@ -1,6 +1,5 @@
 %% Begin Waypoint %%
 - [[ARP]]
-- [[BCD]]
 - [[D.O.R.A.]]
 - [[DNS vs NETBios]]
 - [[Dokumentieren]]
