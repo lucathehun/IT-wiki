@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "578891feb4ae0807",
+        "id": "7e89ac90aaa895ec",
         "type": "tabs",
         "children": [
           {
-            "id": "6df981005987f634",
+            "id": "58130d01191afb89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Practice/Forest/NextCloud-Pi.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,22 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bac9138934dd86f5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "2876e1be8ed12764",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Practice/Forest/NextCloud-Pi.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Practice/Forest/NextCloud-Pi.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Practice/Forest/NextCloud-Pi.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,43 +157,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6df981005987f634",
+  "active": "58130d01191afb89",
   "lastOpenFiles": [
-    "Contents/Practice/Forest/Base-Plan.md",
-    "Contents/Practice/Forest/NextCloud-Pi.md",
-    "Contents/Practice/Forest/Forest.md",
-    "Contents/Active Directory (AD)/Forest.md",
-    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
-    "Contents/Active Directory (AD)/DNS.md",
-    "Contents/Active Directory (AD)/AD Datenbank.md",
     "Contents/Active Directory (AD)/Active Directory (AD).md",
-    "README.md",
-    "Contents/Practice/Forest Project.md",
-    "Contents/Practice/Forest",
-    "Contents/Softwareverteilung/Softwareverteilung.md",
+    "Contents/Green-IT/Green-IT.md",
+    "Contents/Green-IT",
+    "Contents/Prüfungen/SysAdmin/SysAdmin.md",
+    "Contents/Generell/D.O.R.A..md",
+    "Contents/Generell/ARP.md",
+    "Contents/Generell/Generell.md",
+    "Contents/Generell/File Systems.md",
+    "Contents/Generell/ICMP.md",
+    "Contents/Generell/DNS vs NETBios.md",
+    "Contents/Generell/Dokumentieren.md",
+    "Contents/EEvOfferten/EEvOfferten.md",
+    "Contents/Coding/Coding languages.md",
     "Contents/Coding/Coding.md",
+    "Contents/Anbindung's Arten/Mobilfunk.md",
+    "Contents/Anbindung's Arten/LWL.md",
+    "Contents/Anbindung's Arten/Festnetz.md",
+    "Contents/Anbindung's Arten/Dedizierte Anbindungen.md",
+    "Contents/Anbindung's Arten/Anbindung's Arten.md",
+    "Contents/Active Directory (AD)/LDAP.md",
+    "Contents/Active Directory (AD)/NTFS.md",
+    "Contents/Active Directory (AD)/Privat Domains.md",
+    "Contents/Active Directory (AD)/Kerberos.md",
+    "Contents/Active Directory (AD)/Group Policies.md",
+    "Contents/Active Directory (AD)/Forest.md",
+    "Contents/Active Directory (AD)/Firewall.md",
+    "Contents/Active Directory (AD)/FQDN.md",
+    "Tags",
+    "Untitled",
+    "Contents/Practice/Forest",
     "Contents/Softwareverteilung",
     "Contents/Prüfungen/SysAdmin/SA_M1_Virtualisierung.pdf",
     "Contents/Prüfungen/SysAdmin/SYSADMIN_ALL=OP.pdf",
     "Contents/Prüfungen/SysAdmin/SA_M5_Backup-Recovery.pdf",
     "Contents/Prüfungen/SysAdmin/SA_M3_Firewall_VPN.pdf",
-    "Contents/Prüfungen/SysAdmin/SA_M4_Office365.pdf",
-    "Contents/Prüfungen/SysAdmin/SA_M2_AD_NW.pdf",
-    "Contents/Coding/Python.md",
-    "Contents/Contents.md",
-    "Contents/Linux/Aufgaben.md",
-    "Contents/Powershell/scripting.md",
-    "Contents/Powershell/Powershell.md",
-    "Contents/Linux/Linux.md",
-    "Contents/Linux/Vertiefung Zusammenfassung.md",
-    "Contents/Linux/Systemd.md",
-    "Contents/Monitoring/Lerninhalte-ModulMonitoring.pdf",
-    "Contents/Monitoring/IT-Monitoring.pdf",
-    "Contents/Prüfungen/LAP/LAP.md",
-    "Contents/Prüfungen/LAP/what_to_learn.md",
-    "Contents/Prüfungen/Relevantes für die Prüfung.md",
-    "Contents/Prüfungen/SysAdmin/SysAdmin.md",
-    "Contents/SysAdmin/Untitled.md",
-    "Contents/Web 2.0/What we do?.md"
+    "Contents/Prüfungen/SysAdmin/SA_M4_Office365.pdf"
   ]
 }

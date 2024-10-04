@@ -4,26 +4,17 @@
 - **[[Coding]]**
 - **[[EEvOfferten]]**
 - **[[Generell]]**
+- **[[Green-IT]]**
 - **[[Hardware]]**
 - **[[IP]]**
 - **[[Linux]]**
-- **Monitoring**
-
+- **[[Monitoring]]**
 - **[[Network]]**
 - **[[Operating Systems (OS)]]**
 - **[[Powershell]]**
 - **[[Practice]]**
 - **[[Printer]]**
-- **Prüfungen**
-	- **[[LAP]]**
-	- **Netzwerk Admin**
-		- [[Adressbereiche]]
-		- **FOLIEN**
-		- **Fragen**
-			- [[FRAGEN]]
-		- [[Skriptum]]
-	- [[Relevantes für die Prüfung]]
-	- **[[SysAdmin]]**
+- **[[Prüfungen]]**
 - **[[Softwareverteilung]]**
 - **[[Virtual Machines (VM)]]**
 - **[[Web 2.0]]**

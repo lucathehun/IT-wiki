@@ -1,4 +1,7 @@
 [
   "waypoint",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "codeblock-customizer",
+  "improved-vimcursor",
+  "make-md"
 ]
