@@ -1,6 +1,3 @@
----
-sticker: lucide//info
----
 # A little something about this project 
 
 Hey there! 
