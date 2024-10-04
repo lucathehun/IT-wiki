@@ -52,7 +52,8 @@
     "//Contents/Contents/EEvOfferten",
     "//Contents/Contents/Generell",
     "Contents/Prüfungen/SysAdmin",
-    "//Contents/Contents/Green-IT"
+    "//Contents/Contents/Green-IT",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

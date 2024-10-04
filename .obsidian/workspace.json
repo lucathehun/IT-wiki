@@ -11,11 +11,9 @@
             "id": "58130d01191afb89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "path": "Contents/Active Directory (AD)"
               }
             }
           }
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Contents/Active Directory (AD)/Active Directory (AD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Contents/Active Directory (AD)/Active Directory (AD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Contents/Active Directory (AD)/Active Directory (AD).md"
               }
             }
           }
@@ -157,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58130d01191afb89",
+  "active": "d14c312b8028a322",
   "lastOpenFiles": [
+    "README.md",
+    "README.md.new",
+    "Contents/Contents.md",
     "Tags",
     "Contents/Active Directory (AD)/Active Directory (AD).md",
     "Contents/Green-IT/Green-IT.md",
@@ -184,15 +185,12 @@
     "Contents/Active Directory (AD)/Privat Domains.md",
     "Contents/Active Directory (AD)/Kerberos.md",
     "Contents/Active Directory (AD)/Group Policies.md",
-    "Contents/Active Directory (AD)/Forest.md",
-    "Contents/Active Directory (AD)/Firewall.md",
     "Untitled",
     "Contents/Practice/Forest",
     "Contents/Softwareverteilung",
     "Contents/Prüfungen/SysAdmin/SA_M1_Virtualisierung.pdf",
     "Contents/Prüfungen/SysAdmin/SYSADMIN_ALL=OP.pdf",
     "Contents/Prüfungen/SysAdmin/SA_M5_Backup-Recovery.pdf",
-    "Contents/Prüfungen/SysAdmin/SA_M3_Firewall_VPN.pdf",
-    "Contents/Prüfungen/SysAdmin/SA_M4_Office365.pdf"
+    "Contents/Prüfungen/SysAdmin/SA_M3_Firewall_VPN.pdf"
   ]
 }
