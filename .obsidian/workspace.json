@@ -11,10 +11,8 @@
             "id": "58130d01191afb89",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Contents/Active Directory (AD)"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "2876e1be8ed12764",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Active Directory (AD)/Active Directory (AD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Active Directory (AD)/Active Directory (AD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Contents/Active Directory (AD)/Active Directory (AD).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,24 +148,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d14c312b8028a322",
+  "active": "58130d01191afb89",
   "lastOpenFiles": [
+    "Tags",
+    "Contents/EEvOfferten/EEvOfferten.md",
+    "Contents/Generell/Generell.md",
+    "Contents/Active Directory (AD)/FQDN.md",
+    "Contents/Active Directory (AD)/DNS-Record-Typen.md",
+    "Contents/Active Directory (AD)/AGULP.md",
+    "Contents/Active Directory (AD)/DHCP.md",
+    "Contents/Contents.md",
+    "Contents/Active Directory (AD)/Active Directory (AD).md",
     "README.md",
     "README.md.new",
-    "Contents/Contents.md",
-    "Tags",
-    "Contents/Active Directory (AD)/Active Directory (AD).md",
     "Contents/Green-IT/Green-IT.md",
     "Contents/Green-IT",
     "Contents/Prüfungen/SysAdmin/SysAdmin.md",
     "Contents/Generell/D.O.R.A..md",
     "Contents/Generell/ARP.md",
-    "Contents/Generell/Generell.md",
     "Contents/Generell/File Systems.md",
     "Contents/Generell/ICMP.md",
     "Contents/Generell/DNS vs NETBios.md",
     "Contents/Generell/Dokumentieren.md",
-    "Contents/EEvOfferten/EEvOfferten.md",
     "Contents/Coding/Coding languages.md",
     "Contents/Coding/Coding.md",
     "Contents/Anbindung's Arten/Mobilfunk.md",
@@ -181,10 +178,6 @@
     "Contents/Anbindung's Arten/Dedizierte Anbindungen.md",
     "Contents/Anbindung's Arten/Anbindung's Arten.md",
     "Contents/Active Directory (AD)/LDAP.md",
-    "Contents/Active Directory (AD)/NTFS.md",
-    "Contents/Active Directory (AD)/Privat Domains.md",
-    "Contents/Active Directory (AD)/Kerberos.md",
-    "Contents/Active Directory (AD)/Group Policies.md",
     "Untitled",
     "Contents/Practice/Forest",
     "Contents/Softwareverteilung",

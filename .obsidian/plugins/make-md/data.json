@@ -44,16 +44,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Contents",
-    "//Contents/Contents/Active Directory (AD)",
-    "//Contents/Contents/Anbindung's Arten",
-    "//Contents/Contents/Coding",
-    "//Contents/Contents/EEvOfferten",
-    "//Contents/Contents/Generell",
     "Contents/Prüfungen/SysAdmin",
-    "//Contents/Contents/Green-IT",
-    "//Tags"
+    "//Tags",
+    "/",
+    "//Contents"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
