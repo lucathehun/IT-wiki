@@ -11,8 +11,10 @@
             "id": "58130d01191afb89",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              }
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "2876e1be8ed12764",
@@ -150,6 +153,8 @@
   },
   "active": "58130d01191afb89",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Tags",
     "Contents/EEvOfferten/EEvOfferten.md",
     "Contents/Generell/Generell.md",

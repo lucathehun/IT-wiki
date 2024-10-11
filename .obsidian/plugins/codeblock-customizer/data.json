@@ -324,7 +324,7 @@
       "common": {
         "enableInSourceMode": false
       },
-      "enableEditorActiveLineHighlight": true
+      "enableEditorActiveLineHighlight": false
     },
     "colors": {
       "dark": {
@@ -400,7 +400,7 @@
   "alternateHighlightColorName": "",
   "languageBorderColorName": "",
   "foldAllCommand": false,
-  "settingsType": "codeblock",
+  "settingsType": "basic",
   "langSpecificSettingsType": "",
   "languageSpecificLanguageName": ""
 }
