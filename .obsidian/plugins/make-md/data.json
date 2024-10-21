@@ -1,5 +1,5 @@
 {
-  "newNotePlaceholder": "Untitled",
+  "newNotePlaceholder": "name me :( ",
   "defaultInitialization": false,
   "navigatorEnabled": true,
   "filePreviewOnHover": false,
@@ -46,8 +46,10 @@
   "expandedSpaces": [
     "Contents/Prüfungen/SysAdmin",
     "//Tags",
+    "//Contents",
+    "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin",
     "/",
-    "//Contents"
+    "//Contents/Contents/Prüfungen"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

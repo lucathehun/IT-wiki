@@ -2,7 +2,6 @@
 - **[[LAP]]**
 - **Netzwerk Admin**
 	- [[Adressbereiche]]
-	- **FOLIEN**
 	- **Fragen**
 		- [[FRAGEN]]
 		- [[Screenshot 2024-03-06 at 1.46.54 PM.png]]

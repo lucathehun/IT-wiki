@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e89ac90aaa895ec",
+        "id": "0c6d05b966a450bb",
         "type": "tabs",
         "children": [
           {
-            "id": "58130d01191afb89",
+            "id": "419941a398325435",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
-              }
+                "file": "Contents/Prüfungen/SysAdmin/Microsoft365/all.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "all"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,15 +68,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "bac9138934dd86f5",
+            "id": "a583e67ef76eb3d8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -100,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -111,7 +125,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -122,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -130,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -151,44 +171,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58130d01191afb89",
+  "active": "419941a398325435",
   "lastOpenFiles": [
+    "Contents/Prüfungen/SysAdmin/Virtualisierung/Virtualisierung.md",
+    "Contents/Prüfungen/SysAdmin/Virtualisierung",
+    "Contents/_attachments/Pasted image 20241018150659.png",
+    "Contents/Prüfungen/SysAdmin/Microsoft365/all.md",
+    "Contents/_attachments/Pasted image 20241018160007.png",
+    "Contents/_attachments/Pasted image 20241018155752.png",
+    "Contents/_attachments/Pasted image 20241018155748.png",
+    "Contents/_attachments/Pasted image 20241018155700.png",
+    "Contents/_attachments/Pasted image 20241018155650.png",
+    "Contents/_attachments/Pasted image 20241018155453.png",
+    "Contents/_attachments/Pasted image 20241018155403.png",
+    "Contents/_attachments/Pasted image 20241018155337.png",
+    "Contents/_attachments/Pasted image 20241018155306.png",
+    "Contents/Prüfungen/SysAdmin/Microsoft365/.md",
+    "Contents/Prüfungen/SysAdmin/Microsoft365/Microsoft365.md",
+    "Contents/Prüfungen/SysAdmin/Microsoft365",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Versuch einer Kategorisierung.md",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Internet Anbindung & Firewalls.md",
+    "Contents/Prüfungen/SysAdmin/SysAdmin.md",
+    "Contents/Prüfungen/Prüfungen.md",
+    "Contents/Operating Systems (OS)/Operating Systems (OS).md",
+    "Contents/Linux/Linux.md",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.canvas",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.md",
+    "Contents/Linux/Aufgaben.md",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Marktüberblick und Hersteller.md",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Firewall-Funktionen.md",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/CIDR-Notation.md",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/.md",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls.md",
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls",
+    "Contents/Prüfungen/Netzwerk Admin/Fragen/FRAGEN.md",
+    "Contents/Monitoring/Monitoring.md",
+    "Contents/IP/Important IP-Addresses.md",
+    "Contents/IP/Öffentliche IP-Bereiche.md",
+    "Contents/Generell/Generell.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Tags",
     "Contents/EEvOfferten/EEvOfferten.md",
-    "Contents/Generell/Generell.md",
     "Contents/Active Directory (AD)/FQDN.md",
     "Contents/Active Directory (AD)/DNS-Record-Typen.md",
     "Contents/Active Directory (AD)/AGULP.md",
-    "Contents/Active Directory (AD)/DHCP.md",
-    "Contents/Contents.md",
-    "Contents/Active Directory (AD)/Active Directory (AD).md",
-    "README.md",
     "README.md.new",
-    "Contents/Green-IT/Green-IT.md",
     "Contents/Green-IT",
-    "Contents/Prüfungen/SysAdmin/SysAdmin.md",
-    "Contents/Generell/D.O.R.A..md",
-    "Contents/Generell/ARP.md",
-    "Contents/Generell/File Systems.md",
-    "Contents/Generell/ICMP.md",
-    "Contents/Generell/DNS vs NETBios.md",
-    "Contents/Generell/Dokumentieren.md",
-    "Contents/Coding/Coding languages.md",
-    "Contents/Coding/Coding.md",
-    "Contents/Anbindung's Arten/Mobilfunk.md",
-    "Contents/Anbindung's Arten/LWL.md",
-    "Contents/Anbindung's Arten/Festnetz.md",
-    "Contents/Anbindung's Arten/Dedizierte Anbindungen.md",
-    "Contents/Anbindung's Arten/Anbindung's Arten.md",
-    "Contents/Active Directory (AD)/LDAP.md",
     "Untitled",
     "Contents/Practice/Forest",
     "Contents/Softwareverteilung",
-    "Contents/Prüfungen/SysAdmin/SA_M1_Virtualisierung.pdf",
-    "Contents/Prüfungen/SysAdmin/SYSADMIN_ALL=OP.pdf",
-    "Contents/Prüfungen/SysAdmin/SA_M5_Backup-Recovery.pdf",
-    "Contents/Prüfungen/SysAdmin/SA_M3_Firewall_VPN.pdf"
+    "Contents/Prüfungen/SysAdmin/SA_M1_Virtualisierung.pdf"
   ]
 }
