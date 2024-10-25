@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d969fceaff589408","x":-579,"y":-625,"width":1039,"height":865,"color":"6","type":"group","label":"stronsky.biz"},
+		{"id":"54b195e57be060d9","type":"text","text":"DC02.stronskz.biz\nIP: 192.168.19.252/24","x":50,"y":-293,"width":250,"height":60},
+		{"id":"5c97478194d2488a","type":"text","text":"DC01.stronsky.biz\nIP: 192.168.19.251/24","x":-450,"y":-293,"width":250,"height":60},
+		{"id":"20731089d1ff964c","type":"file","file":"Contents/_attachments/web.svg","x":-155,"y":-560,"width":160,"height":160},
+		{"id":"3f359450054ee8b0","type":"text","text":"WSxx.stronsky.biz\nIP: 192.168.19.100-200/24","x":-213,"y":140,"width":276,"height":50},
+		{"id":"f37830c1e7a65bb9","type":"text","text":"stronksy-NAT","x":-165,"y":-60,"width":180,"height":60},
+		{"id":"e7776a0d514ea8a9","type":"text","text":"stronsky.biz\n192.168.19.0/24\n255.255.255.0","x":-559,"y":-605,"width":218,"height":90}
+	],
+	"edges":[
+		{"id":"0133c13b45c4053e","fromNode":"5c97478194d2488a","fromSide":"bottom","toNode":"f37830c1e7a65bb9","toSide":"top"},
+		{"id":"061f18672997162b","fromNode":"f37830c1e7a65bb9","fromSide":"top","toNode":"5c97478194d2488a","toSide":"bottom"},
+		{"id":"6a1f77ff6d738011","fromNode":"f37830c1e7a65bb9","fromSide":"top","toNode":"54b195e57be060d9","toSide":"bottom"},
+		{"id":"e78fbbb11c8c40e2","fromNode":"54b195e57be060d9","fromSide":"bottom","toNode":"f37830c1e7a65bb9","toSide":"top"},
+		{"id":"cb8884903802bf87","fromNode":"f37830c1e7a65bb9","fromSide":"top","toNode":"20731089d1ff964c","toSide":"bottom"},
+		{"id":"9d05fec37c9cfed0","fromNode":"f37830c1e7a65bb9","fromSide":"bottom","toNode":"3f359450054ee8b0","toSide":"top"},
+		{"id":"92f52e296b7066b9","fromNode":"3f359450054ee8b0","fromSide":"top","toNode":"f37830c1e7a65bb9","toSide":"bottom"},
+		{"id":"f4146868fbb5a8d8","fromNode":"20731089d1ff964c","fromSide":"bottom","toNode":"f37830c1e7a65bb9","toSide":"top"}
+	]
+}

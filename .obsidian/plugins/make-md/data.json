@@ -49,7 +49,11 @@
     "//Contents",
     "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin",
     "/",
-    "//Contents/Contents/Prüfungen"
+    "//Contents/Contents/Prüfungen",
+    "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/Virtualisierung",
+    "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/Active Directory",
+    "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls",
+    "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/ Firewall & VPN"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

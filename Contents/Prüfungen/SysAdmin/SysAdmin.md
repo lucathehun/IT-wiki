@@ -1,5 +1,7 @@
 %% Begin Waypoint %%
-- **[[Internet Anbindung & Firewalls]]**
+- **[[ Firewall & VPN]]**
+- **[[Active Directory]]**
+	- [[stronsky.biz.canvas]]
 - **[[Microsoft365]]**
 	- [[all]]
 - **[[Virtualisierung]]**

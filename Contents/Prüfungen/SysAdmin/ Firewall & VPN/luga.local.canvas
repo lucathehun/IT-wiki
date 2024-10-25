@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"d5839d282ede5a43","type":"group","x":-580,"y":-640,"width":1560,"height":960,"color":"6","label":"luga.local"},
+		{"id":"2682ad39d5ca4568","type":"text","text":"private01\n192.168.1.0/24\n\nprivate02\n192.168.2.0/24\n\nEXTERN\n10.1.152.0/26","x":-560,"y":-620,"width":250,"height":220},
+		{"id":"a8e1d43e663444fe","type":"text","text":"**private**","x":-120,"y":138,"width":120,"height":51},
+		{"id":"af45c6b3dbf5b85c","type":"text","text":"client\n----------------------\neth0 - private01\n192.168.2.2/24\nGW\n192.168.2.1","x":-420,"y":60,"width":250,"height":207},
+		{"id":"a1907436c329d2e7","type":"text","text":"HOP\n------\neth0 - private01\n192.168.2.1/24\neth1 - private02\n192.168.1.2/24\nGW\n192.168.1.1","x":60,"y":60,"width":250,"height":207},
+		{"id":"a5f00b6c87657d48","type":"text","text":"OPNsense\n---\nhn0 - private02\n192.168.1.1/24\nhn1 - EXTERN\n10.1.152.36/26\nGW\n10.1.152.1","x":560,"y":60,"width":250,"height":207},
+		{"id":"3d338e4961a91684","type":"text","text":"EXT","x":653,"y":-100,"width":64,"height":90},
+		{"id":"399184810f8f68ec","type":"file","file":"Contents/_attachments/web.svg","x":57,"y":-600,"width":257,"height":257},
+		{"id":"95c46678880f3340","type":"text","text":"**private**","x":360,"y":139,"width":120,"height":50}
+	],
+	"edges":[
+		{"id":"3ad7a982964d8f9d","fromNode":"a8e1d43e663444fe","fromSide":"right","toNode":"a1907436c329d2e7","toSide":"left"},
+		{"id":"ea776c10546558c1","fromNode":"a8e1d43e663444fe","fromSide":"left","toNode":"af45c6b3dbf5b85c","toSide":"right"},
+		{"id":"9da7ef44d2307561","fromNode":"95c46678880f3340","fromSide":"left","toNode":"a1907436c329d2e7","toSide":"right"},
+		{"id":"8f89a772d321dc39","fromNode":"95c46678880f3340","fromSide":"right","toNode":"a5f00b6c87657d48","toSide":"left"},
+		{"id":"53463f133e3e72ad","fromNode":"3d338e4961a91684","fromSide":"bottom","toNode":"a5f00b6c87657d48","toSide":"top"},
+		{"id":"6039df621debe15d","fromNode":"3d338e4961a91684","fromSide":"top","toNode":"399184810f8f68ec","toSide":"bottom"}
+	]
+}
