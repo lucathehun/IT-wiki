@@ -74,9 +74,9 @@ Ordnen Sie den folgenden Vorgängen und Technologien jeweils eine der technische
 Was sind zwei typische Gründe, warum man im Zuge der Wiederherstellung einer Sicherung das gesicherte Objekt (z.B. Datei, virtuelle Maschine) an einem anderen Ort wiederherstellt?
 Kreuzen Sie die zwei zutreffenden Antworten an!
 
-- [ ] a. Am Produktivdatenspeicher steht nicht genügend Platz zur Verfügung, um ein vollständiges Überschreiben des aktuell vorliegenden Datenstands zu gewährleisten.
+- [x] a. Am Produktivdatenspeicher steht nicht genügend Platz zur Verfügung, um ein vollständiges Überschreiben des aktuell vorliegenden Datenstands zu gewährleisten.
 
-- [ ] b. Der Zweck der Wiederherstellung ist nicht die Korrektur einer Beschädigung am Produktivdatenstand, sondern die Erstellung eines Test-Objektes.
+- [x] b. Der Zweck der Wiederherstellung ist nicht die Korrektur einer Beschädigung am Produktivdatenstand, sondern die Erstellung eines Test-Objektes.
 
 - [ ] c. Nach der Wiederherstellung soll, zum Beispiel zwecks Fehleranalyse, ein Vergleich zwischen urspünglich gesichertem und aktuell vorhandenem Datenstand erfolgen.
 
@@ -99,7 +99,7 @@ Was ist die wahrscheinlichste Ursache für den Fehler?
 
 - [ ] b. Es wurde ein falscher DNS-Server angegeben.
 
-- [ ] c. Die dynamischen Updates sind am DNS-Server für diese Zone nicht aktiviert.
+- [x] c. Die dynamischen Updates sind am DNS-Server für diese Zone nicht aktiviert.
 
 - [ ] d. Das Domänensuffix des Rechners stimmt nicht mit dem Zonennamen überein.
 
@@ -120,7 +120,7 @@ Was ist die wahrscheinlichste Ursache für Ihr Problem?
 
 - [ ] c. Sie haben auf dem für nk.lokal autoritativen Server keine Delegierung für Stammhinweis-Weiterleitungsanfragen eingetragen.
 
-- [ ] d. Sie haben auf dem für pruefung.nk.lokal autoritativen Server keine Weiterleitung für nk.lokal eingetragen.
+- [x] d. Sie haben auf dem für pruefung.nk.lokal autoritativen Server keine Weiterleitung für nk.lokal eingetragen.
 
 ### **Antwort** 
 
@@ -137,7 +137,7 @@ Was ist die wahrscheinlichste Ursache?
 
 - [ ] b. Der DNS-Client auf dem Server ist mit einer falschen Server-IP konfiguriert.
 
-- [ ] c. Der DNS-Dienst läuft nicht, obwohl sich die Zonen über die DNS-Konsole verändern lassen. 
+- [x] c. Der DNS-Dienst läuft nicht, obwohl sich die Zonen über die DNS-Konsole verändern lassen. 
 
 - [ ] d. Auf einem DNS-Server selbst schlagen Abfragen nach Namen aus dessen Zone immer fehl.
 
@@ -154,9 +154,9 @@ Wie lösen Sie das Problem? (Jede gewählte Antwort stellt einen Lösungsschritt
 
 - [ ] a. Sie installieren einen DHCP-Relay-Agent im neuen Netzwerksegment und konfigurieren diesen so, dass er Anfragen an den bestehenden DHCP-Server weiterleitet.
 
-- [ ] b. Sie konfigurieren einen Bereich auf Ihrem bestehenden DHCP-Server, der zu dem neuen Netzwerksegment passt.
+- [x] b. Sie konfigurieren einen Bereich auf Ihrem bestehenden DHCP-Server, der zu dem neuen Netzwerksegment passt.
 
-- [ ] c. Sie löschen alle Regeln, die Port 67 und 68 UDP auf dem Router blockieren.
+- [x] c. Sie löschen alle Regeln, die Port 67 und 68 UDP auf dem Router blockieren.
 
 - [ ] d. Sie konfigurieren Ihren DHCP-Bereich mit einer größeren Subnetzmaske.
 
@@ -176,7 +176,7 @@ Sie haben soeben einen DHCP-Server konfiguriert. Der DHCP-Adressbereich bewegt s
 
 - [ ] b. Sie löschen den Bereich und legen zwei neue Bereiche von 192.168.1.1 bis 192.168.1.89 und von 192.168.1.101 bis 192.168.1.200 an.
 
-- [ ] c. Sie konfigurieren einen ausgeschlossenen Adressbereich von 192.168.1.90 bis 100.
+- [x] c. Sie konfigurieren einen ausgeschlossenen Adressbereich von 192.168.1.90 bis 100.
 
 - [ ] d. Sie konfigurieren die 10 Geräte sowie die Anschlüsse auf dem Druckserver auf IP-Adressen außerhalb des DHCP-Bereichs.
 
@@ -196,7 +196,7 @@ Wie würden Sie den Begriff "globaler Katalog" definieren?
 
 - [ ] c. Der globale Katalog ist für die Erstellung der Replikationstopologie zuständig.
 
-- [ ] d. Globale Kataloge speichern bestimmte Attribute von Objekten aus der Gesamtstruktur (Forest) und ermöglichen so die schnellere Suche nach Objekten im AD.
+- [x] d. Globale Kataloge speichern bestimmte Attribute von Objekten aus der Gesamtstruktur (Forest) und ermöglichen so die schnellere Suche nach Objekten im AD.
 
 ### **Antwort**
 
@@ -211,13 +211,13 @@ Wählen Sie drei Antworten!
 
 - [ ] a. Bei AD-integrierten Zonen können Sie "gesicherte dynamische Updates" aktivieren, wodurch eine unbeabsichtigte oder böswillige Übernahme eines Rechnernamens nicht mehr möglich ist. 
 
-- [ ] b. Beim Setup des DNS-Servers auf einem DC werden die Zonen automatisch eingerichtet.
+- [x] b. Beim Setup des DNS-Servers auf einem DC werden die Zonen automatisch eingerichtet.
 
-- [ ] c. Bei AD-Replikationsproblemen bleibt der DNS-Zonentransfer weiterhin funktionstüchtig.
+- [x] c. Bei AD-Replikationsproblemen bleibt der DNS-Zonentransfer weiterhin funktionstüchtig.
 
 - [ ] d. Das Zonentransferintervall von 15 Minuten wird genau eingehalten.
 
-- [ ] e. Zonenupdates durch Clients können auf jedem AD-integrierten DNS-Server durchgeführt werden.
+- [x] e. Zonenupdates durch Clients können auf jedem AD-integrierten DNS-Server durchgeführt werden.
 
 ### **Antwort**
 
@@ -240,7 +240,7 @@ Was tun Sie, um diese Anforderungen abzudecken?
 
 - [ ] c. Sie erstellen eine OU für Forschung und Entwicklung und erteilen dem Administrator der Abteilung Vollzugriff.
 
-- [ ] d. Sie erstellen eine neue Subdomain namens FuE.unternehmen.intern.
+- [x] d. Sie erstellen eine neue Subdomain namens FuE.unternehmen.intern.
 
 ### **Antwort**
 
@@ -255,7 +255,7 @@ Wie können Sie sicherstellen, dass der Administrator nur die Mitgliedschaft die
 
 - [ ] a. Sie starten den Assistenten "Objektverwaltung zuweisen" auf der OU "Fileserver-Zugriffsgruppen-DL" und weisen Dietmar die Berechtigung "Erstellt, löscht und verwaltet Gruppen" zu.
 
-- [ ] b. Sie machen Dietmar zum Mitglied aller Gruppen, die er verwalten soll.
+- [x] b. Sie machen Dietmar zum Mitglied aller Gruppen, die er verwalten soll.
 
 - [ ] c. Sie fügen Dietmar der Gruppe Domänen-Admins hinzu.
 
@@ -275,7 +275,7 @@ Wie können Sie erreichen, dass normale Benutzer der Domäne (d.h. Mitglied in d
 
 - [ ] b. Sie geben als Domänen-Administrator den Befehl net users /ALWAYSELEVATE ein, um das Anmeldeverhalten zu ändern.
 
-- [ ] c. Sie erstellen ein Gruppenrichtlinienobjekt und binden es auf die OU mit der Workstation. Sie setzen "Benutzer automatisch zu Administratoren machen" unter Administrative Vorlagen / System / Benutzerverwaltung.
+- [x] c. Sie erstellen ein Gruppenrichtlinienobjekt und binden es auf die OU mit der Workstation. Sie setzen "Benutzer automatisch zu Administratoren machen" unter Administrative Vorlagen / System / Benutzerverwaltung.
 
 - [ ] d. Sie fügen die Gruppe der Domänen-Benutzer der Maschinen-lokalen Gruppe der Administratoren hinzu.
 
@@ -293,7 +293,7 @@ Ihr Netzwerk besteht aus zwei Standorten und einer AD-Domäne. Benutzer verwende
 
 - [ ] b. Auf der OU mit den Computerkonten
 
-- [ ] c. Auf der OU mit den Benutzerkonten
+- [x] c. Auf der OU mit den Benutzerkonten
 
 - [ ] d. An dem Standort
 
@@ -311,7 +311,7 @@ Sie sind für das Active Directory in Ihrem Unternehmen verantwortlich. Eines Ta
 
 - [ ] b. Der RID-Master ist offline.
 
-- [ ] c. Der PDC-Emulator ist offline.
+- [x] c. Der PDC-Emulator ist offline.
 
 - [ ] d. Der Schema-Master ist offline.
 
@@ -326,7 +326,7 @@ Sie sind für das Active Directory in Ihrem Unternehmen verantwortlich. Eines Ta
 Sie sind Administrator eines Mehrdomänennetzwerks mit insgesamt vier Domänen. Ihr Management bittet Sie, eine Freigabe für alle Marketingmitarbeiter innerhalb der vier Domänen einzurichten. Die Entscheidung, welche Mitarbeiter Zugriff auf die Freigabe erhalten sollen, soll von den jeweiligen Domänenadministratoren getroffen werden. Die Freigabe selbst und die entsprechenden Berechtigungen sollen von dem Administrator des Fileservers gepflegt werden, der die Freigabe beherbergt. 
 Welcher der unten angeführten Lösungsansätze führt zum Ziel?
 
-- [ ] a. Sie weisen die Domänen-Admins an, globale Gruppen mit den Benutzern zu erstellen. Sie weisen den Domänenadministrator der Domäne, in der sich die Freigabe befindet, an, eine domänenlokale Gruppe zu erstellen, in die er die zuvor erstellten globalen Gruppen einfügt. Sie weisen den Fileserver-Administrator an, die domänenlokale Gruppe in der ACL des freigegeben Ordners zu verwenden.
+- [x] a. Sie weisen die Domänen-Admins an, globale Gruppen mit den Benutzern zu erstellen. Sie weisen den Domänenadministrator der Domäne, in der sich die Freigabe befindet, an, eine domänenlokale Gruppe zu erstellen, in die er die zuvor erstellten globalen Gruppen einfügt. Sie weisen den Fileserver-Administrator an, die domänenlokale Gruppe in der ACL des freigegeben Ordners zu verwenden.
 
 - [ ] b. Sie weisen die Domänen-Admins an, domänenlokale Gruppen mit den Benutzern zu erstellen. Sie weisen den Domänenadministrator der Domäne, in der sich die Freigabe befindet, an, eine globale Gruppe zu erstellen, in die er die zuvor erstellten domänenlokalen Gruppen einfügt. Sie weisen den Fileserver-Administrator an, alle zuvor erstellten globalen Gruppen in der ACL des freigegeben Ordners zu verwenden.
 
@@ -392,7 +392,7 @@ Wie setzen Sie die Anforderung um?
 
 - [ ] c. Sie veröffentlichen den Webserver auf einer anderen IP-Adresse, z.B. 81.227.58.253 unter Verwendung des Ports 443,tcp
 
-- [ ] d. Sie erstellen eine zusätzliche NAT-Regel, die eingehenden Verkehr auf 81.227.58.254:443 auf die interne IP-Adresse des Webservers umschreibt und stellen mit Hilfe Paketfilterregel sicher, dass der Verkehr durch den Paketfilter gelangt.
+- [x] d. Sie erstellen eine zusätzliche NAT-Regel, die eingehenden Verkehr auf 81.227.58.254:443 auf die interne IP-Adresse des Webservers umschreibt und stellen mit Hilfe Paketfilterregel sicher, dass der Verkehr durch den Paketfilter gelangt.
 
 ### **Antwort**
 
@@ -453,7 +453,7 @@ Wie setzen Sie die Anforderung um?
 Sie stehen vor der Herausforderung zwei Standorte über das Internet miteinander verbinden zu müssen. Die beiden Netze sollen sich dabei unter Verwendung interner IP-Adressen erreichen können.
 Was ist die gängigste Technologie, um diese Anforderung umzusetzen?
 
-- [ ] a. IPSec im Tunnelmodus
+- [x] a. IPSec im Tunnelmodus
 
 - [ ] b. OpenVPN
 
@@ -471,11 +471,11 @@ Was ist die gängigste Technologie, um diese Anforderung umzusetzen?
 
 Welche Aussagen bezüglich externer Freigaben von OneDrive sind korrekt?
 
-- [ ] a. Die Einstellungen in SharePoint können restriktiver als in OneDrive sein.
+- [x] a. Die Einstellungen in SharePoint können restriktiver als in OneDrive sein.
 
 - [ ] b. Standardmäßig dürfen Benutzer in OneDrive teilbare Links erstellen, die keine Anmeldung erfordern.
 
-- [ ] c. Standardmäßig dürfen Benutzer in OneDrive teilbare Links nur für bereits vorhandene externe Benutzer, die sich bereits im Verzeichnis Ihrer Organisation befinden, erstellen.
+- [x] c. Standardmäßig dürfen Benutzer in OneDrive teilbare Links nur für bereits vorhandene externe Benutzer, die sich bereits im Verzeichnis Ihrer Organisation befinden, erstellen.
 
 - [ ] d. Die Einstellungen in OneDrive können restriktiver als in SharePoint sein.
 
@@ -492,7 +492,7 @@ Welche Aussagen bezüglich externer Freigaben von OneDrive sind korrekt?
 
 Sie löschen ein Microsoft Team, was passiert?
 
-- [ ] a. Die Daten des Teams bleiben dauerhaft bestehen und müssen durch den Teambesitzer extra gelöscht werden
+- [x] a. Die Daten des Teams bleiben dauerhaft bestehen und müssen durch den Teambesitzer extra gelöscht werden
 
 - [ ] b. Das Microsoft Team wird in eine Verteilerliste umgewandelt
 
@@ -517,7 +517,7 @@ Welchen Plan sollten Sie am kostengünstigsten auswählen, um alle Anforderungen
 
 - [ ] b. Microsoft 365 Apps for Enterprise
 
-- [ ] c. Microsoft 365 Business Basic
+- [x] c. Microsoft 365 Business Basic
 
 - [ ] d. Microsoft 365 Business Standard
 
@@ -536,9 +536,9 @@ Welchen Plan sollten Sie am kostengünstigsten auswählen, um alle Anforderungen
 Was darf ein Benutzerverwaltungsadministrator im Microsoft 365 Admin Center durchführen?
 Wählen Sie alle zutreffenden Antwortmöglichkeiten!
 
-- [ ] a. Benutzerkonten hinzufügen und löschen
+- [x] a. Benutzerkonten hinzufügen und löschen
 
-- [ ] b. Mitglieder zu Office 365-Gruppen hinzufügen und entfernen
+- [x] b. Mitglieder zu Office 365-Gruppen hinzufügen und entfernen
 
 - [ ] c. Kennwörter von Rechnungs-, Exchange-, SharePoint-, Compliance-, Skype for Business- und globalen Administratoren zurücksetzen
 
@@ -561,7 +561,7 @@ konfigurieren?
 
 - [ ] a. Globaler Administrator in Ihrem Office 365 Tenant
 
-- [ ] b. Domänen-Administrator des on-premise Active Directory
+- [x] b. Domänen-Administrator des on-premise Active Directory
 
 - [ ] c. Lokale Administratorrechte auf dem Computer
 
@@ -590,7 +590,7 @@ Set-Mailbox -Identity Info -Type Regular
 Get-Mailbox -Identity Info -Type Shared
 ```
 
-- [ ] c. Sie führen folgendes PowerShell Cmdlet aus. 
+- [x] c. Sie führen folgendes PowerShell Cmdlet aus. 
 ``` powershell
 Set-Mailbox -Identity Info -Type Shared
 ```
@@ -615,7 +615,7 @@ Welchen Gruppentyp erstellen Sie?
 
 - [ ] b. Verteilergruppe
 
-- [ ] c. E-Mailaktivierte Sicherheitsgruppe
+- [x] c. E-Mailaktivierte Sicherheitsgruppe
 
 - [ ] d. Dynamische Verteilergruppe
 
@@ -632,11 +632,11 @@ Welchen Gruppentyp erstellen Sie?
 Im Office 365 Security & Compliance Center können Sie zum Antispamschutz gehörende Richtlinien konfigurieren. Diese Richtlinien umfassen Verbindungsfilterung, Spamfilterung, ausgehende Spamfilterung und Spoof Intelligence. Die Richtlinie zur Verbindungsfilterung bietet welche der folgenden Möglichkeiten der Konfiguration?
 Wählen Sie alle zutreffenden Antworten!
 
-- [ ] a. Liste blockierter IP-Adressen
+- [x] a. Liste blockierter IP-Adressen
 
-- [ ] b. Liste sicherer Adressen
+- [x] b. Liste sicherer Adressen
 
-- [ ] c. Liste zugelassener IP-Adressen
+- [x] c. Liste zugelassener IP-Adressen
 
 - [ ] d. Malwarefilterung
 
@@ -652,7 +652,7 @@ Wählen Sie alle zutreffenden Antworten!
 
 Was passiert, wenn Sie einem Benutzer die Exchange Online Lizenz entziehen? Welche der folgenden Aussagen ist korrekt?
 
-- [ ] a. Das Postfach wird standardmäßig nach 30 Tagen gelöscht.
+- [x] a. Das Postfach wird standardmäßig nach 30 Tagen gelöscht.
 
 - [ ] b. Ist das Beweissicherungsverfahren bzw. Office 365-Aufbewahrungsrichtlinien für das entsprechende Postfach aktiviert, kann das Postfach unbegrenzt lang aufbewahrt werden.
 
@@ -674,7 +674,7 @@ Welche der genannten Gruppen erlauben das Steuern des Zugriffs (Berechtigungen) 
 
 - [ ] b. E-Mailaktivierte Sicherheitsgruppen
 
-- [ ] c. Office 365 Gruppen
+- [x] c. Office 365 Gruppen
 
 - [ ] d. Sicherheitsgruppen
 
@@ -692,7 +692,7 @@ Welche Einstellungen im SharePoint Admin Center in Hinblick auf Freigaben außer
 
 - [ ] b. Benutzern das Einladen und Freigeben für authentifizierte externe Benutzer gestatten
 
-- [ ] c. Freigabe nur für externe Benutzer erlauben, die bereits im Verzeichnis Ihrer Organisation vorhanden sind
+- [x] c. Freigabe nur für externe Benutzer erlauben, die bereits im Verzeichnis Ihrer Organisation vorhanden sind
 
 - [ ] d. Freigabe für authentifizierte externe Benutzer und Verwendung anonymer Zugriffslinks zulassen
 
@@ -707,15 +707,15 @@ Welche Einstellungen im SharePoint Admin Center in Hinblick auf Freigaben außer
 Kategorisieren Sie die folgenden Technologien nach SAN oder NAS.
 
 **SAN**
-- [ ] Fiber Channel
+- [x] Fiber Channel
 - [ ] SMBv3
 - [ ] NFS
-- [ ] iSCSI
+- [x] iSCSI
 
 **NAS**
 - [ ] Fiber Channel
-- [ ] SMBv3
-- [ ] NFS
+- [x] SMBv3
+- [x] NFS
 - [ ] iSCSI
 
 ### **Antwort**
@@ -730,7 +730,7 @@ Kategorisieren Sie die folgenden Technologien nach SAN oder NAS.
 
 Welche Aussagen treffen auf Thin Provisioned Virtual Disks zu?
 
-- [ ] a. Thin provisioned Disks nutzen stets genau so viel Speicherplatz auf dem Host wie gerade von der virtuellen Maschine verwendet wird.
+- [x] a. Thin provisioned Disks nutzen stets genau so viel Speicherplatz auf dem Host wie gerade von der virtuellen Maschine verwendet wird.
 
 - [ ] b. Thin provisioned Disks können vergrößert werden, belegen aber auch sofort mehr Speicher auf dem Data Store.
 
@@ -740,9 +740,9 @@ Welche Aussagen treffen auf Thin Provisioned Virtual Disks zu?
 
 - [ ] e. Der von einer Thin Provisioned Disk belegte Speicherplatz am Datastore entspricht immer der konfigurierten Größe.
 
-- [ ] f. Thin provisioned Disks können vergrößert werden, belegen erst dann mehr Speicher auf dem Data Store, wenn dieser von der VM auch benutzt wird.
+- [x] f. Thin provisioned Disks können vergrößert werden, belegen erst dann mehr Speicher auf dem Data Store, wenn dieser von der VM auch benutzt wird.
 
-- [ ] g. Der am Datastore belegte Speicherplatz einer Thin Provisioned Disk ist von der Maximalgröße an Daten, die die Gast-VM jemals auf die virtuelle Platte geschrieben hat, abhängig.
+- [x] g. Der am Datastore belegte Speicherplatz einer Thin Provisioned Disk ist von der Maximalgröße an Daten, die die Gast-VM jemals auf die virtuelle Platte geschrieben hat, abhängig.
 
 ### **Antwort**
 
@@ -761,7 +761,7 @@ Was tun Sie, um den Speicherplatz möglichst einfach wieder frei zu geben?
 
 - [ ] a. Sie erstellen eine neue dynamisch erweiterbare virtuelle Festplatte und kopieren nur die Daten, die Sie benötigen. Im Anschluss binden Sie die kopierte Platte ein, und entfernen die ursprüngliche virtuelle Festplatte.
 
-- [ ] b. Sie komprimieren die dynamisch erweiterbare virtuelle Festplatte.
+- [x] b. Sie komprimieren die dynamisch erweiterbare virtuelle Festplatte.
 
 - [ ] c. Sie führen chkdsk /f /v in der virtuellen Maschine aus.
 
@@ -769,7 +769,7 @@ Was tun Sie, um den Speicherplatz möglichst einfach wieder frei zu geben?
 
 ### **Antwort**
 
-- a: Sie erstellen eine neue dynamisch erweiterbare virtuelle Festplatte und kopieren nur die Daten, die Sie benötigen. Im Anschluss binden Sie die kopierte Platte ein, und entfernen die ursprüngliche virtuelle Festplatte.
+- defrag (vm) and compress (host)
 
 - **Erklärung**: Die effektivste Methode, um Speicherplatz freizugeben, nachdem Daten vorübergehend abgelegt und wieder entfernt wurden, ist das Erstellen einer neuen dynamisch erweiterbaren Festplatte, das Übertragen der benötigten Daten und das Entfernen der alten Festplatte.
 
@@ -805,7 +805,7 @@ Eines Nachts erhalten Sie die Meldung, dass nicht alle Dienste in Ihrem Unterneh
 
 - [ ] c. Weil die Konfiguration des Systems die zulässigen Cores für eine Windows-Server Datacenter Lizenz überschreitet.
 
-- [ ] d. Weil auf dem Datenträger kein Platz mehr vorhanden ist, um dynamisch erweiterbare virtuelle Festplatten zu vergrößern.
+- [x] d. Weil auf dem Datenträger kein Platz mehr vorhanden ist, um dynamisch erweiterbare virtuelle Festplatten zu vergrößern.
 
 ### **Antwort**
 
@@ -818,7 +818,7 @@ Eines Nachts erhalten Sie die Meldung, dass nicht alle Dienste in Ihrem Unterneh
 Sie überprüfen auf Ihrem Hyper-V Server die virtuelle Maschine APP01. Als Sie die virtuelle Festplatte der VM betrachten, fällt Ihnen auf, dass diese die Endung avhdx trägt. 
 Welche Annahmen können Sie aus diesem Sachverhalt ableiten?
 
-- [ ] a. Die Maschine läuft zurzeit von einem Snapshot (=Prüfpunkt). Das Löschen des Snapshots würde die Maschine auf den Zeitpunkt des Snapshots zurücksetzen.
+- [x] a. Die Maschine läuft zurzeit von einem Snapshot (=Prüfpunkt). Das Löschen des Snapshots würde die Maschine auf den Zeitpunkt des Snapshots zurücksetzen.
 
 - [ ] b. Die Festplatte, die Sie gerade betrachten, ist mit dem IDE-Controller verbunden.
 
@@ -837,7 +837,7 @@ Welche Annahmen können Sie aus diesem Sachverhalt ableiten?
 Sie haben zwei neue Server erworben, die Sie als Hyper-V Host nutzen möchten. Diese verfügen jeweils über eine 8-Core CPU und 24GB RAM. Sie möchten auf jedem Host jeweils zwei virtuelle Maschinen betreiben. Es ist nicht angedacht, weitere VMs auf den Hosts zu betreiben. 
 Welche Lizenzen werden Sie benötigen, um die Umgebung so kostengünstig wie möglich aufzusetzen?
 
-- [ ] a. 2 x Windows Server 2016 Standard 16 Core Basislizenz
+- [x] a. 2 x Windows Server 2016 Standard 16 Core Basislizenz
 
 - [ ] b. 2 x Windows Server 2016 Data Center 16 Core Basislizenz
 
@@ -862,7 +862,7 @@ Wie können Sie den Verkäufern so schnell wie möglich helfen?
 
 - [ ] c. Sie binden auf dem Hyper-V Host die Datenplatte des abgeschalteten Fileservers ein, kopieren die notwendigen Dateien und stellen sie Ihrem Sales-Team zur Verfügung.
 
-- [ ] d. Sie spielen lediglich das Backup der Systemplatte zurück, dies sollte wesentlich schneller möglich sein, als den gesamten Fileserver zu wiederherzustellen.
+- [x] d. Sie spielen lediglich das Backup der Systemplatte zurück, dies sollte wesentlich schneller möglich sein, als den gesamten Fileserver zu wiederherzustellen.
 
 ### **Antwort**
 
@@ -881,7 +881,7 @@ Was können Sie tun, um diese Situation in Zukunft so ressourcenschonend wie mö
 
 - [ ] c. Sie betreiben die VM auf einer eigenen Windows 10 Workstation mit installiertem Hyper-V.
 
-- [ ] d. Sie setzen ein Limit für den dynamischen RAM auf 12GB.
+- [x] d. Sie setzen ein Limit für den dynamischen RAM auf 12GB.
 
 ### **Antwort**
 
@@ -940,7 +940,7 @@ Wie wird das VMware Feature genannt, das es erlaubt, virtuelle Maschinen im lauf
 
 - [ ] c. vSphere HA
 
-- [ ] d. vMotion
+- [x] d. vMotion
 
 ### **Antwort**
 

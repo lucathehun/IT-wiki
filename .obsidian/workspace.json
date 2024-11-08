@@ -4,38 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1935fa6b0373140b",
+        "id": "ded97099cf744f6d",
         "type": "tabs",
         "children": [
           {
-            "id": "a12181e1acbe4b0c",
+            "id": "f4a19ae58e4313e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
-                "mode": "preview",
+                "file": "Contents/Prüfungen/SysAdmin/Q&A/Demotest.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Better Cheatsheet"
-            }
-          },
-          {
-            "id": "ac2adad830065fa5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Contents/Prüfungen/SysAdmin/Q&A/DNAT Conf.canvas",
-                "viewState": {
-                  "x": 232.89911581221594,
-                  "y": 124.86276315789479,
-                  "zoom": -0.018859027251316038
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "DNAT Conf"
+              "title": "Demotest"
             }
           }
         ]
@@ -91,7 +74,7 @@
             }
           },
           {
-            "id": "8aaae0f43fd27a07",
+            "id": "f3a6454201956313",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -190,8 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a12181e1acbe4b0c",
+  "active": "f4a19ae58e4313e7",
   "lastOpenFiles": [
+    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Marktüberblick und Hersteller.md",
+    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Versuch einer Kategorisierung.md",
+    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/luga.local.canvas",
+    "Contents/Prüfungen/SysAdmin/Active Directory/Q&A.md",
+    "Contents/_attachments/Pasted image 20241030093235.png",
+    "Contents/Active Directory (AD)/AGULP.md",
     "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
     "Contents/Prüfungen/SysAdmin/Q&A/Connect the right answers .canvas",
     "Contents/Prüfungen/SysAdmin/Q&A/DNAT Conf.canvas",
@@ -205,14 +194,11 @@
     "Contents/Prüfungen/SysAdmin/Microsoft365/all.md",
     "Contents/Prüfungen/SysAdmin/Q&A/Q&A.md",
     "Contents/Prüfungen/SysAdmin/Q&A",
-    "Pasted image 20241030093235.png",
-    "Contents/Prüfungen/SysAdmin/Active Directory/Q&A.md",
     "Contents/Active Directory (AD)/FSMO.md",
     "Contents/Generell/Terminal Cheatsheet.md",
     "Contents/Operating Systems (OS)/Windows/WMI.md",
     "Contents/Operating Systems (OS)/Windows",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Untitled.canvas",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/luga.local.canvas",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Untitled.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Firewall-Funktionen.md",
     "Contents/_attachments/web.svg",
@@ -232,7 +218,6 @@
     "Contents/Prüfungen/SysAdmin/Microsoft365/.md",
     "Contents/Prüfungen/SysAdmin/Microsoft365/Microsoft365.md",
     "Contents/Prüfungen/SysAdmin/Microsoft365",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Versuch einer Kategorisierung.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/ Firewall & VPN.md",
     "Contents/Prüfungen/SysAdmin/SysAdmin.md",
     "Contents/Prüfungen/Prüfungen.md",
@@ -240,7 +225,6 @@
     "Contents/Linux/Linux.md",
     "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.canvas",
     "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.md",
-    "Contents/Linux/Aufgaben.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN",
     "Untitled 1.canvas",
     "Tags",
