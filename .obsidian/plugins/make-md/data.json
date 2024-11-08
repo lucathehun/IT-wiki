@@ -53,7 +53,9 @@
     "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/Virtualisierung",
     "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/Active Directory",
     "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls",
-    "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/ Firewall & VPN"
+    "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/ Firewall & VPN",
+    "//Contents/Contents/Active Directory (AD)",
+    "//Contents/Contents/Prüfungen/Contents/Prüfungen/SysAdmin/Contents/Prüfungen/SysAdmin/Q&A"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

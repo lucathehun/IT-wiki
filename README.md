@@ -1,3 +1,4 @@
+
 # A little something about this project 
 
 Hey there! 
@@ -12,7 +13,7 @@ Thanks for checking it out, and I hope you find it useful!
 
 ## Use
 
-``` shell
+``` bash
 git clone https://github.com/lucathehun/IT-wiki.git
 ```
 

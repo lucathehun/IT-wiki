@@ -63,7 +63,11 @@
 - **Microsoft 365 Business Premium**
 	- Online Dienste + Office Paket + erweiterter Schutz vor Cyberbedrohungen (Azure Information Protection) erweiterte Geräteverwaltung (Intune)
 - **Microsoft 365 Apps for Business**
-	- nur Office Paket + OneDrive ![[Pasted image 20241018110309.png]]
+	- nur Office Paket + OneDrive 
+
+| ![[Pasted image 20241018110309.png]] |
+| ------------------------------------ |
+
 
 ## **Office/Microsoft 365 – Enterprise Pläne**
 ### Für große Unternehmen (>300 Mitarbeiter)
@@ -75,9 +79,10 @@
 - **Microsoft 365 E5**
 - Microsoft 365 F3 (Frontline Worker)
 
-
 ## **modern-work-plan-comparison-enterprise**
-![[Pasted image 20241018110800.png]]
+
+| ![[Pasted image 20241018110800.png]] |
+| ------------------------------------ |
 
 # **EINRICHTEN EINES TENANTS FÜR MICROSOFT 365**
 ## **Anlegen eines Microsoft 365-Mandanten (Tenant)**
@@ -87,13 +92,14 @@
 	- Land bestimmt Rechenzentrumsregion
 	- Sprache
 - erfordert Microsoft- bzw. Geschäfts-/Schulkonto
-![[Pasted image 20241018111229.png]]![[Pasted image 20241018111234.png]]
+
+| ![[Pasted image 20241018111229.png]] | ![[Pasted image 20241018111234.png]] |
+| ------------------------------------ | ------------------------------------ |
 
 ## **Tenant (=Mandantendomäne)**
 - Mandantendomäne = **IhrUnternehmen**.**_onmicrosoft.com_**
 - Administratorkonto = Benutzername@IhrUnternehmen.onmicrosoft.com
 	- ➔ _Globaler Administrator_ (höchste Administratorenrolle im Tenant)
-
 
 # **TENANT-VERWALTUNG MICROSOFT 365 PORTALE**
 
@@ -167,7 +173,7 @@
 ## **Kennwortablaufrichtlinie**
 Standardkonfiguration: Kennwort läuft nicht ab
 
-> [!INFO] Ausnahmen
+> [!EXAMPLE] Ausnahmen
 > - Ablaufen des Kennworts deaktiviert
 > - Kennwortsynchronisierung mit dem Active Directory
 > - Identitätsverbund (Single Sign-on)
@@ -186,11 +192,12 @@ Standardkonfiguration: Kennwort läuft nicht ab
 
 
 ## **Demo Status: Dienststatus und Nachrichtencenter**
-![[Pasted image 20241018102651.png]]
+> [!EXAMPLE]
+> ![[Pasted image 20241018102651.png]]
 
 ## **Nachrichtencenter**
 
-> [!NOTE] Übersicht über geplante Änderungen sowie darüber, wie diese sich auf Ihre Benutzer auswirken kann
+> [!EXAMPLE] Übersicht über geplante Änderungen sowie darüber, wie diese sich auf Ihre Benutzer auswirken kann
 >![[Pasted image 20241018102713.png]]
 
 ## **PowerShell und Microsoft 365**
@@ -213,7 +220,6 @@ Standardkonfiguration: Kennwort läuft nicht ab
 - Verbinden zu Exchange Online
 - Mailboxen auflisten
 - Mailboxstatistiken anzeigen
-
 
 # **ACTIVE DIRECTORY-SYNCHRONISIERUNG**
 
@@ -319,7 +325,6 @@ replace '..', '0x$& ')))
 $base64
 # Ergebnis: dOXSvFiNNkGp34oZsUXbeQ==
 ```
-
 
 ## **Synchronisieren mit bereits vorhandenen Benutzern in Entra ID**
 Bei Installation von Entra Connect (vormals Azure AD Connect) und Synchronisierung
@@ -448,12 +453,10 @@ IdFix
 - Optional: Personen außerhalb meiner Organisation das Senden von E-Mails an diese Verteilergruppe gestatten
 ### Dynamische Verteilergruppen
 Mitgliedschaft basierend auf einem OPATH-Filter
-
 ``` powershell title:"Auch via PowerShell erstellbar"
 New-DynamicDistributionGroup -Name "Marketing Group" –IncludedRecipients `
 "MailboxUsers,MailContacts" -ConditionalDepartment "Marketing","Sales"
 ```
-
 ### Microsoft 365-Gruppen (und Teams)
 - Erweiterte Möglichkeiten für die Teamzusammenarbeit
 - Gruppen-E-Mail-Adresse
@@ -464,7 +467,6 @@ New-DynamicDistributionGroup -Name "Marketing Group" –IncludedRecipients `
 ### Zustellungsverwaltung
 Nachrichtengenehmigung (Moderation)
 
-
 ## **Ressourcen-Postfächer**
 - Raumpostfächer
 - Gerätepostfächer
@@ -474,7 +476,7 @@ Nachrichtengenehmigung (Moderation)
 	- durch Stellvertreter geregelt
 
 ``` powershell title:"Verwaltet durch EAC oder PowerShell"
-- New-Mailbox –Name „Raumname“ –Room | Set-Calendarprocessing –AutomateProcessing AutoAccept
+New-Mailbox –Name „Raumname“ –Room | Set-Calendarprocessing –AutomateProcessing AutoAccept
 ```
 
 ## **Externe Kontakte**
@@ -519,12 +521,11 @@ Set-Mailbox support –MessageCopySentAsEnabled $true
 - Bedingung
 - Aktion
 - Ausnahme (optional)
-> [!INFO] Beispiele
+> [!EXAMPLE] Beispiele
 > Haftungsausschluss automatisch an jede Mail anhängen, die die Organisation
 > verlässt
 > Vertrauliche Informationen sollen nicht geschickt werden
 > Benutzerspezifische Signatur ans Ende der E-Mail anhängen
-
 
 ## **Nachrichtenablaufverfolgung**
 ### Exchange Admin Center ➔ E-Mail-Fluss ➔ Nachrichtenablaufverfolgung
@@ -546,6 +547,7 @@ Get-MessageTrace -StartDate <mm/dd/yyyy> -EndDate <mm/dd/yyyy>
 - Mit Outlook
 - Mit Outlook im Web
 - Als Administrator im EAC → Postfächer → Gelöschte Elemente wiederherstellen
+![[Pasted image 20241030093235.png]]
 
 ## **Anti-Spam und Anti-Virus**
 - Level 1 - Exchange Online Protection (EOP)
@@ -561,21 +563,23 @@ Get-MessageTrace -StartDate <mm/dd/yyyy> -EndDate <mm/dd/yyyy>
 ### Level 2 - Defender for Office 365 (Plan 1 und Plan 2)
 
 ## **Exchange Online Protection (EOP)**
+
 ### Nachrichtenfluss
--  Edge Blocking
+- Edge Blocking
 - Verbindungsfilter
 - Anti-Malware
 - Transportregeln
 - Anti-Spam (Inhaltsfilterung)
-![[Pasted image 20241018132612.png]]
+
+| ![[Pasted image 20241018132612.png]] |
+| ------------------------------------ |
 
 ## **E-Mail-Authentifizierung (auch als E-Mail-Überprüfung bezeichnet)**
 - Das Problem: Ist der Absender echt?
 - Standards, die versuchen, E-Mail-Nachrichten von gefälschten Absendern zu stoppen (auch als Spoofing bezeichnet)
 	- SPF: Sender Policy Framework (2003)
 	- DKIM: Domain Keys Identified Message (2007)
-	- DMARC: Domain-based Message Authentication, Reporting, and Conformance
-	- (2012)
+	- DMARC: Domain-based Message Authentication, Reporting, and Conformance (2012)
 
 ## **Bestandteile einer Mail**
 
@@ -602,7 +606,6 @@ Get-MessageTrace -StartDate <mm/dd/yyyy> -EndDate <mm/dd/yyyy>
 > Woodgrove Bank
 > .
 
-
 ## **SPF (Sender Policy Framework) "Legitime Mailserver veröffentlichen"**
 - ermöglicht E-Mail-Servern, nur Mails von SMTP-Servern zu akzeptieren, die von den Administratoren der sendenden Domäne autorisiert wurden
 - ein DNS TXT-Record legt fest, welche E-Mail-Server Mails im Namen Ihrer Domain senden dürfen
@@ -613,7 +616,7 @@ v=spf1 ip4:122.32.5.14 include:spf.protection.outlook.com a:mx1.campus.at –all
 v=spf1 SPF Version1, muss am Anfang stehen
 ```
 
-> [!INFO] Qualifier
+> [!IMPORTANT] Qualifier
 > '+' PASS, Host darf Mails schicken (Standardbehandlung)
 > '-' HARDFAIL, Host darf keine Mails schicken
 > '~' SOFTFAIL (zB ~all Mails als Spam kennzeichnen)
@@ -636,7 +639,6 @@ j5Z2XfCyx3OYx4FJVTQIICWg1lLw5Ry5FKIxwhzCNWhfLW7TwzjqmhlcXehHNEJ0TkzcLl80S
 Aw4+/2r69UZ0TyfLa8z3o5LnGrgZ47vvi40W5ryA36HxHIoEqg==
 ```
 
-
 ## **DKIM Vorteile gegenüber SPF**
 - IP-Adresse des Mail-Servers nicht mehr relevant
 - Absender im Header wird berücksichtigt
@@ -647,7 +649,6 @@ Aw4+/2r69UZ0TyfLa8z3o5LnGrgZ47vvi40W5ryA36HxHIoEqg==
 - SPF überprüft den E-Mail ENVELOPE (mail from)
 - DKIM überprüft den E-Mail HEADER (From)
 
-
 ## **DEMO Einrichten von DKIM**
 ### Microsoft 365 Defender | Richtlinien und Regeln | Bedrohungsrichtlinien
 ![[Pasted image 20241018134738.png]]
@@ -656,10 +657,9 @@ Aw4+/2r69UZ0TyfLa8z3o5LnGrgZ47vvi40W5ryA36HxHIoEqg==
 - DMARC kombiniert SPF- als auch DKIM-Standards, um E-Mails wirklich zu authentifizieren
 - DMARC hilft beim Empfangen von E-Mail-Systemen bei der Entscheidung, was mit Nachrichten aus Ihrer Domäne geschieht, bei denen SPF- oder DKIM-Überprüfungen fehlschlagen
 ``` bash title:"DMARC TXT-Record"
- _dmarc.domain TTL IN TXT "v=DMARC1; p=policy; pct=100"
+_dmarc.domain TTL IN TXT "v=DMARC1; p=policy; pct=100"
 policy: none, quarantine oder reject
 ```
-
 
 ## **Inaktive Postfächer**
 - Wenn die Exchange Online Lizenz entfernt wird, wird das zugehörige Postfach nach 30 Tagen gelöscht
@@ -680,7 +680,6 @@ policy: none, quarantine oder reject
 > [!INFO]
 > https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4
 
-
 ## **Mobile Geräte**
 - Koppelung Ihrer mobilen Geräte an die Exchange-Postfächer
 - ermöglicht automatischen Abgleich der Postfachinhalte
@@ -694,7 +693,6 @@ policy: none, quarantine oder reject
 		individuelle Konfiguration einzelner Postfächer
 
 # **SHAREPOINT ONLINE**
-
 
 ## **SharePoint Online - Inhalte**
 - Anwendungsszenarien für SharePoint Online
@@ -779,7 +777,6 @@ Für "One way"-Kommunikation - Zusammenarbeit steht **nicht** im Vordergrund
 - Infos an Mitarbeiter (zB HR-Seite)
 - fertige Produktdemos
 
-
 ## **Teamwebsite**
 - Zusammenarbeit steht im Vordergrund
 - Microsoft 365 Gruppe wird automatisch miterstellt!
@@ -811,7 +808,6 @@ Für "One way"-Kommunikation - Zusammenarbeit steht **nicht** im Vordergrund
 ## **Demo: Anlegen einer Kommunikationswebsite**
 Ergebnis ![[Pasted image 20241018142640.png]]
 
-
 ## **Demo: Anlegen einer Teamwebsite mit Microsoft 365 Gruppe**
 - Websitename
 - Gruppen-E-Mail-Adresse
@@ -826,7 +822,6 @@ Ergebnis ![[Pasted image 20241018142640.png]]
 
 ## **Demo: Anlegen einer Teamwebsite mit Microsoft 365 Gruppe**
 Ergebnis ![[Pasted image 20241018142812.png]]
-
 
 ## **Demo optional: Gestalten und Anpassen von SharePoint Websites**
 - Aussehen ändern
@@ -932,9 +927,8 @@ Bei einer Suche auf der Hub Site werden Inhalte aus allen assoziierten Websites 
 - Lesen
 - Nur anzeigen
 
-> [!INFO] 
+> [!NOTE] 
 > Feinere Einstellungen möglich (Komplexität steigt gewaltig)
-
 
 ## **Vordefinierte Berechtigungsstufen**
 

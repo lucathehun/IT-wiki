@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"5cf8d039a16cd9dd","type":"group","x":-386,"y":60,"width":805,"height":280,"color":"6","label":"Frage 4"},
+		{"id":"f2c90e466f637a21","type":"text","text":"Kann vom hypervisor ausgeführt werden","x":32,"y":140,"width":367,"height":60},
+		{"id":"38a87d10b6574015","type":"text","text":"Legt eine Block Datenbank an","x":94,"y":80,"width":305,"height":60},
+		{"id":"64f07d18ba1cdb3f","type":"text","text":"Muuss im betriebssystem installiert werden","x":-26,"y":260,"width":425,"height":60},
+		{"id":"81ac873496b68d9b","type":"text","text":"Kann vom hypervisor ausgeführt werden","x":32,"y":140,"width":367,"height":60},
+		{"id":"380453909378134d","type":"text","text":"Muss im Betriebsystem installiert werden","x":-26,"y":260,"width":425,"height":60},
+		{"id":"6e0fbcd062cd92e8","type":"text","text":"Backup agent","x":-366,"y":80,"width":180,"height":60},
+		{"id":"de7f70cc1bb14351","type":"text","text":"Dedup","x":-366,"y":140,"width":120,"height":60},
+		{"id":"00334ae5a96ee64d","type":"text","text":"Snapshot","x":-366,"y":260,"width":140,"height":60},
+		{"id":"846a7bb482426925","type":"text","text":"Findet über das speichenertzwerk statt","x":14,"y":200,"width":385,"height":60},
+		{"id":"7e349a05f40ee6db","type":"text","text":"Legt eine Block Datenbank an","x":94,"y":80,"width":305,"height":60},
+		{"id":"54c59815bf3e206d","type":"text","text":"Findet über das speichenertzwerk statt","x":14,"y":200,"width":385,"height":60},
+		{"id":"c581b6551df48b50","type":"text","text":"Off host backup","x":-366,"y":200,"width":200,"height":60}
+	],
+	"edges":[
+		{"id":"9e22dce7721eadb9","fromNode":"00334ae5a96ee64d","fromSide":"right","toNode":"f2c90e466f637a21","toSide":"left"},
+		{"id":"5f1e9b9dc3c98f5c","fromNode":"c581b6551df48b50","fromSide":"right","toNode":"846a7bb482426925","toSide":"left"},
+		{"id":"9a5219161e1fd8ab","fromNode":"6e0fbcd062cd92e8","fromSide":"right","toNode":"64f07d18ba1cdb3f","toSide":"left"},
+		{"id":"fef9780f47b1c959","fromNode":"de7f70cc1bb14351","fromSide":"right","toNode":"38a87d10b6574015","toSide":"left"}
+	]
+}

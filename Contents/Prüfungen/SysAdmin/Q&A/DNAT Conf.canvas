@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"afb4eabc57792f11","type":"group","x":-145,"y":-50,"width":735,"height":280,"color":"6","label":"Frage 20"},
+		{"id":"9749271fb5ca1b35","type":"text","text":"Quell-IP","x":-125,"y":-30,"width":134,"height":60},
+		{"id":"e0d46f550729f6a1","type":"text","text":"Ziel-IP","x":-125,"y":30,"width":134,"height":60},
+		{"id":"ed37da7cf98fbc9d","type":"text","text":"Quellport","x":-125,"y":90,"width":145,"height":60},
+		{"id":"7923a3faaf496430","type":"text","text":"Zielport","x":-125,"y":150,"width":134,"height":60},
+		{"id":"fecd82a2754db077","type":"text","text":"High Port","x":320,"y":-30,"width":250,"height":60},
+		{"id":"1b4013f632a652aa","type":"text","text":"IP des sendenden Gerätes","x":299,"y":30,"width":271,"height":60},
+		{"id":"6c3b24ff356201a0","type":"text","text":"Port 25","x":450,"y":90,"width":120,"height":60},
+		{"id":"79656ebdd12dbf97","type":"text","text":"Interne IP des Mailservers","x":280,"y":150,"width":290,"height":60}
+	],
+	"edges":[]
+}

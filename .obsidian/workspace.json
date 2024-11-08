@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "0c6d05b966a450bb",
+        "id": "1935fa6b0373140b",
         "type": "tabs",
         "children": [
           {
-            "id": "419941a398325435",
+            "id": "a12181e1acbe4b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Better Cheatsheet"
+            }
+          },
+          {
+            "id": "ac2adad830065fa5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Contents/Prüfungen/SysAdmin/ Firewall & VPN/luga.local.canvas",
+                "file": "Contents/Prüfungen/SysAdmin/Q&A/DNAT Conf.canvas",
                 "viewState": {
-                  "x": 200,
-                  "y": -160,
-                  "zoom": -0.3018903416508176
+                  "x": 232.89911581221594,
+                  "y": 124.86276315789479,
+                  "zoom": -0.018859027251316038
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "luga.local"
+              "title": "DNAT Conf"
             }
           }
         ]
@@ -77,7 +91,7 @@
             }
           },
           {
-            "id": "a583e67ef76eb3d8",
+            "id": "8aaae0f43fd27a07",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -91,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "2876e1be8ed12764",
@@ -150,9 +165,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Better Cheatsheet"
             }
           }
         ],
@@ -173,18 +190,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a583e67ef76eb3d8",
+  "active": "a12181e1acbe4b0c",
   "lastOpenFiles": [
+    "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
+    "Contents/Prüfungen/SysAdmin/Q&A/Connect the right answers .canvas",
+    "Contents/Prüfungen/SysAdmin/Q&A/DNAT Conf.canvas",
+    "Contents/Prüfungen/SysAdmin/Q&A/Lösung DNAT Conf.canvas",
+    "DNAT Conf.canv.md",
+    "Contents/Prüfungen/SysAdmin/Q&A/Frage4 Lösung.canvas",
+    "Contents/Prüfungen/SysAdmin/Q&A/Demotest.md",
+    "Untitled.canvas",
+    "Contents/Prüfungen/SysAdmin/Q&A/cheatsheet.md",
+    "Contents/Prüfungen/SysAdmin/Active Directory/Untitled.md",
+    "Contents/Prüfungen/SysAdmin/Microsoft365/all.md",
+    "Contents/Prüfungen/SysAdmin/Q&A/Q&A.md",
+    "Contents/Prüfungen/SysAdmin/Q&A",
+    "Pasted image 20241030093235.png",
+    "Contents/Prüfungen/SysAdmin/Active Directory/Q&A.md",
+    "Contents/Active Directory (AD)/FSMO.md",
+    "Contents/Generell/Terminal Cheatsheet.md",
+    "Contents/Operating Systems (OS)/Windows/WMI.md",
+    "Contents/Operating Systems (OS)/Windows",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Untitled.canvas",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/luga.local.canvas",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Untitled.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Firewall-Funktionen.md",
-    "Contents/Prüfungen/SysAdmin/Active Directory/Untitled.md",
     "Contents/_attachments/web.svg",
     "Contents/Prüfungen/SysAdmin/Active Directory/stronsky.biz.canvas",
     "Contents/Prüfungen/SysAdmin/Active Directory/Active Directory.md",
     "Contents/Prüfungen/SysAdmin/Active Directory",
-    "Contents/Prüfungen/SysAdmin/Microsoft365/all.md",
     "Contents/Prüfungen/SysAdmin/Virtualisierung/Virtualisierung.md",
     "Contents/Prüfungen/SysAdmin/Virtualisierung",
     "Contents/_attachments/Pasted image 20241018150659.png",
@@ -195,7 +229,6 @@
     "Contents/_attachments/Pasted image 20241018155650.png",
     "Contents/_attachments/Pasted image 20241018155453.png",
     "Contents/_attachments/Pasted image 20241018155403.png",
-    "Contents/_attachments/Pasted image 20241018155337.png",
     "Contents/Prüfungen/SysAdmin/Microsoft365/.md",
     "Contents/Prüfungen/SysAdmin/Microsoft365/Microsoft365.md",
     "Contents/Prüfungen/SysAdmin/Microsoft365",
@@ -208,23 +241,11 @@
     "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.canvas",
     "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.md",
     "Contents/Linux/Aufgaben.md",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Marktüberblick und Hersteller.md",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/CIDR-Notation.md",
-    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/.md",
-    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN",
-    "Contents/Prüfungen/Netzwerk Admin/Fragen/FRAGEN.md",
-    "Contents/Monitoring/Monitoring.md",
-    "Contents/IP/Important IP-Addresses.md",
-    "Contents/IP/Öffentliche IP-Bereiche.md",
-    "Contents/Generell/Generell.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Tags",
     "README.md.new",
     "Contents/Green-IT",
-    "Untitled",
-    "Contents/Practice/Forest",
-    "Contents/Softwareverteilung"
+    "Untitled"
   ]
 }
