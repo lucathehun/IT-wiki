@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ded97099cf744f6d",
+        "id": "c5d52cf6bb7b5c30",
         "type": "tabs",
         "children": [
           {
-            "id": "f4a19ae58e4313e7",
+            "id": "dad7c5f1207a7998",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/Prüfungen/SysAdmin/Q&A/Demotest.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Demotest"
+              "title": "New tab"
             }
           }
         ]
@@ -74,7 +70,7 @@
             }
           },
           {
-            "id": "f3a6454201956313",
+            "id": "580b37549a497969",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,8 +79,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,21 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4a19ae58e4313e7",
+  "active": "dad7c5f1207a7998",
   "lastOpenFiles": [
+    "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
+    "Contents/Prüfungen/SysAdmin/Q&A/DNAT Conf.canvas",
+    "Contents/Prüfungen/SysAdmin/Q&A/Connect the right answers .canvas",
+    "Contents/Prüfungen/SysAdmin/Q&A/Demotest.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Marktüberblick und Hersteller.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Versuch einer Kategorisierung.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/luga.local.canvas",
     "Contents/Prüfungen/SysAdmin/Active Directory/Q&A.md",
     "Contents/_attachments/Pasted image 20241030093235.png",
     "Contents/Active Directory (AD)/AGULP.md",
-    "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
-    "Contents/Prüfungen/SysAdmin/Q&A/Connect the right answers .canvas",
-    "Contents/Prüfungen/SysAdmin/Q&A/DNAT Conf.canvas",
     "Contents/Prüfungen/SysAdmin/Q&A/Lösung DNAT Conf.canvas",
     "DNAT Conf.canv.md",
     "Contents/Prüfungen/SysAdmin/Q&A/Frage4 Lösung.canvas",
-    "Contents/Prüfungen/SysAdmin/Q&A/Demotest.md",
     "Untitled.canvas",
     "Contents/Prüfungen/SysAdmin/Q&A/cheatsheet.md",
     "Contents/Prüfungen/SysAdmin/Active Directory/Untitled.md",
@@ -224,7 +219,6 @@
     "Contents/Operating Systems (OS)/Operating Systems (OS).md",
     "Contents/Linux/Linux.md",
     "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.canvas",
-    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.md",
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN",
     "Untitled 1.canvas",
     "Tags",

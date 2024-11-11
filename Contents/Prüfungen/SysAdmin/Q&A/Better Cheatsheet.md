@@ -9,13 +9,13 @@ Kreuzen Sie die zutreffende Antwort an!
 
 - [ ] c. Sie bezeichnet, welche Datenänderungen durch das Anfertigen eines Backups gelöscht werden.
 
-- [x] d. Sie bezeichnet, welcher Zeitraum nicht durch ein Backup abgesichert ist, also verloren sein könnte.
+- [ ] d. Sie bezeichnet, welcher Zeitraum nicht durch ein Backup abgesichert ist, also verloren sein könnte.
 
 ### **Antwort**
+**d. Sie bezeichnet, welcher Zeitraum nicht durch ein Backup abgesichert ist, also verloren sein könnte.**
 
--  d: Sie bezeichnet, welcher Zeitraum nicht durch ein Backup abgesichert ist, also verloren sein könnte.
-
-- **Erklärung**: RPO beschreibt den maximalen Zeitraum, in dem Daten durch einen Ausfall verloren gehen können. Es definiert den Zeitpunkt, zu dem die Daten wiederhergestellt werden müssen, und gibt somit die Toleranzgrenze für Datenverluste an.
+**Definition of RPO**
+The Recovery Point Objective (RPO) indeed refers to the maximum acceptable amount of data loss, measured in time, due to an incident. In simpler terms, it indicates how much data can be lost before it significantly affects business operations. For example, an RPO of 24 hours means the backup can be up to a day old, so any data within that last 24 hours could be lost.
 
 ## 2. **Wiederherstellungsprozess**
 
@@ -24,19 +24,24 @@ Wiederherstellung? Kreuzen Sie die zwei zutreffenden Antworten an!
 
 - [ ] a. Wiederherstellung zuerst von einer inkrementellen Sicherung und danach von einer differentiellen Sicherung.
 
-- [x] b. Wiederherstellung zuerst von einer Vollsicherung und danach von allen inkrementellen Sicherungen in Reihenfolge.
+- [ ] b. Wiederherstellung zuerst von einer Vollsicherung und danach von allen inkrementellen Sicherungen in Reihenfolge.
 
 - [ ] c. Wiederherstellung zuerst von einer differentiellen Sicherung und danachvon allen inkrementellen Sicherungen in Reihenfolge.
 
-- [x] d. Wiederherstellung zuerst von einer Vollsicherung und danach von einer differentiellen Sicherung.
+- [ ] d. Wiederherstellung zuerst von einer Vollsicherung und danach von einer differentiellen Sicherung.
 
 ### **Antworte**
 
-- b: Wiederherstellung zuerst von einer Vollsicherung und danach von allen inkrementellen Sicherungen in Reihenfolge. 
+**Understanding Full, Incremental, and Differential Backups**
+- A **full backup** captures all selected data at the time of the backup.
+- An **incremental backup** only captures data that has changed since the last backup, regardless of type (full or incremental).
+- A **differential backup** captures all changes since the last full backup.
 
-- d: Wiederherstellung zuerst von einer Vollsicherung und danach von einer differentiellen Sicherung.
+**Process of Restoration**
+- **Option b:** Restoring from a full backup first, followed by all incremental backups, is correct. This method ensures that all changes are restored in the correct sequence, resulting in a fully up-to-date recovery.
+- **Option d:** Restoring from a full backup first and then a differential backup is also correct. Since a differential backup includes all changes since the last full backup, only one differential is needed (the latest one) after the full backup for a complete restoration.
 
-- **Erklärung**: Für eine vollständige Wiederherstellung ist es Standard, zunächst eine Vollsicherung und dann entweder alle inkrementellen oder die neueste differentielle Sicherung zu restaurieren, um Datenverluste zu minimieren.
+Both **b** and **d** are correct answers, as these are the two standard methods for full data recovery, depending on whether incremental or differential backups were used after the full backup.
 
 ## 3. **Deduplikation**
 
@@ -45,19 +50,20 @@ Kreuzen Sie die zwei richtigen Antworten an!
 
 - [ ] a. Deduplikation bedient sich eines Kompressionsverfahrens zur Reduktion der Erkennung bekannter Bitmuster.
 
-- [x] b. Deduplikation bedient sich einer Deduplikations-Datenbank zum Speichern bereits bekannter Datenblöcke.
+- [ ] b. Deduplikation bedient sich einer Deduplikations-Datenbank zum Speichern bereits bekannter Datenblöcke.
 
-- [x] c. Deduplikation verfügt über Verfahren zur Erkennung bereits bekannter Bitmuster in Blockdaten.
+- [ ] c. Deduplikation verfügt über Verfahren zur Erkennung bereits bekannter Bitmuster in Blockdaten.
 
 - [ ] d. Deduplikation verfügt über Verfahren zur Kompression von Einzeldateien in Dateisystemen.
 
 ### **Antworte** 
 
-- b: Deduplikation bedient sich einer Deduplikations-Datenbank zum Speichern bereits bekannter Datenblöcke.
+**Understanding Deduplication**
+Deduplication is a process used to eliminate duplicate copies of repeating data blocks to reduce storage usage. It works by identifying identical blocks and storing only one copy, while referencing it wherever duplicates appear.
 
-- c: Deduplikation verfügt über Verfahren zur Erkennung bereits bekannter Bitmuster in Blockdaten.
-
-- **Erklärung**: Deduplikation reduziert den Speicherbedarf, indem redundante Daten eliminiert werden. Typischerweise verwendet sie eine Datenbank für bekannte Datenblöcke und erkennt wiederholte Bitmuster.
+**Correctness of Selected Answers**
+- **Option b:** “Deduplication uses a deduplication database to store already known data blocks” is correct. Deduplication solutions often employ a database to keep track of blocks that have been previously stored, helping to avoid re-saving identical data.
+- **Option c:** “Deduplication has mechanisms for detecting already known bit patterns in block data” is also correct. Deduplication software scans for repeated bit patterns to reduce redundant storage.
 
 ## 4. **Technische Auswirkungen**
 
@@ -74,9 +80,9 @@ Ordnen Sie den folgenden Vorgängen und Technologien jeweils eine der technische
 Was sind zwei typische Gründe, warum man im Zuge der Wiederherstellung einer Sicherung das gesicherte Objekt (z.B. Datei, virtuelle Maschine) an einem anderen Ort wiederherstellt?
 Kreuzen Sie die zwei zutreffenden Antworten an!
 
-- [x] a. Am Produktivdatenspeicher steht nicht genügend Platz zur Verfügung, um ein vollständiges Überschreiben des aktuell vorliegenden Datenstands zu gewährleisten.
+- [ ] a. Am Produktivdatenspeicher steht nicht genügend Platz zur Verfügung, um ein vollständiges Überschreiben des aktuell vorliegenden Datenstands zu gewährleisten.
 
-- [x] b. Der Zweck der Wiederherstellung ist nicht die Korrektur einer Beschädigung am Produktivdatenstand, sondern die Erstellung eines Test-Objektes.
+- [ ] b. Der Zweck der Wiederherstellung ist nicht die Korrektur einer Beschädigung am Produktivdatenstand, sondern die Erstellung eines Test-Objektes.
 
 - [ ] c. Nach der Wiederherstellung soll, zum Beispiel zwecks Fehleranalyse, ein Vergleich zwischen urspünglich gesichertem und aktuell vorhandenem Datenstand erfolgen.
 
@@ -116,11 +122,11 @@ Was ist die wahrscheinlichste Ursache für Ihr Problem?
 
 - [ ] a. Sie müssen noch auf dem für pruefung.nk.lokal autoritativen Server die Stammhinweise löschen.
 
-- [ ] b. Sie müssen noch auf dem für nk.lokal autoritativen Server eine Delegierung für pruefung.nk.lokal eintragen. 
+- [x] b. Sie müssen noch auf dem für nk.lokal autoritativen Server eine Delegierung für pruefung.nk.lokal eintragen. 
 
 - [ ] c. Sie haben auf dem für nk.lokal autoritativen Server keine Delegierung für Stammhinweis-Weiterleitungsanfragen eingetragen.
 
-- [x] d. Sie haben auf dem für pruefung.nk.lokal autoritativen Server keine Weiterleitung für nk.lokal eingetragen.
+- [ ] d. Sie haben auf dem für pruefung.nk.lokal autoritativen Server keine Weiterleitung für nk.lokal eingetragen.
 
 ### **Antwort** 
 
@@ -152,9 +158,9 @@ Was ist die wahrscheinlichste Ursache?
 Sie trennen ein Netzwerksegment durch einen Router vom restlichen Netzwerk ab. Plötzlich können die Clients in diesem Netzwerk keine Adressen mehr über DHCP beziehen. 
 Wie lösen Sie das Problem? (Jede gewählte Antwort stellt einen Lösungsschritt dar!)
 
-- [ ] a. Sie installieren einen DHCP-Relay-Agent im neuen Netzwerksegment und konfigurieren diesen so, dass er Anfragen an den bestehenden DHCP-Server weiterleitet.
+- [x] a. Sie installieren einen DHCP-Relay-Agent im neuen Netzwerksegment und konfigurieren diesen so, dass er Anfragen an den bestehenden DHCP-Server weiterleitet.
 
-- [x] b. Sie konfigurieren einen Bereich auf Ihrem bestehenden DHCP-Server, der zu dem neuen Netzwerksegment passt.
+- [ ] b. Sie konfigurieren einen Bereich auf Ihrem bestehenden DHCP-Server, der zu dem neuen Netzwerksegment passt.
 
 - [x] c. Sie löschen alle Regeln, die Port 67 und 68 UDP auf dem Router blockieren.
 
@@ -209,11 +215,11 @@ Wie würden Sie den Begriff "globaler Katalog" definieren?
 Welche Vorteile erhalten Sie durch AD-gespeicherte Zonen?
 Wählen Sie drei Antworten!
 
-- [ ] a. Bei AD-integrierten Zonen können Sie "gesicherte dynamische Updates" aktivieren, wodurch eine unbeabsichtigte oder böswillige Übernahme eines Rechnernamens nicht mehr möglich ist. 
+- [x] a. Bei AD-integrierten Zonen können Sie "gesicherte dynamische Updates" aktivieren, wodurch eine unbeabsichtigte oder böswillige Übernahme eines Rechnernamens nicht mehr möglich ist. 
 
 - [x] b. Beim Setup des DNS-Servers auf einem DC werden die Zonen automatisch eingerichtet.
 
-- [x] c. Bei AD-Replikationsproblemen bleibt der DNS-Zonentransfer weiterhin funktionstüchtig.
+- [ ] c. Bei AD-Replikationsproblemen bleibt der DNS-Zonentransfer weiterhin funktionstüchtig.
 
 - [ ] d. Das Zonentransferintervall von 15 Minuten wird genau eingehalten.
 
@@ -238,9 +244,9 @@ Was tun Sie, um diese Anforderungen abzudecken?
 
 - [ ] b. Sie fügen der bestehenden Gesamtstruktur (Forest) eine neue Struktur (Tree) namens forschung.entwicklung hinzu.
 
-- [ ] c. Sie erstellen eine OU für Forschung und Entwicklung und erteilen dem Administrator der Abteilung Vollzugriff.
+- [x] c. Sie erstellen eine OU für Forschung und Entwicklung und erteilen dem Administrator der Abteilung Vollzugriff.
 
-- [x] d. Sie erstellen eine neue Subdomain namens FuE.unternehmen.intern.
+- [ ] d. Sie erstellen eine neue Subdomain namens FuE.unternehmen.intern.
 
 ### **Antwort**
 
@@ -253,9 +259,9 @@ Was tun Sie, um diese Anforderungen abzudecken?
 Sie möchten sicherstellen, dass der Fileserver-Administrator Dietmar (der nur über ein normales Benutzerkonto in der Domäne verfügt) die Mitglieder einiger Gruppen im AD verwalten darf. Sämtliche Gruppen sind in der OU "Fileserver-Zugriffsgruppen-DL" gespeichert. 
 Wie können Sie sicherstellen, dass der Administrator nur die Mitgliedschaft dieser Gruppen ändern darf?
 
-- [ ] a. Sie starten den Assistenten "Objektverwaltung zuweisen" auf der OU "Fileserver-Zugriffsgruppen-DL" und weisen Dietmar die Berechtigung "Erstellt, löscht und verwaltet Gruppen" zu.
+- [x] a. Sie starten den Assistenten "Objektverwaltung zuweisen" auf der OU "Fileserver-Zugriffsgruppen-DL" und weisen Dietmar die Berechtigung "Erstellt, löscht und verwaltet Gruppen" zu.
 
-- [x] b. Sie machen Dietmar zum Mitglied aller Gruppen, die er verwalten soll.
+- [ ] b. Sie machen Dietmar zum Mitglied aller Gruppen, die er verwalten soll.
 
 - [ ] c. Sie fügen Dietmar der Gruppe Domänen-Admins hinzu.
 
@@ -275,9 +281,9 @@ Wie können Sie erreichen, dass normale Benutzer der Domäne (d.h. Mitglied in d
 
 - [ ] b. Sie geben als Domänen-Administrator den Befehl net users /ALWAYSELEVATE ein, um das Anmeldeverhalten zu ändern.
 
-- [x] c. Sie erstellen ein Gruppenrichtlinienobjekt und binden es auf die OU mit der Workstation. Sie setzen "Benutzer automatisch zu Administratoren machen" unter Administrative Vorlagen / System / Benutzerverwaltung.
+- [ ] c. Sie erstellen ein Gruppenrichtlinienobjekt und binden es auf die OU mit der Workstation. Sie setzen "Benutzer automatisch zu Administratoren machen" unter Administrative Vorlagen / System / Benutzerverwaltung.
 
-- [ ] d. Sie fügen die Gruppe der Domänen-Benutzer der Maschinen-lokalen Gruppe der Administratoren hinzu.
+- [x] d. Sie fügen die Gruppe der Domänen-Benutzer der Maschinen-lokalen Gruppe der Administratoren hinzu.
 
 ### **Antwort**
 
@@ -293,9 +299,9 @@ Ihr Netzwerk besteht aus zwei Standorten und einer AD-Domäne. Benutzer verwende
 
 - [ ] b. Auf der OU mit den Computerkonten
 
-- [x] c. Auf der OU mit den Benutzerkonten
+- [ ] c. Auf der OU mit den Benutzerkonten
 
-- [ ] d. An dem Standort
+- [x] d. An dem Standort
 
 ### **Antwort**
 
@@ -390,9 +396,9 @@ Wie setzen Sie die Anforderung um?
 
 - [ ] b. Sie veröffentlichen den Webserver auf einer anderen IP-Adresse, z.B. 81.227.58.253 und unter Verwendung eines anderen Ports, z.B. 4343,tcp
 
-- [ ] c. Sie veröffentlichen den Webserver auf einer anderen IP-Adresse, z.B. 81.227.58.253 unter Verwendung des Ports 443,tcp
+- [x] c. Sie veröffentlichen den Webserver auf einer anderen IP-Adresse, z.B. 81.227.58.253 unter Verwendung des Ports 443,tcp
 
-- [x] d. Sie erstellen eine zusätzliche NAT-Regel, die eingehenden Verkehr auf 81.227.58.254:443 auf die interne IP-Adresse des Webservers umschreibt und stellen mit Hilfe Paketfilterregel sicher, dass der Verkehr durch den Paketfilter gelangt.
+- [ ] d. Sie erstellen eine zusätzliche NAT-Regel, die eingehenden Verkehr auf 81.227.58.254:443 auf die interne IP-Adresse des Webservers umschreibt und stellen mit Hilfe Paketfilterregel sicher, dass der Verkehr durch den Paketfilter gelangt.
 
 ### **Antwort**
 
@@ -477,7 +483,7 @@ Welche Aussagen bezüglich externer Freigaben von OneDrive sind korrekt?
 
 - [x] c. Standardmäßig dürfen Benutzer in OneDrive teilbare Links nur für bereits vorhandene externe Benutzer, die sich bereits im Verzeichnis Ihrer Organisation befinden, erstellen.
 
-- [ ] d. Die Einstellungen in OneDrive können restriktiver als in SharePoint sein.
+- [x] d. Die Einstellungen in OneDrive können restriktiver als in SharePoint sein.
 
 ### **Antwort**
 
@@ -559,7 +565,7 @@ Wählen Sie alle zutreffenden Antwortmöglichkeiten!
 Welche Berechtigungen sind erforderlich, um Azure AD Connect zu installieren und zu
 konfigurieren?
 
-- [ ] a. Globaler Administrator in Ihrem Office 365 Tenant
+- [x] a. Globaler Administrator in Ihrem Office 365 Tenant
 
 - [x] b. Domänen-Administrator des on-premise Active Directory
 
@@ -615,9 +621,9 @@ Welchen Gruppentyp erstellen Sie?
 
 - [ ] b. Verteilergruppe
 
-- [x] c. E-Mailaktivierte Sicherheitsgruppe
+- [ ] c. E-Mailaktivierte Sicherheitsgruppe
 
-- [ ] d. Dynamische Verteilergruppe
+- [x] d. Dynamische Verteilergruppe
 
 ### **Antwort**
 
@@ -654,7 +660,7 @@ Was passiert, wenn Sie einem Benutzer die Exchange Online Lizenz entziehen? Welc
 
 - [x] a. Das Postfach wird standardmäßig nach 30 Tagen gelöscht.
 
-- [ ] b. Ist das Beweissicherungsverfahren bzw. Office 365-Aufbewahrungsrichtlinien für das entsprechende Postfach aktiviert, kann das Postfach unbegrenzt lang aufbewahrt werden.
+- [x] b. Ist das Beweissicherungsverfahren bzw. Office 365-Aufbewahrungsrichtlinien für das entsprechende Postfach aktiviert, kann das Postfach unbegrenzt lang aufbewahrt werden.
 
 - [ ] c. Das Postfach wird standardmäßig sofort gelöscht.
 
@@ -674,9 +680,9 @@ Welche der genannten Gruppen erlauben das Steuern des Zugriffs (Berechtigungen) 
 
 - [ ] b. E-Mailaktivierte Sicherheitsgruppen
 
-- [x] c. Office 365 Gruppen
+- [ ] c. Office 365 Gruppen
 
-- [ ] d. Sicherheitsgruppen
+- [x] d. Sicherheitsgruppen
 
 ### **Antwort**
 
@@ -690,9 +696,9 @@ Welche Einstellungen im SharePoint Admin Center in Hinblick auf Freigaben außer
 
 - [ ] a. Freigabe außerhalb Ihrer Organisation nicht zulassen
 
-- [ ] b. Benutzern das Einladen und Freigeben für authentifizierte externe Benutzer gestatten
+- [x] b. Benutzern das Einladen und Freigeben für authentifizierte externe Benutzer gestatten
 
-- [x] c. Freigabe nur für externe Benutzer erlauben, die bereits im Verzeichnis Ihrer Organisation vorhanden sind
+- [ ] c. Freigabe nur für externe Benutzer erlauben, die bereits im Verzeichnis Ihrer Organisation vorhanden sind
 
 - [ ] d. Freigabe für authentifizierte externe Benutzer und Verwendung anonymer Zugriffslinks zulassen
 
@@ -818,13 +824,13 @@ Eines Nachts erhalten Sie die Meldung, dass nicht alle Dienste in Ihrem Unterneh
 Sie überprüfen auf Ihrem Hyper-V Server die virtuelle Maschine APP01. Als Sie die virtuelle Festplatte der VM betrachten, fällt Ihnen auf, dass diese die Endung avhdx trägt. 
 Welche Annahmen können Sie aus diesem Sachverhalt ableiten?
 
-- [x] a. Die Maschine läuft zurzeit von einem Snapshot (=Prüfpunkt). Das Löschen des Snapshots würde die Maschine auf den Zeitpunkt des Snapshots zurücksetzen.
+- [ ] a. Die Maschine läuft zurzeit von einem Snapshot (=Prüfpunkt). Das Löschen des Snapshots würde die Maschine auf den Zeitpunkt des Snapshots zurücksetzen.
 
 - [ ] b. Die Festplatte, die Sie gerade betrachten, ist mit dem IDE-Controller verbunden.
 
 - [ ] c. Die Festplatte, die Sie gerade betrachten, ist mit dem SCSI-Controller verbunden.
 
-- [ ] d. Die Maschine läuft zurzeit von einem Snapshot (=Prüfpunkt). Das Löschen des Snapshots hat keinen Einfluss auf den derzeitigen Zustand der VM.
+- [x] d. Die Maschine läuft zurzeit von einem Snapshot (=Prüfpunkt). Das Löschen des Snapshots hat keinen Einfluss auf den derzeitigen Zustand der VM.
 
 ### **Antwort**
 
@@ -860,9 +866,9 @@ Wie können Sie den Verkäufern so schnell wie möglich helfen?
 
 - [ ] b. Sie reparieren den Dateiserver unter der Verwendung der Funktion "Windows auffrischen", und geben den betroffenen Ordner erneut frei.
 
-- [ ] c. Sie binden auf dem Hyper-V Host die Datenplatte des abgeschalteten Fileservers ein, kopieren die notwendigen Dateien und stellen sie Ihrem Sales-Team zur Verfügung.
+- [x] c. Sie binden auf dem Hyper-V Host die Datenplatte des abgeschalteten Fileservers ein, kopieren die notwendigen Dateien und stellen sie Ihrem Sales-Team zur Verfügung.
 
-- [x] d. Sie spielen lediglich das Backup der Systemplatte zurück, dies sollte wesentlich schneller möglich sein, als den gesamten Fileserver zu wiederherzustellen.
+- [ ] d. Sie spielen lediglich das Backup der Systemplatte zurück, dies sollte wesentlich schneller möglich sein, als den gesamten Fileserver zu wiederherzustellen.
 
 ### **Antwort**
 
@@ -912,13 +918,13 @@ Was müssen sie dazu tun? Wählen Sie drei Antworten!
 
 - [ ] a. Sie stellen in der NIC-Failoverreihenfolge von vSwitch0 sicher, dass die mit dem LAN verbundene physikalische Karte auf aktiv, die mit dem VoIP-Switch verbundene Karte auf Standby gesetzt ist. Zusätzlich setzen Sie das Netwerk-Label der Standby-Karte auf VoIP.
 
-- [ ] b. Sie verbinden eine der freien Netzwerkkarten mit dem physikalischen VoIP-Switch und prüfen, welcher vmnic-Adapter nun zusätzlich als verbunden angezeigt wird.
+- [x] b. Sie verbinden eine der freien Netzwerkkarten mit dem physikalischen VoIP-Switch und prüfen, welcher vmnic-Adapter nun zusätzlich als verbunden angezeigt wird.
 
 - [ ] c. Sie konfigurieren für Ihre Telefonanlagen-VM zwei virtuelle NICs in VMNetwork und setzen das Label der zweiten Karte auf VoIP.
 
-- [ ] d. Sie fügen Ihrem vSwitch0 die zuvor identifizierte Netzwerkkarte als Uplink hinzu.
+- [x] d. Sie fügen Ihrem vSwitch0 die zuvor identifizierte Netzwerkkarte als Uplink hinzu.
 
-- [ ] e. Sie erstellen einen neuen vSwitch mit der zuvor identifizierten NIC als Uplink und einer Portgruppe, die Sie beispielsweise VoIP nennen. 
+- [x] e. Sie erstellen einen neuen vSwitch mit der zuvor identifizierten NIC als Uplink und einer Portgruppe, die Sie beispielsweise VoIP nennen. 
 
 ### **Antwort**
 

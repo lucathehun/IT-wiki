@@ -11,9 +11,9 @@
 		{"id":"79656ebdd12dbf97","type":"text","text":"Interne IP des Mailservers","x":280,"y":150,"width":290,"height":60}
 	],
 	"edges":[
-		{"id":"9e561fc1725e8995","fromNode":"9749271fb5ca1b35","fromSide":"right","toNode":"1b4013f632a652aa","toSide":"left"},
-		{"id":"6bb6cd5a0ca141b8","fromNode":"e0d46f550729f6a1","fromSide":"right","toNode":"79656ebdd12dbf97","toSide":"left"},
-		{"id":"18a2169c9325e16f","fromNode":"ed37da7cf98fbc9d","fromSide":"right","toNode":"fecd82a2754db077","toSide":"left"},
-		{"id":"ae7d61530e2ead89","fromNode":"7923a3faaf496430","fromSide":"right","toNode":"6c3b24ff356201a0","toSide":"left"}
+		{"id":"108ee27e18ea8590","fromNode":"9749271fb5ca1b35","fromSide":"right","toNode":"1b4013f632a652aa","toSide":"left"},
+		{"id":"e1275164de010363","fromNode":"e0d46f550729f6a1","fromSide":"right","toNode":"79656ebdd12dbf97","toSide":"left"},
+		{"id":"4805b063f20afe3c","fromNode":"ed37da7cf98fbc9d","fromSide":"right","toNode":"fecd82a2754db077","toSide":"left"},
+		{"id":"0449054b3491dbd3","fromNode":"7923a3faaf496430","fromSide":"right","toNode":"6c3b24ff356201a0","toSide":"left"}
 	]
 }
