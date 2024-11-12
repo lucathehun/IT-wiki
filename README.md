@@ -14,7 +14,7 @@ Thanks for checking it out, and I hope you find it useful!
 ## Use
 
 ``` bash
-git clone https://github.com/lucathehun/IT-wiki.git
+git clone https://github.com/grimcore/IT-wiki.git
 ```
 
 Open it with [obsidian](https://obsidian.md/download) and learn ☺️
