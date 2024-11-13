@@ -11,10 +11,14 @@
             "id": "dad7c5f1207a7998",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Better Cheatsheet"
             }
           }
         ]
@@ -70,7 +74,7 @@
             }
           },
           {
-            "id": "580b37549a497969",
+            "id": "1ae93846998611a3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "right": {
     "id": "2876e1be8ed12764",
