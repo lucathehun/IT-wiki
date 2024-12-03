@@ -9,7 +9,7 @@ Kreuzen Sie die zutreffende Antwort an!
 
 - [ ] c. Sie bezeichnet, welche Datenänderungen durch das Anfertigen eines Backups gelöscht werden.
 
-- [ ] d. Sie bezeichnet, welcher Zeitraum nicht durch ein Backup abgesichert ist, also verloren sein könnte.
+- [x] d. Sie bezeichnet, welcher Zeitraum nicht durch ein Backup abgesichert ist, also verloren sein könnte.
 
 ### **Antwort**
 **d. Sie bezeichnet, welcher Zeitraum nicht durch ein Backup abgesichert ist, also verloren sein könnte.**
@@ -24,11 +24,11 @@ Wiederherstellung? Kreuzen Sie die zwei zutreffenden Antworten an!
 
 - [ ] a. Wiederherstellung zuerst von einer inkrementellen Sicherung und danach von einer differentiellen Sicherung.
 
-- [ ] b. Wiederherstellung zuerst von einer Vollsicherung und danach von allen inkrementellen Sicherungen in Reihenfolge.
+- [x] b. Wiederherstellung zuerst von einer Vollsicherung und danach von allen inkrementellen Sicherungen in Reihenfolge.
 
 - [ ] c. Wiederherstellung zuerst von einer differentiellen Sicherung und danachvon allen inkrementellen Sicherungen in Reihenfolge.
 
-- [ ] d. Wiederherstellung zuerst von einer Vollsicherung und danach von einer differentiellen Sicherung.
+- [x] d. Wiederherstellung zuerst von einer Vollsicherung und danach von einer differentiellen Sicherung.
 
 ### **Antworte**
 
@@ -50,9 +50,9 @@ Kreuzen Sie die zwei richtigen Antworten an!
 
 - [ ] a. Deduplikation bedient sich eines Kompressionsverfahrens zur Reduktion der Erkennung bekannter Bitmuster.
 
-- [ ] b. Deduplikation bedient sich einer Deduplikations-Datenbank zum Speichern bereits bekannter Datenblöcke.
+- [x] b. Deduplikation bedient sich einer Deduplikations-Datenbank zum Speichern bereits bekannter Datenblöcke.
 
-- [ ] c. Deduplikation verfügt über Verfahren zur Erkennung bereits bekannter Bitmuster in Blockdaten.
+- [x] c. Deduplikation verfügt über Verfahren zur Erkennung bereits bekannter Bitmuster in Blockdaten.
 
 - [ ] d. Deduplikation verfügt über Verfahren zur Kompression von Einzeldateien in Dateisystemen.
 
@@ -82,9 +82,9 @@ Kreuzen Sie die zwei zutreffenden Antworten an!
 
 - [ ] a. Am Produktivdatenspeicher steht nicht genügend Platz zur Verfügung, um ein vollständiges Überschreiben des aktuell vorliegenden Datenstands zu gewährleisten.
 
-- [ ] b. Der Zweck der Wiederherstellung ist nicht die Korrektur einer Beschädigung am Produktivdatenstand, sondern die Erstellung eines Test-Objektes.
+- [x] b. Der Zweck der Wiederherstellung ist nicht die Korrektur einer Beschädigung am Produktivdatenstand, sondern die Erstellung eines Test-Objektes.
 
-- [ ] c. Nach der Wiederherstellung soll, zum Beispiel zwecks Fehleranalyse, ein Vergleich zwischen urspünglich gesichertem und aktuell vorhandenem Datenstand erfolgen.
+- [x] c. Nach der Wiederherstellung soll, zum Beispiel zwecks Fehleranalyse, ein Vergleich zwischen urspünglich gesichertem und aktuell vorhandenem Datenstand erfolgen.
 
 - [ ] d. Der Sicherungsdatensatz wurde bereits zum Zeitpunkt der Anfertigung beschädigt und darf daher nicht über den aktuellen Datenstand geschrieben werden.
 
@@ -105,9 +105,9 @@ Was ist die wahrscheinlichste Ursache für den Fehler?
 
 - [ ] b. Es wurde ein falscher DNS-Server angegeben.
 
-- [x] c. Die dynamischen Updates sind am DNS-Server für diese Zone nicht aktiviert.
+- [ ] c. Die dynamischen Updates sind am DNS-Server für diese Zone nicht aktiviert.
 
-- [ ] d. Das Domänensuffix des Rechners stimmt nicht mit dem Zonennamen überein.
+- [x] d. Das Domänensuffix des Rechners stimmt nicht mit dem Zonennamen überein.
 
 ### **Antwort**
 
@@ -141,9 +141,9 @@ Was ist die wahrscheinlichste Ursache?
 
 - [ ] a. Die Windows-Firewall verhindert das Abfragen von DNS-Informationen.
 
-- [ ] b. Der DNS-Client auf dem Server ist mit einer falschen Server-IP konfiguriert.
+- [x] b. Der DNS-Client auf dem Server ist mit einer falschen Server-IP konfiguriert.
 
-- [x] c. Der DNS-Dienst läuft nicht, obwohl sich die Zonen über die DNS-Konsole verändern lassen. 
+- [ ] c. Der DNS-Dienst läuft nicht, obwohl sich die Zonen über die DNS-Konsole verändern lassen. 
 
 - [ ] d. Auf einem DNS-Server selbst schlagen Abfragen nach Namen aus dessen Zone immer fehl.
 
@@ -160,9 +160,9 @@ Wie lösen Sie das Problem? (Jede gewählte Antwort stellt einen Lösungsschritt
 
 - [x] a. Sie installieren einen DHCP-Relay-Agent im neuen Netzwerksegment und konfigurieren diesen so, dass er Anfragen an den bestehenden DHCP-Server weiterleitet.
 
-- [ ] b. Sie konfigurieren einen Bereich auf Ihrem bestehenden DHCP-Server, der zu dem neuen Netzwerksegment passt.
+- [x] b. Sie konfigurieren einen Bereich auf Ihrem bestehenden DHCP-Server, der zu dem neuen Netzwerksegment passt.
 
-- [x] c. Sie löschen alle Regeln, die Port 67 und 68 UDP auf dem Router blockieren.
+- [ ] c. Sie löschen alle Regeln, die Port 67 und 68 UDP auf dem Router blockieren.
 
 - [ ] d. Sie konfigurieren Ihren DHCP-Bereich mit einer größeren Subnetzmaske.
 
@@ -244,9 +244,9 @@ Was tun Sie, um diese Anforderungen abzudecken?
 
 - [ ] b. Sie fügen der bestehenden Gesamtstruktur (Forest) eine neue Struktur (Tree) namens forschung.entwicklung hinzu.
 
-- [x] c. Sie erstellen eine OU für Forschung und Entwicklung und erteilen dem Administrator der Abteilung Vollzugriff.
+- [ ] c. Sie erstellen eine OU für Forschung und Entwicklung und erteilen dem Administrator der Abteilung Vollzugriff.
 
-- [ ] d. Sie erstellen eine neue Subdomain namens FuE.unternehmen.intern.
+- [x] d. Sie erstellen eine neue Subdomain namens FuE.unternehmen.intern.
 
 ### **Antwort**
 
@@ -477,11 +477,11 @@ Was ist die gängigste Technologie, um diese Anforderung umzusetzen?
 
 Welche Aussagen bezüglich externer Freigaben von OneDrive sind korrekt?
 
-- [x] a. Die Einstellungen in SharePoint können restriktiver als in OneDrive sein.
+- [ ] a. Die Einstellungen in SharePoint können restriktiver als in OneDrive sein.
 
-- [ ] b. Standardmäßig dürfen Benutzer in OneDrive teilbare Links erstellen, die keine Anmeldung erfordern.
+- [x] b. Standardmäßig dürfen Benutzer in OneDrive teilbare Links erstellen, die keine Anmeldung erfordern.
 
-- [x] c. Standardmäßig dürfen Benutzer in OneDrive teilbare Links nur für bereits vorhandene externe Benutzer, die sich bereits im Verzeichnis Ihrer Organisation befinden, erstellen.
+- [ ] c. Standardmäßig dürfen Benutzer in OneDrive teilbare Links nur für bereits vorhandene externe Benutzer, die sich bereits im Verzeichnis Ihrer Organisation befinden, erstellen.
 
 - [x] d. Die Einstellungen in OneDrive können restriktiver als in SharePoint sein.
 
@@ -498,13 +498,13 @@ Welche Aussagen bezüglich externer Freigaben von OneDrive sind korrekt?
 
 Sie löschen ein Microsoft Team, was passiert?
 
-- [x] a. Die Daten des Teams bleiben dauerhaft bestehen und müssen durch den Teambesitzer extra gelöscht werden
+- [ ] a. Die Daten des Teams bleiben dauerhaft bestehen und müssen durch den Teambesitzer extra gelöscht werden
 
 - [ ] b. Das Microsoft Team wird in eine Verteilerliste umgewandelt
 
-- [ ] c. Ein Team löschen entfernt den Teamkalender
+- [x] c. Ein Team löschen entfernt den Teamkalender
 
-- [ ] d. Ein Team löschen entfernt das Teampostfach
+- [x] d. Ein Team löschen entfernt das Teampostfach
 
 ### **Antwort**
 
@@ -567,11 +567,11 @@ konfigurieren?
 
 - [x] a. Globaler Administrator in Ihrem Office 365 Tenant
 
-- [x] b. Domänen-Administrator des on-premise Active Directory
+- [ ] b. Domänen-Administrator des on-premise Active Directory
 
-- [ ] c. Lokale Administratorrechte auf dem Computer
+- [x] c. Lokale Administratorrechte auf dem Computer
 
-- [ ] d. Organisationsadministrator des on-premise Active Directory
+- [x] d. Organisationsadministrator des on-premise Active Directory
 
 ### **Antwort**
 
@@ -680,7 +680,7 @@ Welche der genannten Gruppen erlauben das Steuern des Zugriffs (Berechtigungen) 
 
 - [ ] b. E-Mailaktivierte Sicherheitsgruppen
 
-- [ ] c. Office 365 Gruppen
+- [x] c. Office 365 Gruppen
 
 - [x] d. Sicherheitsgruppen
 
@@ -696,11 +696,11 @@ Welche Einstellungen im SharePoint Admin Center in Hinblick auf Freigaben außer
 
 - [ ] a. Freigabe außerhalb Ihrer Organisation nicht zulassen
 
-- [x] b. Benutzern das Einladen und Freigeben für authentifizierte externe Benutzer gestatten
+- [ ] b. Benutzern das Einladen und Freigeben für authentifizierte externe Benutzer gestatten
 
 - [ ] c. Freigabe nur für externe Benutzer erlauben, die bereits im Verzeichnis Ihrer Organisation vorhanden sind
 
-- [ ] d. Freigabe für authentifizierte externe Benutzer und Verwendung anonymer Zugriffslinks zulassen
+- [x] d. Freigabe für authentifizierte externe Benutzer und Verwendung anonymer Zugriffslinks zulassen
 
 ### **Antwort**
 

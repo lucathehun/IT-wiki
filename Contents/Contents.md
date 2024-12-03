@@ -14,6 +14,8 @@
 - **[[Powershell]]**
 - **[[Practice]]**
 - **[[Printer]]**
+- **[[Project]]**
+	- [[Stronsky-Teams]]
 - **[[Prüfungen]]**
 - **[[Softwareverteilung]]**
 - **[[Virtual Machines (VM)]]**

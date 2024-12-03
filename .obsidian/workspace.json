@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d52cf6bb7b5c30",
+        "id": "269a0fa71dc10bc9",
         "type": "tabs",
         "children": [
           {
-            "id": "dad7c5f1207a7998",
+            "id": "64f8912b04bfe438",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Better Cheatsheet"
+              "title": "New tab"
             }
           }
         ]
@@ -74,7 +70,7 @@
             }
           },
           {
-            "id": "1ae93846998611a3",
+            "id": "a163c354d1245b74",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,7 +79,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,9 +168,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad7c5f1207a7998",
+  "active": "64f8912b04bfe438",
   "lastOpenFiles": [
+    "Contents/Project/Stronsky-Teams.md",
+    "Contents/Project/Management/Projects.md",
+    "Contents/Project/Structure.canvas",
+    "Contents/Project/Management.md",
+    "Contents/Project/Management/Management.md",
+    "Contents/Project/Management",
+    "Contents/Project/Diagram.svg.xml",
+    "Contents/Project/Project.md",
+    "Contents/Project/stronghealth.svg",
+    "Contents/Project/stronghealth.drawio copy",
+    "Contents/Project/Diagram.svg",
+    "Contents/Project/Untitled.md",
+    "Contents/Project/Untitled Diagram.svg",
+    "Contents/Project/stronghealth.drawio",
     "Contents/Prüfungen/SysAdmin/Q&A/Better Cheatsheet.md",
+    "Contents/Prüfungen/SysAdmin/Virtualisierung/source.md",
+    "Contents/Project",
+    "Contents/Project.md",
+    "Contents/IP/Subnet Mask Calculation.md",
+    "Contents/IP/Subnet Mask.md",
     "Contents/Prüfungen/SysAdmin/Q&A/DNAT Conf.canvas",
     "Contents/Prüfungen/SysAdmin/Q&A/Connect the right answers .canvas",
     "Contents/Prüfungen/SysAdmin/Q&A/Demotest.md",
@@ -201,32 +217,14 @@
     "Contents/Prüfungen/SysAdmin/ Firewall & VPN/Firewall-Funktionen.md",
     "Contents/_attachments/web.svg",
     "Contents/Prüfungen/SysAdmin/Active Directory/stronsky.biz.canvas",
-    "Contents/Prüfungen/SysAdmin/Active Directory/Active Directory.md",
     "Contents/Prüfungen/SysAdmin/Active Directory",
-    "Contents/Prüfungen/SysAdmin/Virtualisierung/Virtualisierung.md",
     "Contents/Prüfungen/SysAdmin/Virtualisierung",
     "Contents/_attachments/Pasted image 20241018150659.png",
     "Contents/_attachments/Pasted image 20241018160007.png",
     "Contents/_attachments/Pasted image 20241018155752.png",
     "Contents/_attachments/Pasted image 20241018155748.png",
     "Contents/_attachments/Pasted image 20241018155700.png",
-    "Contents/_attachments/Pasted image 20241018155650.png",
-    "Contents/_attachments/Pasted image 20241018155453.png",
-    "Contents/_attachments/Pasted image 20241018155403.png",
-    "Contents/Prüfungen/SysAdmin/Microsoft365/.md",
-    "Contents/Prüfungen/SysAdmin/Microsoft365/Microsoft365.md",
     "Contents/Prüfungen/SysAdmin/Microsoft365",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN/ Firewall & VPN.md",
-    "Contents/Prüfungen/SysAdmin/SysAdmin.md",
-    "Contents/Prüfungen/Prüfungen.md",
-    "Contents/Operating Systems (OS)/Operating Systems (OS).md",
-    "Contents/Linux/Linux.md",
-    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.canvas",
-    "Contents/Prüfungen/SysAdmin/ Firewall & VPN",
-    "Untitled 1.canvas",
-    "Tags",
-    "README.md.new",
-    "Contents/Green-IT",
-    "Untitled"
+    "Contents/Prüfungen/SysAdmin/Internet Anbindung & Firewalls/Untitled.canvas"
   ]
 }
